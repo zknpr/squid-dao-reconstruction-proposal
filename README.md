@@ -6,6 +6,8 @@ This repository contains the governance proposal and supporting on-chain evidenc
 
 The proposal focuses on recovering **$83,817.33** owed by Samuel McCulloch, a former contributor who departed the DAO. His debt is spread across two wallets and represents 64.0% of total pool obligations.
 
+**[Read the full proposal](proposal/SDP-XX_Reconstruction_Proposal.md)**
+
 ## Key Facts
 
 | Metric | Value |
@@ -59,7 +61,8 @@ Samuel has 30 days to respond with:
 ```
 ├── README.md                    # This file
 ├── proposal/
-│   └── SDP-XX_Reconstruction_Proposal.docx  # Formal governance proposal
+│   ├── SDP-XX_Reconstruction_Proposal.md    # Governance proposal (readable on GitHub)
+│   └── SDP-XX_Reconstruction_Proposal.docx  # Governance proposal (downloadable)
 ├── data/
 │   ├── pool_data.json           # Raw on-chain data (Feb 25, 2026)
 │   └── extract_pool_data.js     # ethers.js extraction script
