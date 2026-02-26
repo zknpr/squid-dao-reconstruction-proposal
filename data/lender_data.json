@@ -1,0 +1,4409 @@
+{
+  "timestamp": "2026-02-25T13:42:14.958Z",
+  "vault": "0x5071ae9579db394f0a62e2fd3cefa6a1c434f61e",
+  "total_supply": "106198573.091136108260998704",
+  "price_per_share": "0.001234245287156704",
+  "holders": [
+    {
+      "address": "0xecD00B55dDCBcBf38EcA7ae5c2d0b7F97EEe0d8b",
+      "shares": "20620317.784005875619640661",
+      "crvusd_value": "25450.530044582822241874",
+      "pct_of_vault": "19.42",
+      "via_transfer": false
+    },
+    {
+      "address": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "13972969.068409298134562788",
+      "crvusd_value": "17246.071220270576954458",
+      "pct_of_vault": "13.16",
+      "via_transfer": false
+    },
+    {
+      "address": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "6244611.811186906310325669",
+      "crvusd_value": "7707.38269808052863889",
+      "pct_of_vault": "5.88",
+      "via_transfer": false
+    },
+    {
+      "address": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "632797.61570013339739701",
+      "crvusd_value": "781.027474901888768579",
+      "pct_of_vault": "0.60",
+      "via_transfer": false
+    },
+    {
+      "address": "0xb19d6B66b18FAE0FcA1023138B229e5F970b5180",
+      "shares": "468394.701026836730627408",
+      "crvusd_value": "578.113952271546618525",
+      "pct_of_vault": "0.44",
+      "via_transfer": false
+    },
+    {
+      "address": "0x8BaA45B36381FF1BD33E4d037672e02a287b7f0D",
+      "shares": "32993.756476228971575932",
+      "crvusd_value": "40.722388436381589315",
+      "pct_of_vault": "0.03",
+      "via_transfer": false
+    },
+    {
+      "address": "0xb82bE987cF6f25d0F040Ca4567e3dacb4b92Aa91",
+      "shares": "17344.877663110110849441",
+      "crvusd_value": "21.407833512003239787",
+      "pct_of_vault": "0.02",
+      "via_transfer": false
+    },
+    {
+      "address": "0x8fCC8bF64de304c53A9fC4C34925Bd72A6C934a0",
+      "shares": "8694.529738665900311396",
+      "crvusd_value": "10.731182353992196715",
+      "pct_of_vault": "0.01",
+      "via_transfer": false
+    },
+    {
+      "address": "0xd565D2740F2896523D43A2943Cd21A94E78Cdfc1",
+      "shares": "5473.406967245080224313",
+      "crvusd_value": "6.755526754012908406",
+      "pct_of_vault": "0.01",
+      "via_transfer": false
+    },
+    {
+      "address": "0x50263dD95A109f0c1681cBc5Ba8fcd0eB11c6AeC",
+      "shares": "3846.118444308156269835",
+      "crvusd_value": "4.747053563733815996",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x6C46f3F23eD4a070dA8D7C1Af302d09394EfB79f",
+      "shares": "95.773312880162264678",
+      "crvusd_value": "0.118207760057724732",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xb243B46A3b5B2D84af14A0dB72868a10572538C3",
+      "shares": "30.883724926014471388",
+      "crvusd_value": "0.038118091939777388",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xcF93088CCd85a6ce1602A34D3189924489CA867E",
+      "shares": "1.374285487090659104",
+      "crvusd_value": "0.001696205385649501",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "shares": "1.27853876481621059",
+      "crvusd_value": "0.001578030444921561",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "0.884697496928468976",
+      "crvusd_value": "0.001091933716143295",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xDb83B73314c87c015EE8B8Ac908cF0F197Cd9d98",
+      "shares": "0.789084453972372812",
+      "crvusd_value": "0.000973923768484022",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x79D6bdf29a0cefC62Fc40F29E3156E373261db09",
+      "shares": "0.334587533739525631",
+      "crvusd_value": "0.000412963086659394",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x9773c8f7a6D111fd5AbD65545aB0362E9382f729",
+      "shares": "0.274044526854631991",
+      "crvusd_value": "0.000338238165741418",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "0.17698305385457611",
+      "crvusd_value": "0.000218440500126611",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "0.106699187265710529",
+      "crvusd_value": "0.000131692969026153",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "0.086417478564042432",
+      "crvusd_value": "0.000106660365645634",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xC81fA91f8da4f2b07434BB4DFc205FaDbD1beb6E",
+      "shares": "0.048028951873894275",
+      "crvusd_value": "0.00005927950749743",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xd1db1b014513ffCC2a3B204A8483d9243D08b684",
+      "shares": "0.039431503701715989",
+      "crvusd_value": "0.000048668147609345",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "0.035585984061853945",
+      "crvusd_value": "0.000043921833117176",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "0.032518638216384417",
+      "crvusd_value": "0.000040135975963326",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x73ADa680F6487211c613f5a31cA0780152657BE9",
+      "shares": "0.026278001629987988",
+      "crvusd_value": "0.000032433499667708",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x8Ac286Ff7a2703Ee4BeD827450EA7a48b3353886",
+      "shares": "0.015721031160776824",
+      "crvusd_value": "0.000019403608619432",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x439494f5598f632c88C29d593f9Ee9948F7F4b31",
+      "shares": "0.01382190189667939",
+      "crvusd_value": "0.000017059617275518",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0xCA0073964efe7f9422CeB16901018b1DB0cC4785",
+      "shares": "0.012892741196451324",
+      "crvusd_value": "0.000015912805060251",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "0.007767954730514555",
+      "crvusd_value": "0.000009587561516984",
+      "pct_of_vault": "0.00",
+      "via_transfer": false
+    },
+    {
+      "address": "0x0Bd2980CDc585B489dFBfce6254a2EE6eD51Bccb",
+      "shares": "64190997.227095002118021303",
+      "crvusd_value": "79227.435805431061094897",
+      "pct_of_vault": "60.44",
+      "via_transfer": true
+    }
+  ],
+  "deposit_events": [
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "472749.750747162127335",
+      "block": 10161778,
+      "tx": "0xad604593b2877e7e621e0a1b4911d939996c00e470b262e7760ea655df85643b"
+    },
+    {
+      "depositor": "0x50Cb3c7B8EAC3b33D4f1e2CB245437C68d27b726",
+      "shares": "38587.870933926822329972",
+      "block": 11246372,
+      "tx": "0x2554931f7a488999bd4c8be7b1fba9e5b05a98d9bc4b38612925ecd8fcd08a2b"
+    },
+    {
+      "depositor": "0x52226Fc7A4b931b962427dA1be5734ED3A40Cc1f",
+      "shares": "2960.316644363038217911",
+      "block": 12467212,
+      "tx": "0x8877edb6f7dd2a352e5b3bfefcd3104991aa333881979c90649107caad0e70a8"
+    },
+    {
+      "depositor": "0x52226Fc7A4b931b962427dA1be5734ED3A40Cc1f",
+      "shares": "1970.406642693867594242",
+      "block": 12552867,
+      "tx": "0xf9bebb19ba0bd3e95d5d32c238fb938609d6b78e329c54eeebb28d00619992fe"
+    },
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "474022.427299881216480637",
+      "block": 14675938,
+      "tx": "0xe3fa9f608f85715741d8148fddd61e30828054e09e7b600d5a6c05464815ecbd"
+    },
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "9480.448545997624329612",
+      "block": 14696738,
+      "tx": "0xaa8e782c6f2bb6a79f327c870a80f3e89839a9eabecd6de6bf46a6ce97b8b219"
+    },
+    {
+      "depositor": "0x52226Fc7A4b931b962427dA1be5734ED3A40Cc1f",
+      "shares": "379.217941839904973184",
+      "block": 14755419,
+      "tx": "0xecdaa4d70b6d2ae8322b477f386b03c5dd3324c8a46d9307dc1d1910dbf8a905"
+    },
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "249464.067884380728456764",
+      "block": 16200050,
+      "tx": "0x28c3cbbfd2bfdcd7002b7f067da938b718908e0c8f7c594bc0213ae8ef42405a"
+    },
+    {
+      "depositor": "0xCC0b4fB77E21894120699E6d198ca611B082766d",
+      "shares": "948339.56033496963623119",
+      "block": 16963002,
+      "tx": "0x728dde1c125d8b16dc1c79a59d31a42e452a977b1d7501a1505ec456425f537a"
+    },
+    {
+      "depositor": "0xb53009E4dC25a494F3Bee03Ab121517e74b59F75",
+      "shares": "942541.798138610342654387",
+      "block": 17033611,
+      "tx": "0xafcc89125885053cb6270258ee3559540a8502ac59076fa01c267ab2d74cd951"
+    },
+    {
+      "depositor": "0xb53009E4dC25a494F3Bee03Ab121517e74b59F75",
+      "shares": "1884836.861413515457146496",
+      "block": 17035934,
+      "tx": "0x7ccbd32673a71d495b738b34e5febb5ed042b7f512b305e052e14b43abe80a1d"
+    },
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "191178.409497483589582407",
+      "block": 17076755,
+      "tx": "0x353589122601501346ee66e57812610a52d3d506556c875f49fcf31b69686bbf"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "946572.338530886091206266",
+      "block": 17115149,
+      "tx": "0x3d6e147f615273f1e75653a7d30f9f9f73c58a270fdbc2c5b12d4680c09192ce"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "511.552310367852624844",
+      "block": 17120829,
+      "tx": "0xf7ad9a6b7e21f5ddfbf39af7915370d5eb14c0625bfc8f33642ba5ecbd7e7177"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1042.209364863441761631",
+      "block": 17127372,
+      "tx": "0xbdb108988238edd613ac60856a5f3c309a7567dfb67a422abcd290dd9387e91a"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2929117.262216931211542756",
+      "block": 17178945,
+      "tx": "0x3bdd82402488889ad7569f063eaa6102ddef96597a2d7c96e329df03cbf67d05"
+    },
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "4836605.011999630407754481",
+      "block": 17362022,
+      "tx": "0x544c8e0b3423b465e1b72f59dc2e48cae5bd69c73ad0f0dcfc9426dec1437f2a"
+    },
+    {
+      "depositor": "0x869921f41Af38Fe397c8309d3D1885809508B723",
+      "shares": "152111.705833901886949355",
+      "block": 17383024,
+      "tx": "0x78e49036d34f924758f934ba8c4e738706e42c6ced46ba0f1e039b800d2ca974"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "1606611.436482024392167026",
+      "block": 17396662,
+      "tx": "0x900b72de9ddf04cfbd26493c9891615da468ef8ae692698209602341393f42ce"
+    },
+    {
+      "depositor": "0x94003c45A74Dbe132D45d15a0993CaeBf55aeb61",
+      "shares": "3752452.625377749653487535",
+      "block": 17420558,
+      "tx": "0xf9de5440c722b095321db3c78e9548727dbc7eca753f2cbf2eb020529f0c89d8"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "935.568003965587805889",
+      "block": 17436563,
+      "tx": "0x0a7bff7d41757c260c833d1ad9c243d49108bf61b2e00f3ab3eea3db409bc23d"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "354.790966259092054405",
+      "block": 17438752,
+      "tx": "0xdaed6a00e1fbef54737199a5844c2d1f42cb23ce1afdb15064d981b20229e9df"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "376507.895395868003449612",
+      "block": 17438845,
+      "tx": "0x3de1cd8bbea346cd245bd82965b4cb6bc44f71f6d1737b26f2322a03321e6015"
+    },
+    {
+      "depositor": "0xF4AE18D27e30Fd93e7E7DA8B8957277D7F8E23DE",
+      "shares": "944253.00941862019535078",
+      "block": 17450770,
+      "tx": "0x2fea20d51c338b240ca18501d7d25162460a14ab038f72b130a2bcc50eea482f"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "944324.313004916698055771",
+      "block": 17459374,
+      "tx": "0x28a50b13f8ccc6445fa89ef1f303e46164f153aea76ac97b68823a824d2f5ca8"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3136778.477859827421961543",
+      "block": 17468596,
+      "tx": "0xa9071f37af8b16b99cba8362a87c36695eeffd231199dee0d964a3d4dc14f8f9"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "19264324.181999984806566655",
+      "block": 17488705,
+      "tx": "0xee95b9b226b8667b36ef3aaae268dcaab357bda264eae4e55367be83085add3e"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1326.622322772708702568",
+      "block": 17506210,
+      "tx": "0x1cb461c10f823a665da81c6c6d3a52f6aeb0fa0acbf1d37e9757a6c973995c30"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "470474.358075351726463102",
+      "block": 17506334,
+      "tx": "0x41851d9e8e9d1b346f9631620343b39539f8ef139fb6420ec7893e0698aca04a"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1749.12957688275839322",
+      "block": 17529105,
+      "tx": "0xdce4175cdff2db8cc5a004c148c0730b01aa626017911cc12141ea69eab4a3e1"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "661719.327530512278844712",
+      "block": 17529226,
+      "tx": "0xd4a290c020821d020d964262f0081e7ab6bd008e413ca6fc31e6486b6316c131"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "939984.523401376888555632",
+      "block": 17529307,
+      "tx": "0x4d2dff58f85c83f7542c0e6baaf17d3d3f938eb7d90d9d585b2ae1f3694a44bd"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "21699.852780458354924481",
+      "block": 17529657,
+      "tx": "0x8d8539b1f8e95ec3bd632a0a78d5d5d2296d6591dde99d5322e308d1ee3bc849"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "370.57284734729578754",
+      "block": 17529807,
+      "tx": "0xf93972ab05b24d5cd2d988aa7a051318a74f7e6a86cf0678c2f2fa09fd6d5dde"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "835.933464489826914169",
+      "block": 17534042,
+      "tx": "0xcc5c7f88739e99659af9110f73fbbd79a516d8244acc50417a69a6cb0113d48e"
+    },
+    {
+      "depositor": "0xCA0073964efe7f9422CeB16901018b1DB0cC4785",
+      "shares": "471698.070949022100295741",
+      "block": 17534552,
+      "tx": "0xf04b35dc66675c9c73f057a4ae9a880ee4a3ec58de375807b455f0e36288c233"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1052.49531138596635352",
+      "block": 17535594,
+      "tx": "0xfd95a6b07f1162370cdcc90e9616eec24be44bd9363addb74995b43c55810fe6"
+    },
+    {
+      "depositor": "0x813F98977A00Ca98b453E3D963294BEF326C40dD",
+      "shares": "5258217.118545419711727623",
+      "block": 17535621,
+      "tx": "0xe3c8477983af32b55c374ba8dadcf312600dd16d22a0aae4fdcec42e43a26cfc"
+    },
+    {
+      "depositor": "0x9c2962b82AEF13E3502CCE7E3c1A3E1960c67717",
+      "shares": "94336.50813570729790175",
+      "block": 17537165,
+      "tx": "0xebc9999ffbcd1fa7b94bb2b5986a0b9f5370e7a518c8cf279e7262f3a798a942"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1607.633962612662960099",
+      "block": 17539468,
+      "tx": "0x7b64ca2ff86b609ddbcce577e2af13c586577b2278f842ebafd5dfa5d403468b"
+    },
+    {
+      "depositor": "0x52226Fc7A4b931b962427dA1be5734ED3A40Cc1f",
+      "shares": "49096.303104882206523463",
+      "block": 17539605,
+      "tx": "0x6b5ddc84eee3bae02d67a65fa22c5f187225c67ad6240a6535b845a4ab5f98d0"
+    },
+    {
+      "depositor": "0xb53009E4dC25a494F3Bee03Ab121517e74b59F75",
+      "shares": "7984007.156422280164256674",
+      "block": 17540404,
+      "tx": "0x2467d470a5f9383d064515a3c6c7a6a04d3c8bcd6cf366e637a0018bf6b08f52"
+    },
+    {
+      "depositor": "0x52226Fc7A4b931b962427dA1be5734ED3A40Cc1f",
+      "shares": "1743.172841032279911092",
+      "block": 17541372,
+      "tx": "0x3067d14939310c4551fd81187d24116cfbb845489e3f8c46ba08d574c702dd5e"
+    },
+    {
+      "depositor": "0x4563FC211AF56a7B31743e3f8731F76415c030A2",
+      "shares": "2194.353790641792682502",
+      "block": 17542049,
+      "tx": "0x4c9165d858f5d490420495334e85046352ec4c0dc01729ad6ae5e63947d8db46"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1092871.147192959247502089",
+      "block": 17543539,
+      "tx": "0xdbc694e47b3e2058fa385eb292ab4d6517ff378395db645ca9f5071701806df7"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "739.467231777864513308",
+      "block": 17543650,
+      "tx": "0xf32b6172180d65d4065c66b96fcc715544d40719776a5354145e4f991c629199"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "2003687.129414755855518859",
+      "block": 17545190,
+      "tx": "0x989e7028677f14999960819a81e0fa5cdb16316bc48bc0770233bd5fa8c569a8"
+    },
+    {
+      "depositor": "0x4563FC211AF56a7B31743e3f8731F76415c030A2",
+      "shares": "365292.974608599449552488",
+      "block": 17546014,
+      "tx": "0xe967557956c85b3a1e6295363467088a95e67de230b450f2d647eab4e37bcec9"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "574.081587216356173535",
+      "block": 17546683,
+      "tx": "0x38f75e8eace27fcd1c131861b59433eecc745649d1f4b29c6489bb0ea942de08"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1957.369467363136002835",
+      "block": 17550164,
+      "tx": "0x5d5e3a882937a0973d261d49aaa060468fa5267b682082da5ced461616c2a604"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "963375.912336755722026123",
+      "block": 17552354,
+      "tx": "0xac806d860ab816cb747aeb4eca5b3e49ef06c7d20ac90a5c708f8fef7922057a"
+    },
+    {
+      "depositor": "0x8238892095d3BAc5322894e84F349BCd52F843d5",
+      "shares": "3115684.973347216505029722",
+      "block": 17552531,
+      "tx": "0x0112c49772ea10efe32b33adea035a26954566b51aec8ab2003d21e33096080f"
+    },
+    {
+      "depositor": "0xB5B56FCdf374cdAB0cEAE4bB75844d2a6E59d4D7",
+      "shares": "541509.812532219990985962",
+      "block": 17560245,
+      "tx": "0xccf5ed0cb084c5250a4891fded44bcb998d13873a98a438a8085aebbe6ecfd40"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "4372915.303122220255572173",
+      "block": 17567270,
+      "tx": "0x85d2637ee6903df42ac27dcdfe3424a35556bbaea2b53f260e1302a22491dbdc"
+    },
+    {
+      "depositor": "0xfD8bD978f198503a0BA9C5D7f7586E23fC4A4b40",
+      "shares": "961152.032413370628747947",
+      "block": 17568228,
+      "tx": "0xe46dbcfcf4b137a9af8637e58cd96524240aba35287e9c2851f73bf2a338456f"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "2055.555876013229102269",
+      "block": 17572294,
+      "tx": "0x08b276988304de4909dbd32b5a982d915fc306c10475fce8558c8c674d18d29b"
+    },
+    {
+      "depositor": "0xA82c9ed42E7cea03Cfad4B03205E46d1a4a30998",
+      "shares": "213973.258789928168750181",
+      "block": 17576641,
+      "tx": "0xe8461511035b4818533b787c205b10e0b0643f0b4259dab554bbac3183f9282e"
+    },
+    {
+      "depositor": "0xA82c9ed42E7cea03Cfad4B03205E46d1a4a30998",
+      "shares": "940399.676563987217608461",
+      "block": 17577101,
+      "tx": "0xbbfdcdb262c9a126b081b6aa4c2f1a471fd6cc07aabc6fbdaaa866583ca69fb4"
+    },
+    {
+      "depositor": "0x9c2962b82AEF13E3502CCE7E3c1A3E1960c67717",
+      "shares": "94312.907381304080354824",
+      "block": 17578077,
+      "tx": "0x69f69b85043627cb4e3e9ef69a76229ec372bc8c5f125f990e0198d459dc6e5e"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "706374.993548465822346946",
+      "block": 17584627,
+      "tx": "0xfa9da4fe00c8582ab95049b935141ac3b0f28250cb6adc0ea630d063ee1ba139"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "4139.276186197120077394",
+      "block": 17587974,
+      "tx": "0x20a60154bb4887a687856966fa16d578c935c3fff0e81d85c20d104332bb1fd0"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1728.973396277762194646",
+      "block": 17596667,
+      "tx": "0xdba35787986e0e36df7fc8461120dc491fa35cb2785594c2363fac52b4d9f982"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "7334016.773489055077161891",
+      "block": 17599186,
+      "tx": "0x7dfa44a8523b2163d058e2b6f519f63e182c443e6daad5dc972a147e66ea252c"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "8863926.722628035735891281",
+      "block": 17600198,
+      "tx": "0x27721b63f5be5d1011217b74aec0e21febbce694dc9c8947c56fac16137fd627"
+    },
+    {
+      "depositor": "0x00481898361901F3E49bfE3e40872d09E93C2C11",
+      "shares": "22074387.17788190852490207",
+      "block": 17601366,
+      "tx": "0xb127341388cfbc5a52f6bfb743549eab83ef0e001c6bf099d8d5406d096b456c"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "107404.318131770640394475",
+      "block": 17602561,
+      "tx": "0x65df169d3f14dae0ff6bc632da94c0ba2b627224d176fdb2d6328ab13b5fe7a1"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "10533622.782098313082206353",
+      "block": 17604832,
+      "tx": "0x0a7b8c99b95beb93aabf6b14e8bc50972894ea90afc16d8c40dcb5c5f07016da"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2359530.802458511164940086",
+      "block": 17606710,
+      "tx": "0x41c7a74091debe5b41dc990b7dff0ee1729489771b622d1a178f557344ffeeb5"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2359192.028838140500211545",
+      "block": 17607229,
+      "tx": "0xd69a30cbf012090e9eec6d271b9ea4a22b8d06b7ff64e7769cf13b1d513ef38b"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "941715.674522963048653073",
+      "block": 17608163,
+      "tx": "0x560f9e925a90f2d85f3ddaeee27e1c3ab3d1b05102cf78d018f5de4de24c80d5"
+    },
+    {
+      "depositor": "0x8Ac286Ff7a2703Ee4BeD827450EA7a48b3353886",
+      "shares": "725857.564246983908550831",
+      "block": 17615356,
+      "tx": "0x4a2ded870e96701712e92b29c05964a6fdd1d68bae85db4f2cad5a2271165f3d"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1157.99589103869244761",
+      "block": 17616139,
+      "tx": "0x6eab612de1346388711c3e59661f5e37c7572254f0a35b06a632e645376bf36d"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "940712.624685188880112959",
+      "block": 17616861,
+      "tx": "0xf86134d6672722ae6ba9889d10237939237010e948731c9fbc648bd2ec49b162"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "586.959762572427736758",
+      "block": 17621125,
+      "tx": "0x45388e6009a1a9b69735066a944aac5edd3899649c3f3dc99ceb8492ebeb17cd"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1750.020292823399216857",
+      "block": 17624210,
+      "tx": "0x9dadf8340bc4b2af72a5af76e9076dc5033bdd4c5e0f6100f80179203c781f27"
+    },
+    {
+      "depositor": "0x707076fb70def4b49a4765A593E86cd65Cf2feF9",
+      "shares": "1122316.052764075964385682",
+      "block": 17625007,
+      "tx": "0x46a45dc181982579ec9f5b054b36976a6cbe2ae24c2ee57d6640ed79cf0f5dba"
+    },
+    {
+      "depositor": "0x707076fb70def4b49a4765A593E86cd65Cf2feF9",
+      "shares": "249896.239895851755746303",
+      "block": 17625709,
+      "tx": "0x32e9d9b880a6b10a1a6a84d6f655d0ae3bcb237e1591be6ef305e065a7a53361"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3991738.104891910968985594",
+      "block": 17625864,
+      "tx": "0xed7911bf984433747af18bdef8c7c841c4b1577e9a9c2faf595272ea0a122701"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "373292.837955754855307866",
+      "block": 17627932,
+      "tx": "0x922382e075ff4863be24ff7261b6bc2c5dc136e2c7fe64b107a84eb6a9bf5977"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1179.33074445543110368",
+      "block": 17629857,
+      "tx": "0x8c6efc0140feeb286becb70d52fccec9fc3d4e12a9b5d1b72c1bd2eb6c5cf2f9"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "705891.861653442109768301",
+      "block": 17631610,
+      "tx": "0x6e0845b4fd7868cd973d7dcd166ad7f57d86eeeeb2764a2f3d5c8fff8f9b23ff"
+    },
+    {
+      "depositor": "0x2539095dc372e2d4198e2d7CB3492145D2965f49",
+      "shares": "1434294.181069856942657217",
+      "block": 17636147,
+      "tx": "0x4566758e71a32308233793907171f0ef0461fe7a8ba0b58d7354530ae35352c5"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2095308.104304628803893904",
+      "block": 17647629,
+      "tx": "0x583addece5cef6fdf8738935bad1b7cc8ac4921d6c1d44961ff9702157403eef"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "4548.994094850495920859",
+      "block": 17651521,
+      "tx": "0x8fe5cfb85d147f95c8d097c2a800fa14fa36bc94c3f5ac8ce862a03e2115955b"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "46959.176035321112834442",
+      "block": 17653355,
+      "tx": "0xfacb7b6b7664765690e19d51b99b79b4b064f07e52f7741b2f251fdf998b3706"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "36631.227647156999235645",
+      "block": 17655222,
+      "tx": "0xb967c2a85cda48e96f596b68c325ebc218969d0ff4fa08757b1aa5c487e20cc6"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1076.439021395387783656",
+      "block": 17656203,
+      "tx": "0x0be14c0dbd5e8e12d0783322522caf9d45acb964b25670553c56fd427dbddee7"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "25855.08149985084511978",
+      "block": 17657190,
+      "tx": "0x67a3c6683d8fd0f98d84ac8b3559823c5ea7623ca5a3d2b1809ef4ec6edada90"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "956.091400535333928112",
+      "block": 17660999,
+      "tx": "0xfda7cab99d0e9c33ae7051e2492abc404802a0dcf4b593d1303e62e6f0f9ad22"
+    },
+    {
+      "depositor": "0x8Ac286Ff7a2703Ee4BeD827450EA7a48b3353886",
+      "shares": "234106.103195366734372646",
+      "block": 17664620,
+      "tx": "0x14e6eadf2718a49704ce7bd23e8b62eb17e4633c8a6b33cac66a0e9264f5154a"
+    },
+    {
+      "depositor": "0x4563FC211AF56a7B31743e3f8731F76415c030A2",
+      "shares": "528663.392734092350698045",
+      "block": 17671779,
+      "tx": "0x35fa481eeeb7d431529e30bedd28913a86aac17de5402883ba585056a091f138"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "2128.536461952993565987",
+      "block": 17671979,
+      "tx": "0x472917f94990a3e881a30b8ce17d4e6345cf4c8c39dd3c75a2a8e94b14c4dff8"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1404.717781553494239778",
+      "block": 17678112,
+      "tx": "0xffee8d400bbebfbf7482930b93ba9cfae2ec9c90a22561fcdad66412247322e9"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "1881494.002010925799479081",
+      "block": 17693266,
+      "tx": "0xbcc64e723751a9f55b7e13f4260f3df2bc0e0e560289328d3528ed1ca370a85b"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2241362.43787725590187089",
+      "block": 17695077,
+      "tx": "0x68e95890c3c56ba128da54e9ff9a6400244c1bf111141d048957260b97c98927"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "4419.772691207360553362",
+      "block": 17698654,
+      "tx": "0x99879353c3697e85f79be4b7cd1972b467c62cabec8b7cab70fcf0f47ed9f8f1"
+    },
+    {
+      "depositor": "0xCC0b4fB77E21894120699E6d198ca611B082766d",
+      "shares": "497286.058127715676507076",
+      "block": 17703246,
+      "tx": "0x0b2621a013c8ade6207e1a76646c739761d58e2dec9db1443e9ed10a41997d65"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1281.129720052890116521",
+      "block": 17704817,
+      "tx": "0xdadfd44d83d2eb20b24b5135329d0ccf1e98abc41d7a1bcb8f807917d23ee987"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "4734232.8701757516914828",
+      "block": 17706393,
+      "tx": "0xbac4e4a3f13d0ab44949c4e1e1e370ca1be50f62c0aaef39aafe5c32d03bbdc0"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "593.968003107862528463",
+      "block": 17706492,
+      "tx": "0xe0a955d503f46f7a113f50cfa2018042021fd48a9a57c305fb4357cc5f0155a1"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "3908.298357330526611272",
+      "block": 17713508,
+      "tx": "0xbaa16948df72d657b87057e18224dcc79735fc309d4fc2cb7d9451bee43d2082"
+    },
+    {
+      "depositor": "0xb82bE987cF6f25d0F040Ca4567e3dacb4b92Aa91",
+      "shares": "47104.82110849421694239",
+      "block": 17718843,
+      "tx": "0x2ab88a7ed9ea9db20444aa702c260e263b198432fdc849f345f46204e35886b7"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1163.37217200778124007",
+      "block": 17724782,
+      "tx": "0x552192ea5860d19c5a72fc806423fc92b723520f336d12cfbcd1f500063502ef"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "239926.610559539015313735",
+      "block": 17726980,
+      "tx": "0xc41e94f9b663b83eb63fae7f88bfd33425edf0b4016066592112ca72f47eb10d"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "869357.648836305090751735",
+      "block": 17733444,
+      "tx": "0x429e9d6fe24f023e10a2ae0ef9f386f10de70cc7a0bfd203d073ea08965c3d8e"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "2289.994782823757604189",
+      "block": 17735827,
+      "tx": "0x046520f138bb35177aba79f1ebb600ce8f89bf6756410bbf99e3c04fb6981a91"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1790.340318641270027501",
+      "block": 17744597,
+      "tx": "0xd86edd70bf66d574eba21a808de38f5cb0b7463bf30e80c4dd47e85ff849204b"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "286.172203000310759434",
+      "block": 17751257,
+      "tx": "0xca51c03a0372da1b9ac75812fd6f46283f74ee341e1f7169ce85539bf9f36257"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1655.616809319029449763",
+      "block": 17752863,
+      "tx": "0x912e0674f76da5330a454bced44abb00623569d182778d004ef1aa8084e550e0"
+    },
+    {
+      "depositor": "0xfaF751c3602d004e0D03BAA9e1839B5DfBde52EF",
+      "shares": "366327.902837535311652761",
+      "block": 17758501,
+      "tx": "0xd8944aa459c94cd2a2039908afac308c4526b597409c2530ecae5dc88d9ed2ab"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1557.445440240906419777",
+      "block": 17758875,
+      "tx": "0x58b25dd27c46cac79587066ca8e706d51c3361c4d40d1b01e4cee808c9d87905"
+    },
+    {
+      "depositor": "0xfaF751c3602d004e0D03BAA9e1839B5DfBde52EF",
+      "shares": "1408875.960329854029820071",
+      "block": 17759890,
+      "tx": "0xc31d30fe982a04f659d005b92810217da205bcc7e996c67a489848ffa8074efd"
+    },
+    {
+      "depositor": "0x68433E461dF3f7FC5D73E914F7a404a205a221F6",
+      "shares": "805455.509337362351847545",
+      "block": 17760568,
+      "tx": "0xdaae0809c3dc2b0f26ef4a840c544aa543452304f8deca3220143af5defbea6c"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "1295.396078677098605213",
+      "block": 17775088,
+      "tx": "0x2441b64641d85e6a7bc901a6a26a6b185230052af8efce48c2c5582804a1eae9"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "3936.163574791543612199",
+      "block": 17780638,
+      "tx": "0x8ae215912ef54fd2351cea6db8923bb5a7e54d1e21382c79b411ec97d8a0022f"
+    },
+    {
+      "depositor": "0xa3D7b9f6614903040372dB1d8b221a717e4F026a",
+      "shares": "1649851.02739546036168901",
+      "block": 17783491,
+      "tx": "0x70c3e5c96d2e814bfd5643c2e6696b4566b6a5b7235c9bccb72bfe1c45011fe0"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "281731.885026332226734619",
+      "block": 17783669,
+      "tx": "0x3b470354345d7020b720c3d0bd7c646a21370261ce7c2416176916db49fae798"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "92913.849235617857143688",
+      "block": 17784557,
+      "tx": "0x878beb8e55baabbb58e7b2c693c87ea9c1419f9488143c3628ca2527a42ea5cf"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3037895.691454991638220794",
+      "block": 17786687,
+      "tx": "0xa81f680e40c9898f66d1162c83583fd29e3313e5c1537ae0f6e8bca250ebdc95"
+    },
+    {
+      "depositor": "0x4422f783229bc33FDE3E4bf09496ba717d52c9cF",
+      "shares": "1413395.58820066708355044",
+      "block": 17796443,
+      "tx": "0x4bb8c89f91bfa6de648fb47741df09effbb52458bcd414dc2c1bd09360e7fdd6"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "704387.004164708447942125",
+      "block": 17799880,
+      "tx": "0xeb62bac7cbf36fe5205b680336187c41902f700f52fdef98a35792e7fe84a878"
+    },
+    {
+      "depositor": "0x3af4A49C8E2FcaF33Fd3389543B80D320FCC9091",
+      "shares": "38448803.633647418569501763",
+      "block": 17803527,
+      "tx": "0x0a7b3648d85c0d97cb026e609c1c46490c349b5ccb1836b8c14a89b9312773d1"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2094988.604814921297769516",
+      "block": 17815294,
+      "tx": "0x7458403a04cd83795bfdce42219cc761d26653428378050a02a7eebd7ba20aee"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "63723.823012377603049839",
+      "block": 17824750,
+      "tx": "0x4fbecfb4f8ff834904a56a31fc247133711791b9c499ba06a85773ac39e0c37c"
+    },
+    {
+      "depositor": "0xC3493323a9251Ca4c773D715Dd5E96A05D6b03Bd",
+      "shares": "743722.36569421751383213",
+      "block": 17828172,
+      "tx": "0x3208f85fe1e380b69880a9ededf05d34c5deb621040c9a846135c72c2cdde279"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "3165691.421283427665551698",
+      "block": 17833662,
+      "tx": "0xe3cfd06c317dad35ecbb8414cfbb3671a2a37585232d0d73d59539b014aa98cf"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "2189237.133043419971296222",
+      "block": 17836677,
+      "tx": "0xb6a711e2320161816d29bba9a213cf2074895d8932711df1b032b48cd637c51d"
+    },
+    {
+      "depositor": "0xb53009E4dC25a494F3Bee03Ab121517e74b59F75",
+      "shares": "10811345.910478849152268279",
+      "block": 17842492,
+      "tx": "0xdaa256562326552eccb83659b940d9413a225ee161f776d030f191c1a909362a"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "1584076.667803870986540553",
+      "block": 17849076,
+      "tx": "0xa91f661d63c85bef77877485fa8b4ca74f36ac38f056def18e1e487c2185c527"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "979803.475055286211322516",
+      "block": 17857580,
+      "tx": "0x25745bc1a7e5fd47ede16e6ecc4347535475b9574e2b9f697784c396f904794a"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "10550971.214673655899960626",
+      "block": 17857920,
+      "tx": "0x52aed0a40f9a31b49068789bf21053180e06b30018cd1b0d4914f676094f2733"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "4709053.204141352135073398",
+      "block": 17858120,
+      "tx": "0xf8d1ba182b38cf818a384f6aac265d9dd9e19f332774d195a3a91926377be2a4"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "219.329125281371278901",
+      "block": 17862493,
+      "tx": "0xe90f16e73edf3009f45b5d20647497e1ce38b157f63127615cf0dbd6cbec5724"
+    },
+    {
+      "depositor": "0x8ba2a13e72Fa2d1c6c389Eca61aa4A80C70005d0",
+      "shares": "2594833.866238959634043551",
+      "block": 17862709,
+      "tx": "0x1a4f73255f5353dc12b63640eb8cfc73c1ce2eec0e4d6d4f89c860203517d720"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1979.099870695860635991",
+      "block": 17869144,
+      "tx": "0x1cc9d9c8e3f32deffbb9f69b1979b606c5308f326fc9ad69ea26a3035b9e155e"
+    },
+    {
+      "depositor": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "shares": "19313104.554882340136133429",
+      "block": 17874433,
+      "tx": "0xd92b79f1a7a66eb0f7532af303e3af34c1f660d586d7f727c3b4108f654828df"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "4696908.198649367934948638",
+      "block": 17876362,
+      "tx": "0x322942b9e67efce9f7e8113a5e5593cf65cb9ba1071c81c51da5f4afcdb84721"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "4696907.747415574308516742",
+      "block": 17876892,
+      "tx": "0xfabf4b8df4ef82c47e4ffb988f5dc9292ca1f930c51089311408ae0bd0b71e1e"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "103634.558248188410424256",
+      "block": 17883461,
+      "tx": "0xcfae6fa81f0010553c2fa7b42a14e10d1adc2041d5e84385f2ac3f0745e5145e"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "49628.176715294946927386",
+      "block": 17891314,
+      "tx": "0xb731a00e5f1f8e3f67feec909055780f2c6ba2b79f4c16cd30c63c9ad429f1c0"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "35006.504197110163163017",
+      "block": 17901253,
+      "tx": "0x49bd1ffd0b29a47e040eda0e10f159e6e2ed3d5f4632bf1031d57613cdd48cc1"
+    },
+    {
+      "depositor": "0x8BaA45B36381FF1BD33E4d037672e02a287b7f0D",
+      "shares": "32997.304217584764427419",
+      "block": 17904858,
+      "tx": "0xa7e11ce7c280a4e9bde8a5050b19ddd76d751c0a951f75efd532e25e8cee4505"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "658277.48935093242932946",
+      "block": 17906826,
+      "tx": "0xd153603bbb47efde855679f6d2688558b26a931a71261d8df2de7e371eb5efaa"
+    },
+    {
+      "depositor": "0xD7d66b06FC236fC22D3a73E62C1F70A21e959A11",
+      "shares": "2873425.073306803359712754",
+      "block": 17910907,
+      "tx": "0xe151653890d9150ab4079960bcafe8e5d63910c52b7939e7bf07821b8ad97030"
+    },
+    {
+      "depositor": "0xF4AE18D27e30Fd93e7E7DA8B8957277D7F8E23DE",
+      "shares": "74002.658863127992814501",
+      "block": 17914478,
+      "tx": "0x3dd3fb7d7c9059d39305e399c1f987c2a7e908bda3ad0461368812c42ba07abc"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "47100.760873166520654868",
+      "block": 17928909,
+      "tx": "0xaf8a9449823e13b52399a9531719dd2fd22ebb5ad7931285145b7be7e9023c45"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "4713816.906351803711453502",
+      "block": 17934691,
+      "tx": "0x603cedd75890974635a32d6bed1b3ec1f5b09a9880bdfaa11c4a9627be4400cb"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "471379.656108415879728144",
+      "block": 17942268,
+      "tx": "0xab314422384b3ceebab7cc43a2f6dc6530fd07b0580502b9c911f69a34d364b0"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "28249.427730358550251644",
+      "block": 17942820,
+      "tx": "0xbbfa86e54eb21c6cc12f725de5c15e1c1c367c7be6e47b736ea6c839be0ded99"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "18812.010116863968617494",
+      "block": 17958805,
+      "tx": "0x53b37cd1c36664f9ce748d8cea485bc7ef296989bc743d70e392ea4c8be2834b"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "103453.081409521074446017",
+      "block": 17961655,
+      "tx": "0x275f8312c7d2feb473a138bf89e7b2512b23919089183eefa08d8737a6d17060"
+    },
+    {
+      "depositor": "0x9c2962b82AEF13E3502CCE7E3c1A3E1960c67717",
+      "shares": "471373.390689016871691072",
+      "block": 17965556,
+      "tx": "0x1cfa72ce57f4d693aa5fa8e786784f5f0d0b3004f085d66f14b417c1ce1104fd"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "612782.421280388483144304",
+      "block": 17973878,
+      "tx": "0xc591651bf5b350aa6300e34919b7ea6499b6d9e631e33f7e9c131021dac13d4d"
+    },
+    {
+      "depositor": "0x66B0d6cD3A7704baEeB42A78122311949ac3B743",
+      "shares": "7540359.124977174477672413",
+      "block": 17980307,
+      "tx": "0xd3485e9a6657d7d6705f9863f1d17b5a61123774069f94fb25a1f77ed02f5803"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "28339.125935044259055741",
+      "block": 17989680,
+      "tx": "0x9b0405b5e944f1a100852a605ab3965b2d1a35d2e6071e50a07436031ec816af"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "113246.388675023976770798",
+      "block": 17998199,
+      "tx": "0x9b6465c2254e71f17f6ce3afc9c092291ffcd58d044f0918ca48b0a535bb2ed7"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "518.080789890881093332",
+      "block": 18001917,
+      "tx": "0xd6c9b38c5ed0100b918ca7cb041b240893918f888dc6b94e20ba1d71bbf0aec6"
+    },
+    {
+      "depositor": "0xCC0b4fB77E21894120699E6d198ca611B082766d",
+      "shares": "2828171.731179064264758526",
+      "block": 18001986,
+      "tx": "0x4ae4005a056e0f26b3042dff7ca924943de8547969a881a8c5ec8fa71154a826"
+    },
+    {
+      "depositor": "0xCC0b4fB77E21894120699E6d198ca611B082766d",
+      "shares": "469820.992384172577512082",
+      "block": 18003376,
+      "tx": "0x55c004dd10a28f7041e49281fcde4491fa526517b405f6eb54f526672016bcac"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "19967883.619343804818938596",
+      "block": 18004855,
+      "tx": "0xdc8b6e4282b95c9b4650a922491b06d5be4f535554f107565efa63c2b45f0ec3"
+    },
+    {
+      "depositor": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "shares": "14157682.614099934821125304",
+      "block": 18006182,
+      "tx": "0x05aaa8e58e71a8d91f4cd14999e79424e3bd8c28f716a89aa84bc1748005c6f3"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "1946.13737185888988975",
+      "block": 18007087,
+      "tx": "0x6c3cedc413763a2a425fb9abb2547dff649f973e16585fe924f04807da5f814d"
+    },
+    {
+      "depositor": "0x342B7E6b9b2b4BDd25C21C27c689D8B654102C32",
+      "shares": "9462772.975571362373326453",
+      "block": 18022554,
+      "tx": "0x0dd20f58121dd9d9cc8f59da4e5da4e39b5e4aba17e22a6e6c28a9a0b1f22072"
+    },
+    {
+      "depositor": "0x4dE13567b247D1B16902B2070e2aA30955A7AB1D",
+      "shares": "9427618.502687796839032035",
+      "block": 18022899,
+      "tx": "0x89e6ddc6c1aa61cd4347c77ed8462531c7a1ba22c7550f3715be100ce3f2b8e4"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "29094.159229476569424192",
+      "block": 18029641,
+      "tx": "0xacf819e2de8a362ed3e31e2e9c4899fab2926ae1d76adeb8c14fc8e448c578a2"
+    },
+    {
+      "depositor": "0xCD24f0b1425C17D8440E68122a1aE20ebD77a999",
+      "shares": "1199594.114473741825344743",
+      "block": 18036531,
+      "tx": "0x615889c5f529623b5675f355e0d0f850f540a44dfd59118bbcd84b5208c247b1"
+    },
+    {
+      "depositor": "0x27cd74F0F7B19C4754fef00E40106e392A1b43eA",
+      "shares": "981528.073523316312967845",
+      "block": 18037284,
+      "tx": "0xddf8a98492c0d4e26b7cfcac79105c74471b3a1f8a1e3339df8a5c6c5ac8c70a"
+    },
+    {
+      "depositor": "0xc086F6fB5266b22ea391DC8a0361A3140dBDa718",
+      "shares": "1047661.462359997124553476",
+      "block": 18037688,
+      "tx": "0x2e535466302d526bcc31be44e83d0666ed75e840a4772a29f0e834f724f3b4ec"
+    },
+    {
+      "depositor": "0x4dE13567b247D1B16902B2070e2aA30955A7AB1D",
+      "shares": "13949304.814670125454816001",
+      "block": 18042051,
+      "tx": "0xb316daf4584b26dc50dfe3e5a5867d9b074ce419aa62c4d67ccb925d93bc12cb"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "201.163809799868633206",
+      "block": 18073396,
+      "tx": "0x292b21e16b6ce4358e4326529a4390d4b5b8ac1678f93d145812bbedd6dd15df"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2094679.422260734610543818",
+      "block": 18075478,
+      "tx": "0x150bba6a56aa40aa6058e4746b71412ce6230a8bd6920616698248e1061fe615"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "28943.950808550576537181",
+      "block": 18076204,
+      "tx": "0xeaf2fa573da43fb3aaf59db7e40329139e26e74364f0dbd98307940924934edb"
+    },
+    {
+      "depositor": "0x8238892095d3BAc5322894e84F349BCd52F843d5",
+      "shares": "22332.274208911531378338",
+      "block": 18083100,
+      "tx": "0x458f997e2ae359408ebfa1842e2bfd78e7f4dd67fabe9b43e1e8532ba338834a"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "135366.936430972955916412",
+      "block": 18084544,
+      "tx": "0x59b5be313b286379ca687c7ae97f9e1fce1c7a49a576824401ed1d556c6ef4a7"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "6380836.689736930268099601",
+      "block": 18090657,
+      "tx": "0x0399bc24b866cf0f7069df9fc6f2241b656771cbfafdb7b56274095c5b5b6c44"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3236269.016453028225993491",
+      "block": 18090937,
+      "tx": "0xeed04a6fa32c6c637d14f2b56a8ca1b5d33b3bb8638499f94b053e80a03c3caf"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "27468092.430594787780381698",
+      "block": 18092505,
+      "tx": "0x7df25f3d1a66773629a516b569906e3a2a0992f3e8359f8440fb28986c7854ac"
+    },
+    {
+      "depositor": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "shares": "18849693.31281446966955379",
+      "block": 18095491,
+      "tx": "0xd07cb4a94bd21b6276e11789b48e437da17ab08777528049a9491336cb959d11"
+    },
+    {
+      "depositor": "0x68433E461dF3f7FC5D73E914F7a404a205a221F6",
+      "shares": "565864.962729361864670987",
+      "block": 18102896,
+      "tx": "0xf75963bbb77bae6e71baebfbab3b65dad309dfb5783bcfe99eb6d27d6e890307"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "1122735.97773593792997989",
+      "block": 18117627,
+      "tx": "0x8465874464f5ab1a9463db5fcfe6c8e9293bd0b3c508efd1a5375f23db501029"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "4596.627170305300641635",
+      "block": 18126962,
+      "tx": "0xf2592f89f95200b83619fbf528a4178f8153d5b608ee397581932c88781d11e3"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "282802.879597820363640744",
+      "block": 18131648,
+      "tx": "0x29983e5b262b3ffb2e26953851637a9a484640854ad613cd4409dcc904c6825f"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "521411.835698364881069856",
+      "block": 18135756,
+      "tx": "0x833de07fd89c5a57bffceba529068d3036b1599befed341e171cf9985c2d807a"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "4713844.529972115812435524",
+      "block": 18137375,
+      "tx": "0xcea41b25542f08597748eb40127687a8a216674305fa9cbe4083e8f82fe7c1cf"
+    },
+    {
+      "depositor": "0xD7F1F8b13b23c6e9471e990b4d1ED84C01CA438E",
+      "shares": "11312066.16626802917598194",
+      "block": 18137626,
+      "tx": "0xbce2fd59be87a178643950690b0e436510c7c5248ad1690d8eeeefeb23f59e06"
+    },
+    {
+      "depositor": "0x151DCEf15100C6399cC570B7E58B86c3a8F1b75D",
+      "shares": "1919839.735060152419772019",
+      "block": 18139139,
+      "tx": "0xa96238c805cfe87463cce44bd77fc5d4ab4dc972849715352fdd4d29dbd3cb4a"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "169680.343645213648673291",
+      "block": 18142736,
+      "tx": "0xd57a15ef6b080fda5a053c4747032261cbc6c09072989bcc991bb714e74078eb"
+    },
+    {
+      "depositor": "0xdAc7a91516112703448B5d1fbC8B679fcE838E8A",
+      "shares": "0.942664697064543394",
+      "block": 18148273,
+      "tx": "0x498ae7c9e9a92a6a1a6715293a420c05644f3bee819f900864dbfea954283266"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "1885327.125827079137934737",
+      "block": 18149892,
+      "tx": "0x01d3a3074d587ff50fe1893410a7983c8bd879e5fb2b4b7fa75610806eea2864"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "521411.515221373705850779",
+      "block": 18171387,
+      "tx": "0x4ca878cc99ff08c5e869ab60a7438f8e257ebe8689a48e31642bfcf8b867c0ce"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "65443.838276859383100172",
+      "block": 18183281,
+      "tx": "0x16ac53b0b1e9cd745a40029ea78c52b1a16b700e08cc864b5f5814f5f2329111"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "1878504.274699553756634808",
+      "block": 18183621,
+      "tx": "0x2accb179b4cce266ddc17c37ae7ca9082b576ab91501e8188d84a4e802df3229"
+    },
+    {
+      "depositor": "0xa10042A8B70673190B7bdF9306A5a685B2D0cCF2",
+      "shares": "1200245.98402575901996952",
+      "block": 18191861,
+      "tx": "0x7fe21b4e16fc50ed9f2437b28fed50e7b6b8947672426b047088af67194aaa49"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "16475.603766905873966879",
+      "block": 18194281,
+      "tx": "0x44b410311e383b44ba2515002f26eb73da4963dc81adc6e4308308888681d276"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "973048.087484893121211648",
+      "block": 18206993,
+      "tx": "0xa7ebfeae339d61cfab0b2e8a908d66aff2cae3be3ea7b6ff582d626f89ab6833"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "18852369.658886601735523532",
+      "block": 18207605,
+      "tx": "0xecb12723f2bc45c80916d7f6b7748dcd3ca31a3080d09282914048d4366f4e28"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "185862.497918035579294146",
+      "block": 18208387,
+      "tx": "0x35c74834374fad3f833546d192121eedae8718adc62f504012e0e03a00129d12"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "1910.88830739897309305",
+      "block": 18212439,
+      "tx": "0xb0be6ed337c211bf0351617d2fbb597fb37d7e3411e9ab300aa9671a5eb49a6c"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "521324.814928978414407658",
+      "block": 18214919,
+      "tx": "0x7dd099af0f837ae2389075c533491376bf7b63bbb06b190c3d08667ea838b50f"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "398.228307069526551232",
+      "block": 18223212,
+      "tx": "0xc74326e5de701ad7904dde619367522322443a2c1a7f495bf56411b63a4c5a16"
+    },
+    {
+      "depositor": "0x8238892095d3BAc5322894e84F349BCd52F843d5",
+      "shares": "6548322.799895648400740723",
+      "block": 18228756,
+      "tx": "0x12f310921dafff8b4f756ee78db32c1ec26d18493e9da41496056fcfabdd56fd"
+    },
+    {
+      "depositor": "0xB5B56FCdf374cdAB0cEAE4bB75844d2a6E59d4D7",
+      "shares": "614130.876061536935692165",
+      "block": 18231596,
+      "tx": "0x6bef9e679c86e1e842ac004a3137dd68f2079eab674bd6c7eb95fbbf06ab6413"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2363025.680571368803521235",
+      "block": 18246201,
+      "tx": "0xdb668338f3c9453722c3b770c7d8a9d29850f3e4b9d1d387f1e258e13723ce48"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "103731.110133312160083839",
+      "block": 18246719,
+      "tx": "0x9479d8b5639d2d2de268c60b3abccbd6f2a8c0b01e397402d5c0af26595a82e3"
+    },
+    {
+      "depositor": "0xF4AE18D27e30Fd93e7E7DA8B8957277D7F8E23DE",
+      "shares": "31396.896744916047034919",
+      "block": 18269717,
+      "tx": "0xb0e78b66464d78ae1cceb26911245d584768f07834f9be44f1abfe65272f848b"
+    },
+    {
+      "depositor": "0xB5B56FCdf374cdAB0cEAE4bB75844d2a6E59d4D7",
+      "shares": "13444.670061925641300005",
+      "block": 18276886,
+      "tx": "0x33407adea4320ef4e22662a0d32325dce7ae52d6caaa204527dae77a89578d8b"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "9017.014839199705735248",
+      "block": 18282188,
+      "tx": "0x39c10444ec187f4e8c3bec2872a179e59e9a300d68833e1fac81d07aab2edecf"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2356679.52468376504312582",
+      "block": 18284076,
+      "tx": "0xc0b768ab7f33bf4bb637f8719bc4cc35cc0497458becdef493b903ee59934db7"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "25384.44066385288112336",
+      "block": 18291828,
+      "tx": "0x072c80599fd7f87fbcb0d08b687aa41bcc1817b1398df370af8afca834c20b0e"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "27500224.758608112496707108",
+      "block": 18292977,
+      "tx": "0x00bec7284c3a4573295eadb46c13b96b977321a62cdf449131c2b62d7049169b"
+    },
+    {
+      "depositor": "0x316B38d6C345F52169F7bB3f9AE11aBaDd0d2cB0",
+      "shares": "3482648.552318120999541746",
+      "block": 18300389,
+      "tx": "0x1bfea69b9a13c8a3fc4a691247aa42717fe09f126838abe03b931f1c79b0e2a5"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "113232.29787176276644219",
+      "block": 18301587,
+      "tx": "0xfd7dccce1190704002e18f1c05021a5529dd387e6790baf1c08df00aa5461572"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "15556724.311556223420120675",
+      "block": 18313143,
+      "tx": "0x730d73ae08d2aac512c742f4d9a47160aa8e932cef9df0f7c24f2f19859dfd9f"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "23926.401736184196270026",
+      "block": 18332301,
+      "tx": "0x625c7703ac803b799158a348d61a77987f3908126f4d52074440aecc8c2ecfee"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "400342.228577838143167379",
+      "block": 18341992,
+      "tx": "0xd7598137ff34a8b3c05977e194f41f2c2c7a56d9ec74dfdb682366fb859756b4"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "1989676.53300813681716102",
+      "block": 18353918,
+      "tx": "0x0019b9a978256fa84d653787a07de3ef62801183541997c10947c772710b277e"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "347.477159455614365772",
+      "block": 18354076,
+      "tx": "0x30dc6fce3c3c0ecdb905428d8dcead4d4c647a9c9abf4fa96432c79eef2902a2"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "7540213.867395958714292954",
+      "block": 18356189,
+      "tx": "0x4bd1121899e1cc36db172812da484c3e753fd8f45866befd6b7e4c9cc494144e"
+    },
+    {
+      "depositor": "0x21dAcb0784D8635a7D297E9f3e5986cA45f6Cdea",
+      "shares": "6597753.637929475802329032",
+      "block": 18357208,
+      "tx": "0xeffc4f5e85dbe35d791e4d8ece386515e2fd420ebbf3d0298c3036b7882061d6"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "5582146.366335796237601434",
+      "block": 18375682,
+      "tx": "0xe987d12bff89d87f0c6b4916f4265b8e2c968f9a97a14d830c4d87df88cd238b"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "33438208.197706664511309074",
+      "block": 18380509,
+      "tx": "0xf1736cd71b2df0a31a3a97dbbf9cc8ff5c7ab70a7ff1a358cb6c72edd4cd7f85"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "257828.905013930530035645",
+      "block": 18381790,
+      "tx": "0xfb316d25aa916d4cd3c9f5143267f400f63e98b0b415c6648a031b0ab79f9a88"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "216894.650774684552345167",
+      "block": 18395275,
+      "tx": "0xd24696ac10920a64e135bedb54e88db277a7e89e6f46e75335339f820bcac380"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "848253.671140899682127633",
+      "block": 18404180,
+      "tx": "0x72f29a977989151e9f3f7edfaca4979f12590632c4651e89ee2a8528f5221145"
+    },
+    {
+      "depositor": "0xd6f7b031Ae1B9c6b91992ED05cE84b20D4212086",
+      "shares": "12128.030795583762408919",
+      "block": 18409917,
+      "tx": "0x5981fad4805ffa959664e97e3fd58b33123b814efac549f9c99b381c26f5f551"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "298221.652723491293481712",
+      "block": 18499793,
+      "tx": "0xf12f0a047489d2b68d4ad4fbe792897e865cf94a7414cfaf4408a8ba1fbfa5d5"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "93816.536318622102041892",
+      "block": 18506480,
+      "tx": "0x43c3b9bc7072da995a7c8ad49a19493d74d07f46141ee68a0ab7b536bc57f23b"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "18697.450336490347860396",
+      "block": 18508626,
+      "tx": "0x4b53d16a2e5845a35d31fb61d5847c93f022371b8d80ab8a80cd169664f5641c"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "19554.815597692248203614",
+      "block": 18552722,
+      "tx": "0xaf7777c0706927a0450d920af81b301ab73aba51a873aa1fa7541e1e179215d7"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "3245737.718482431460563964",
+      "block": 18556133,
+      "tx": "0x83df3269175602b4ce079bb40ad2e71703a862bfe804367f80eedc471aa22f57"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "432.698941740688952794",
+      "block": 18571599,
+      "tx": "0x5a919d6ad6e8a1c73892c4e9d3b7e5f8bb9b130496a8c6bdddf9c1a7954d7215"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "17156.341968848267570553",
+      "block": 18591138,
+      "tx": "0x7a3a08e801647c5729863ef1c968c79454c41dbdc0158e5acd2bef52132782b4"
+    },
+    {
+      "depositor": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "15728282.249052737742909063",
+      "block": 18610481,
+      "tx": "0xc5e1006a8ed3466472fbbd5dda841457ed5f3c4a7f5786a03cf4f6e44061c1b0"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "1151612.778016611390629369",
+      "block": 18620255,
+      "tx": "0x6b362e8da7cd422503d07c8f6daa712121132382cbc2103416c3354cc62b7a7c"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "8507717.985112716184573384",
+      "block": 18624250,
+      "tx": "0xc90bf07de249b0ff2b64586b6003ce8ad08a40d152f4998ce4bdef31ea956f93"
+    },
+    {
+      "depositor": "0xc086F6fB5266b22ea391DC8a0361A3140dBDa718",
+      "shares": "281874.137502950668486069",
+      "block": 18639758,
+      "tx": "0x2595a7bffe1589cb4560eec70397f71b978ec6853d5d64c0907f109ebc400aaf"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "1894725.400370824583793467",
+      "block": 18641564,
+      "tx": "0xa4cba84c48ed31f5ad0b7d289bf27e8213595edf44f7a11f144a00a256dfc26e"
+    },
+    {
+      "depositor": "0xB2516E990063F0C6B9Dea9A0dc9828105Fd1F04B",
+      "shares": "195030.083590172405973252",
+      "block": 18647263,
+      "tx": "0x0faa04a660a442d05f2857c1ab43493762280582ad736455040bd9bcb44a0b73"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "1964856.836516153489547612",
+      "block": 18666672,
+      "tx": "0xd0d81db39afe6462101893a52d3c31d3d2b1d8b745d8828a3ae9a72e09a1920b"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "38945.043482044340782048",
+      "block": 18677242,
+      "tx": "0x93101711e090b9cb8984357654812ee567ad6445e6529723f273ec6305248bd5"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "1256176.228704854301271787",
+      "block": 18685962,
+      "tx": "0x97092f1d2a8ebd37817fafa59975cf22f4babc1a7b990fb058f1446386a9ee1f"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3727064.214810211189358484",
+      "block": 18686106,
+      "tx": "0x0e6090728e4b92663830f7f8864c6a5ccfde2f95767e8c236d3e69503913e2dd"
+    },
+    {
+      "depositor": "0xa6d95f12543E27cB691ef58874BeB881CE856e3D",
+      "shares": "447382.053603186791946918",
+      "block": 18702354,
+      "tx": "0xac2ed8cee0d4fbc363ef1ac1e7276270bd69b8af0234f68db63447346f7dc997"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2826124.413787073087274973",
+      "block": 18710581,
+      "tx": "0xd629dfbed59f1787862f81feed8ad7bc8be817a673d718e728054a5b0e708d60"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "50061.362607140847175894",
+      "block": 18723565,
+      "tx": "0x48f7f850bf5d349a2a6f071cb193dfbbb233c796afa7a35399b6541f2000f47c"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "1861455.49578345505516156",
+      "block": 18728152,
+      "tx": "0xea3085e340e9e9ee6d8ac8e05874c50a1e2b6abb4059d4fa452cee598732b5cb"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "327514.592535041109090393",
+      "block": 18731447,
+      "tx": "0xc0495a15234d4b34d09984a023043d2220f5800d43a0b6209cb15ddb59c2f2bd"
+    },
+    {
+      "depositor": "0x2066a3d7ac72EB573A3565C51feEd5eB446bA6d5",
+      "shares": "2222849.436284729652091661",
+      "block": 18747823,
+      "tx": "0x11880c85511ff2b98860682a3a4e203096f2cf97533abc6bd1b2144c681700b4"
+    },
+    {
+      "depositor": "0x869921f41Af38Fe397c8309d3D1885809508B723",
+      "shares": "2333.169707345912335399",
+      "block": 18754826,
+      "tx": "0x8818795f5d8b0489664e55b85a94629fcd3ee461475f1dd749236d0c3d14c42a"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "4717237.256973104335453872",
+      "block": 18759023,
+      "tx": "0x062231f8d9dd1ebb0a49d061d989589e56a54706a4e2436ea92c50049ed2f826"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "4706914.739404178590632574",
+      "block": 18763975,
+      "tx": "0x8721e30db5735d4da225cb1c7f70f5acb1f0e70848a07f859f45780862f1fdf7"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "7515187.156984685773831299",
+      "block": 18764214,
+      "tx": "0xf5e09197893350e17c24e0c19df23757e7cf4fdce7cd913a5eedf74f7dadec3a"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "362534.511471068254740326",
+      "block": 18766067,
+      "tx": "0x8fbbfa39c52f54c9c0d03b3cdaa55fee12f328603626531689a86608094c4a17"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "19069.304083198956790745",
+      "block": 18766406,
+      "tx": "0x64a171578a0cbc79102ac34f65d5dc50de452409c22ded3a25fd6dede1c2e4b0"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "705673.251125949897638183",
+      "block": 18770394,
+      "tx": "0x0f2a0b820f92a8ea5c87c18c83356e0af14b602c3f1fdd7785dc1e651ff4aaef"
+    },
+    {
+      "depositor": "0x8238892095d3BAc5322894e84F349BCd52F843d5",
+      "shares": "6590626.304533243480007508",
+      "block": 18771295,
+      "tx": "0x85730162d87bdb5ea0343139998bf826e57740b93d9d73f7e87aa06ea1ed84e5"
+    },
+    {
+      "depositor": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "shares": "2093848.969019943078720771",
+      "block": 18771572,
+      "tx": "0x7355ccbba0a970a616527fd5e519dfd486de0f94339fee436dc6474366ec8e97"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "7271955.763306336537422179",
+      "block": 18771787,
+      "tx": "0x01395f9448ba17ff861f036afe2b531af130ce0f3eaa94a32b8c5e33e9dbc226"
+    },
+    {
+      "depositor": "0xDb83B73314c87c015EE8B8Ac908cF0F197Cd9d98",
+      "shares": "9423571.256761247674428807",
+      "block": 18776871,
+      "tx": "0x123b05f536416338d5b6bbad2ab3ba3287638feb34a3b2de53f6c45052dcf49c"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "1874152.983399742676164657",
+      "block": 18779224,
+      "tx": "0x80659a8083ca44babcebf9d679d16ff7c8ef2c1332c11ebf26a60cd79cbe2e7d"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "471160.081057618267314462",
+      "block": 18786863,
+      "tx": "0x76627976161937d6e9bc39df68076e87f20a73ac744daaf2d57f35fa7f94fdc2"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "8522.838995868795641401",
+      "block": 18793308,
+      "tx": "0xfe1408218c7f3a2399707666a20a8092d013f0edfdcaf8be87b264c066faa016"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1655.520842910534367593",
+      "block": 18793415,
+      "tx": "0x80a8d2b8273436ef978552b5d49942f341fc3b5e9c815badcccbb39aeb1f6c14"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "283803.498373015636237009",
+      "block": 18793648,
+      "tx": "0x55ba00d6d834aa4e8b76d53f176025aed9e795e4d543579fbc24c116b1aeca80"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "972597.039740334211536843",
+      "block": 18793819,
+      "tx": "0xc47a04acf1158ccdb2bc1ab1c08b7d389758584a9948f0a17b50daa3175ea3ec"
+    },
+    {
+      "depositor": "0xa10042A8B70673190B7bdF9306A5a685B2D0cCF2",
+      "shares": "31978.189635877087423779",
+      "block": 18797530,
+      "tx": "0x0442a50ed22b777eb7a6d7c9b9d8ae9dd11857731aba7bdd456a93c3b18b1f8f"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "325187.263406046245130789",
+      "block": 18807345,
+      "tx": "0x720a60266aad9d3e8927040df52c7792cadac9529805798a97ebc83bd0f13cff"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "43983.386767585237532841",
+      "block": 18814455,
+      "tx": "0xff00885da1c474f9df8a618f110c713cc6c0f2279ba5aa6319d4852e9ae4846f"
+    },
+    {
+      "depositor": "0xF4AE18D27e30Fd93e7E7DA8B8957277D7F8E23DE",
+      "shares": "25636.733516324022510956",
+      "block": 18819965,
+      "tx": "0x04a65e759124ffb03658ad830372102e6975b639cf720ccbfab3cde4b4f1ff02"
+    },
+    {
+      "depositor": "0x707076fb70def4b49a4765A593E86cd65Cf2feF9",
+      "shares": "18846.038535412410366033",
+      "block": 18832821,
+      "tx": "0x908f0d9c86ad0b2426d09c9e87b5d3cddf72a88faf4047564987ca8b3f776c20"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "179037.281175219111022822",
+      "block": 18833950,
+      "tx": "0xcd771080d90c5361a11e50b2e0fea03e9b52304b10f786b0ab64f161abbb7e22"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "1287181.846763216403661727",
+      "block": 18837606,
+      "tx": "0x3a80098f9726aa90077fff31733219025784d50de2d58b9fcc7c935b0cdf700f"
+    },
+    {
+      "depositor": "0x87a32e84F4dF0405810A08Ba8dd186bb2e54704a",
+      "shares": "941350.592936014053415141",
+      "block": 18841321,
+      "tx": "0xaea094ab8a757474435306ca973177478f2ff761de9282dad34e2f5b5e5a3616"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "6446.360728948586095394",
+      "block": 18846735,
+      "tx": "0x9866de777beb569ef1a78dd48728404c7d9cbfdc4a7a839c79bee65401b35b70"
+    },
+    {
+      "depositor": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "shares": "57203.394711045965090224",
+      "block": 18852149,
+      "tx": "0x6470bb0f39ba213cdba5a0a44b8f5cc5d6b1f0642dba2b32f623b8cc9e095c21"
+    },
+    {
+      "depositor": "0x87a32e84F4dF0405810A08Ba8dd186bb2e54704a",
+      "shares": "5926654.092341092775821219",
+      "block": 18881691,
+      "tx": "0x316a7849f2863aeed34c8b5ec134b6be0d53ebffcc1889c4ea1ab5fb92d94532"
+    },
+    {
+      "depositor": "0x4422f783229bc33FDE3E4bf09496ba717d52c9cF",
+      "shares": "564737.856351159899333808",
+      "block": 18885984,
+      "tx": "0xce124f0640dc01bbffc89dd1d2107995206dca91c18fcb0cf29e5eb6e9e24bda"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "942272.817026843676961707",
+      "block": 18908134,
+      "tx": "0x1923d1cd453a4d038efef79f1f0f60d8677175172434e443359d1259dff9c46c"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "63577.247709043232381909",
+      "block": 18918403,
+      "tx": "0x5a0af2231af073f79b13b51c2885891138f2a5eccc6df7c3c0eb885911f7f929"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "4706861.175912841332354609",
+      "block": 18947199,
+      "tx": "0xdec1e90a1ad31b4a68767493110a072034e915a136809b4ebc199d02828dd011"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "1884512.349873840585257193",
+      "block": 18952496,
+      "tx": "0xa67437ad8a1e982449ece72a1ac4624aaebe50c1fa9decc601aff46417448ed5"
+    },
+    {
+      "depositor": "0x6Ab92DF64Db6C648e5c634062bfb8627783fb3d9",
+      "shares": "18845121.668016284155549974",
+      "block": 18952748,
+      "tx": "0x77df11d8a98a5599adc2e0605fa9014d380daa3639b0cb7d8322653b41790522"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "467.793675530187802301",
+      "block": 18960053,
+      "tx": "0xb16aa8f1f636e563b8ce96251749406da2ea987cb68d43dd974be06c70edf431"
+    },
+    {
+      "depositor": "0x2066a3d7ac72EB573A3565C51feEd5eB446bA6d5",
+      "shares": "84076.885432715255433367",
+      "block": 18974192,
+      "tx": "0x7e091dc2bb9469983f30e98d2f7ac19e87b89b80dce9260f73ff510b9e4595a5"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "51823.516602742853190536",
+      "block": 18980925,
+      "tx": "0x5b04edd015f09cba435333e4ff8925e0360b3b5cacf451751e091004bb54b60e"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "49404.898977326808981138",
+      "block": 18999608,
+      "tx": "0x07f30fb163e3a3dea97b8a974f5295d102a75f764c8ad162d8da02e4aa6affc3"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "387699.787507926614643736",
+      "block": 19025946,
+      "tx": "0x373837cada0146676bc7b15f142fa595ec6bcffd03f911a71f3f323190ed96a5"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "471112.222600641545799531",
+      "block": 19037248,
+      "tx": "0x6684f497e0701e147d2087d4ccc8a70092c7d7cfa336f4c5f9d9ab069212af28"
+    },
+    {
+      "depositor": "0x1aCFbD88AdC974B0b7a36005947335eCf3965C60",
+      "shares": "42893.243815187246752924",
+      "block": 19044211,
+      "tx": "0xb1c7761f00c515765a8fe959d4744159974757a0daddca45d79793f9f47d61f4"
+    },
+    {
+      "depositor": "0x1aCFbD88AdC974B0b7a36005947335eCf3965C60",
+      "shares": "201410.887262942420862794",
+      "block": 19044352,
+      "tx": "0xd8cfb89a236a2dbc854af19d134e7095e964fbc6749d117a044c6ca77ca5529a"
+    },
+    {
+      "depositor": "0xa9BdADCE387700B18a3D5c2a668395bDAdc7b76B",
+      "shares": "14185337.32324951275722004",
+      "block": 19066590,
+      "tx": "0x62ec75dc82ab3610d97b980887cf7efc4e66ac767a5063cbf71a990da50ca951"
+    },
+    {
+      "depositor": "0x8238892095d3BAc5322894e84F349BCd52F843d5",
+      "shares": "3907327.812206937912232161",
+      "block": 19071905,
+      "tx": "0x9d69ffc93bac43828fd348913e0123535e8bab39f9451b251d4af0ec4a6d8d11"
+    },
+    {
+      "depositor": "0xDb83B73314c87c015EE8B8Ac908cF0F197Cd9d98",
+      "shares": "9540958.85089434185001034",
+      "block": 19087981,
+      "tx": "0xb51a2bc8eaf224a49e4be5b7a6f8b8eaeb4bb9297d48f2570f6752d5378580a7"
+    },
+    {
+      "depositor": "0x77777020820B2D68144A1C37447E5BF6B1902deE",
+      "shares": "1884406.409407093124467782",
+      "block": 19091609,
+      "tx": "0x67b41e47e39b8ada2446e3d46400c4e0cdb69c8b93474d3c3d81c2ff341d42f9"
+    },
+    {
+      "depositor": "0x77777020820B2D68144A1C37447E5BF6B1902deE",
+      "shares": "2826608.199696715370459489",
+      "block": 19092906,
+      "tx": "0xf3a5d0fb522c6984e00e1ec521c0088edca086f3e95f3c15bae17274f8fbad7d"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "1256489.493675593883138381",
+      "block": 19095387,
+      "tx": "0xd0b62926bae6b0ab39b1de535ebe23f818a0c675824ce82603d65d1c043e28f5"
+    },
+    {
+      "depositor": "0x116adf3dD40A3B191469101889bd5c0386267F5a",
+      "shares": "5942075.728187425880023687",
+      "block": 19100212,
+      "tx": "0x06ad8bb21ed12105a6cfa9b839c462a54a3e7e30f03f06d455398a98a721fa66"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "422911.217926826437107403",
+      "block": 19108503,
+      "tx": "0x63a750f63eebfe9df39225e9536ee7f037dafaef5c49436e39c62fbc92b575b9"
+    },
+    {
+      "depositor": "0x7F41b7C8C14E92e4681411727457d923F69474f0",
+      "shares": "1884359.750408694317765711",
+      "block": 19158790,
+      "tx": "0x03e88c83143f9666c8bdd1726fbb03d62ae2a57895a50a436246f248acdc6eb7"
+    },
+    {
+      "depositor": "0xDb83B73314c87c015EE8B8Ac908cF0F197Cd9d98",
+      "shares": "9414895.000381835235870224",
+      "block": 19160190,
+      "tx": "0x00778a286080f902427a88d26dc955f9569d0ca1110c8bff8c5ed241adf4de98"
+    },
+    {
+      "depositor": "0xA7bF8F67045ef716eE87dEd1FaADff10F226C02d",
+      "shares": "552.595855946042502119",
+      "block": 19195300,
+      "tx": "0x54ccbcb5a174f7625d442424cb7bbe313a2ada97635490b41d4143e679b9c49a"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "942166.521415372031879521",
+      "block": 19198775,
+      "tx": "0x47a8045d095b50e94129cba66d24b171293bc1a6f61a8e62f1412be6037075d4"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "69667.428758824646382315",
+      "block": 19243863,
+      "tx": "0x100166f914459757e49c010fe6af0a7cabc8a49071b3ca86ca8af51873080a65"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "2355376.073243813479514081",
+      "block": 19244235,
+      "tx": "0xc7eb045cc2bd4d2f157687a89c4897e170387d23aab57ec94ba9d456c5268201"
+    },
+    {
+      "depositor": "0x6b892f463305ca35B0769db2fb564B87a2e4a78a",
+      "shares": "4451.453549706229361663",
+      "block": 19245188,
+      "tx": "0x9a4f7514bbb3dea46d17241a839cc096e8c98a0d0f9d80d1e8e916028541dea5"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "25929.044207309960699449",
+      "block": 19255976,
+      "tx": "0xf369bdf5befa01b4943a206219bf7f3edf1328d7b669a545d105dd699c7f8abf"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "904845.674732401758425336",
+      "block": 19257202,
+      "tx": "0x8ab0554fc114d1138d4c20a4937bb7ca5f8a6cd1afad83b399fa5528032f1e56"
+    },
+    {
+      "depositor": "0xDF7fa906DA092cC30F868C5730c944F4D5431e17",
+      "shares": "565284.359884612060303031",
+      "block": 19271777,
+      "tx": "0xc0f80176fb838662248111ffb495acdb8a87c7e2f5b5c8a657476bae92f087aa"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "103635.013218848112338644",
+      "block": 19282976,
+      "tx": "0x643054abbe7693078e4bd0c1960e8d8f4f9192dbf278a7aca61e2d3c8bce2f87"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "7955367.351702974063044523",
+      "block": 19292367,
+      "tx": "0xdb11cd597bf086c384511185af34baebf9c39eef416c6c1c0a2b2c05620e6cc6"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "113762.273054769101908008",
+      "block": 19294546,
+      "tx": "0xc32430de02a31901a86d8062bcbae2f639439cf30bf6337d55f5eb575cbc911f"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "4846068.570023417903308609",
+      "block": 19325574,
+      "tx": "0xdbe0977c6408927ee566f316be4668f0f3d3b17a21b9d913405e6c16a569f8ae"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "12236056.825196522993830094",
+      "block": 19325852,
+      "tx": "0x8d1fc3f834117ae518c15fdb4db68bfc812ddb9904fd91ef50967aada8d01366"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "12843649.367658971456578229",
+      "block": 19326475,
+      "tx": "0x36eeda8eedc6c9dbdc29c1c02865138036236a78ed66aaf4962e8d720f763bd3"
+    },
+    {
+      "depositor": "0x2066a3d7ac72EB573A3565C51feEd5eB446bA6d5",
+      "shares": "7977418.519616611615669614",
+      "block": 19337688,
+      "tx": "0x5b1250c31352ed6fbde1f84663cf6adbd08fcab362a72028394baf179e8c64f1"
+    },
+    {
+      "depositor": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "12245054.37098585183831675",
+      "block": 19411897,
+      "tx": "0xa89d2aa6f17705f69db647e6fe4d4dfcb52abac50617bc70a7d66ae01f814878"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "1592375.019636017893140627",
+      "block": 19418054,
+      "tx": "0x0c8bc024d8e94edc39b3c7a915823e9ee3c7d1d9f528573019ab9e8d89f24860"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "105886.503889219367789177",
+      "block": 19426187,
+      "tx": "0x86476ec65354c7c16869bdab968fc48064a68740fe858c8f1755347a3c9bd58e"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "34838.959315637480130148",
+      "block": 19430930,
+      "tx": "0xed849e27bf80b65ad836a73fc0dbbebcc986eaf49fdafb4f46db57dea9d6c38d"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "1924526.227735408956336855",
+      "block": 19433424,
+      "tx": "0x1365453a9d701c580066e7ba748d4a43ff4ea8551ee0a09eb2d0690888fcf7be"
+    },
+    {
+      "depositor": "0x87a32e84F4dF0405810A08Ba8dd186bb2e54704a",
+      "shares": "6867981.00714840756324746",
+      "block": 19439299,
+      "tx": "0x66d87c71ec7729cd0f3e4fffa5bb1cd2e6ffad72910393dae32aedfe6c3920bd"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1149476.444403526737590736",
+      "block": 19451309,
+      "tx": "0xd1eb2ab825d45d7a891d90b6ed8686d5870abb73da6b94a7e74d0508e438ab59"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2361022.136352782763076101",
+      "block": 19453073,
+      "tx": "0x7fc24fd55e93f1d4c0d3b221b9f08753ca685c14051f4b55ee81b8298aec09e2"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "5497761.665630800690656823",
+      "block": 19454998,
+      "tx": "0xc748b7f6006878e7b26a8e6e807ce339d029b0d92f1a80bcded4cbc5929202cc"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "12212851.053658583481480667",
+      "block": 19458384,
+      "tx": "0x4a2df093d3c858dc025bb5cf452cc366c3456cc33c4e8c59c2a4212bd8645257"
+    },
+    {
+      "depositor": "0x8Ac286Ff7a2703Ee4BeD827450EA7a48b3353886",
+      "shares": "1501483.188174641590970567",
+      "block": 19482511,
+      "tx": "0x9e1178499154c7987fc1989f77a35edc997d21f0ec8fba0f0b43c5f9d7a4224f"
+    },
+    {
+      "depositor": "0xDF7fa906DA092cC30F868C5730c944F4D5431e17",
+      "shares": "564780.947681421735232045",
+      "block": 19484468,
+      "tx": "0x2a70bf67c82eff83632ef102a1ad1752ab315a61115e4b600eb796b8a8e03e9f"
+    },
+    {
+      "depositor": "0xaA4F34b9eA2272D6414A5daB8bBcD90C257440cE",
+      "shares": "472450.112163190467877536",
+      "block": 19485057,
+      "tx": "0x9da655043cd777eb73b05ac7e816526b88a0cd6f95d44448ce3e9a71a4ceef19"
+    },
+    {
+      "depositor": "0x1aCFbD88AdC974B0b7a36005947335eCf3965C60",
+      "shares": "1622563.803008179966052328",
+      "block": 19508862,
+      "tx": "0xa4983e917ef257e6e7e3d0fac375272c99fee485359f60be80bb62a08e34f34e"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "40239.001288415308585799",
+      "block": 19513447,
+      "tx": "0x87603a2687ce23960778cd0c30903c2479a459d806859dc2846ae852753979a4"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "5667625.815469566562114267",
+      "block": 19535597,
+      "tx": "0x8d544d26521cd325e4f4d786f10d757886d6414de98266caa55c2e363f03d981"
+    },
+    {
+      "depositor": "0x59512422AF0709c7CaB8285838975Cd8D7C7CE7d",
+      "shares": "75247.785676587228634191",
+      "block": 19550867,
+      "tx": "0xca1398587aedf3f6fbeb2289924c2ed7c001b641305c707447a72a698d9fea36"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "1922541.056766938458977988",
+      "block": 19564001,
+      "tx": "0x199968d6cf3240d3170034e950a284866dede84436cb2e1cfc0ce4fabf818113"
+    },
+    {
+      "depositor": "0x7ef2747c887A22ddfa60079cc3a373AC38Ad9abe",
+      "shares": "58120.7917849874767454",
+      "block": 19565732,
+      "tx": "0x144447d858f983d259aa4ea6f0ca33c5300d26eed258067d11185f46499e921b"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "1880338.246121302413739306",
+      "block": 19610859,
+      "tx": "0xdbdb913dbd6dd2f7a4602374c7469d8211514e63b7c5c16c9450d5615400f67e"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "2025754.894505472461799328",
+      "block": 19626393,
+      "tx": "0x262c5f85356e4fef2631bf9ea98970808fe5c771a2dc7d3216433a2b710ecb5e"
+    },
+    {
+      "depositor": "0x8433934439AE4cACffF01902bEeE59444b87522b",
+      "shares": "1882841.10544237993042093",
+      "block": 19659422,
+      "tx": "0xff30f2be68bb1a40d6d6464a1f96851ecdc093a2ee36ce7545fc05091e1cc87e"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "18795288.135620848127125585",
+      "block": 19690789,
+      "tx": "0xcbad5816000a4a811532dba3b31fc3d0b1fcedcd8e1466da439b961189240544"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "402227.644228552440021969",
+      "block": 19724396,
+      "tx": "0x76838e8664d3cea95ff41010cf6d4716ec483a1c1bc41011e566e9d480b89208"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "938711.930483627332733675",
+      "block": 19769791,
+      "tx": "0x7cb616222f88ef0e672f41225e6ae13d7f6b1c86cec0c38aa2b7ea64692cac82"
+    },
+    {
+      "depositor": "0xd24e39f8671F2EAfE305835d6d9Ce6Af3B106C44",
+      "shares": "187988.846081578279268801",
+      "block": 19797040,
+      "tx": "0xc96bd866e821f5eb347cfd96c197d5aa45e008aa74ec0bc6a4121e76308cc348"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "93909.097724214624130452",
+      "block": 19816031,
+      "tx": "0xd72a9490d613bd4775c223ef31e387071e720dcb402443852a2bec86015716a9"
+    },
+    {
+      "depositor": "0x439494f5598f632c88C29d593f9Ee9948F7F4b31",
+      "shares": "84587.160590952431734311",
+      "block": 19829161,
+      "tx": "0xa62c3de151d88cb937dbe7638909b024683d26a286d6341bf5cf0448d83118b7"
+    },
+    {
+      "depositor": "0x7178d9CDd1c6e9fe3044bc0ECDc9f5e2477DC0c1",
+      "shares": "281950.942551714081626383",
+      "block": 19831676,
+      "tx": "0xb5e3e2c5c3134d9798e754bc38dca80ec412f58fc89802d90fc13d81e039c9d7"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "10326.626680530944304616",
+      "block": 19859746,
+      "tx": "0x7a3972598c15a1e68b04bbbd6e041944fa48275482ff1e87d9f530fdd39d167b"
+    },
+    {
+      "depositor": "0x52d3aBa582A24eeB9c1210D83EC312487815f405",
+      "shares": "13240679.682462972247810701",
+      "block": 19909738,
+      "tx": "0xa64993e162043cae9e326caeeb14cd32247160bc2539553d0f9546058ed77b90"
+    },
+    {
+      "depositor": "0xAF1f459738f427247617E139C3c0ca4311DAF14A",
+      "shares": "14074436.540842183546101087",
+      "block": 19923143,
+      "tx": "0xb5c84510b05f82b30faf7894147bad257c8ef2dfe47e8e103e40f8c116a051fa"
+    },
+    {
+      "depositor": "0x076bCfe9040381d6aDbbFA7eE8835437b8E7402E",
+      "shares": "23449225.404921670172532343",
+      "block": 19924297,
+      "tx": "0x20e840ed14ff7d3bd69628ac83b3626f76848b9f21c711032835ae22f04efad7"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "9391588.973054495897671357",
+      "block": 19927913,
+      "tx": "0x0e46863b5b392d3112ed1209ca725459503da34b0ea8a95284b69dff54ab13f1"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "1657313.6933963219440535",
+      "block": 19931077,
+      "tx": "0xc601aa7caa8a209016ec6e3dda7229085fa0f0ef520872033791930c946dfdae"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "2814292.323402558375635863",
+      "block": 19932210,
+      "tx": "0xc12b0e1cb55c4515d3f5c2d5712ffd49f72707d0a2583eb1cd69cc1117a8d2cb"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "652670.147752423527970329",
+      "block": 19935074,
+      "tx": "0x979285d6eded780c7c4c413af8ab9664a44aad22523ac641867a1561206ee8f2"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "1147845.219813717019018647",
+      "block": 19935477,
+      "tx": "0x3fb5c7f1a305fbfa429f118dd653dc421c8db6dbc6902e4a67502c526db15c45"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "5630493.772156955295735196",
+      "block": 19936100,
+      "tx": "0x1f3f90433689ade2cd25024d7f1616aa9464a191c5cf3286593c326e6af6e02b"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "11555739.070390760548484273",
+      "block": 19936631,
+      "tx": "0x102ca2d3795360873e4c40e9b91fe66875ac9d6ae1569dba7aeefb9b27ecbe69"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "2080710.984041221333233747",
+      "block": 19938244,
+      "tx": "0xd96436015b5d15dd2ea080ca4562ab244469c16417a4f458a997c6cff27fcc38"
+    },
+    {
+      "depositor": "0x5abC63ebF1950d531408cf8E12cE24c047504847",
+      "shares": "469127.003573277743112405",
+      "block": 19939055,
+      "tx": "0xb9fe27f2077e9e5a75b396ad8867e6e8ea21ccc31d775be637543fabc0d03c93"
+    },
+    {
+      "depositor": "0xCD60153384818fdCb5eE9f549ffBFF4fCCBd037e",
+      "shares": "934909.122065117580223545",
+      "block": 19939358,
+      "tx": "0xdada823048187eb7046d84af12fde64abb91354599fc32c1e72bb96dca2b463e"
+    },
+    {
+      "depositor": "0x2066a3d7ac72EB573A3565C51feEd5eB446bA6d5",
+      "shares": "3919525.517555524241956201",
+      "block": 19939466,
+      "tx": "0xc0fba8e8e8add2e51ec390d49f83fc5628a104bb512f8c06f375dc2ec3424180"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "796811.387588671921365907",
+      "block": 19939827,
+      "tx": "0x0896dfd0c85607819cdbecd7f3bec6485d223808fb0c1e10d3a447d081e31ca4"
+    },
+    {
+      "depositor": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "3417658.850506485073948176",
+      "block": 19940686,
+      "tx": "0xa186cd2d2026d3477b0eb01459ae12c1e81697c5f81c9b892917ffc15da87556"
+    },
+    {
+      "depositor": "0x8Ac286Ff7a2703Ee4BeD827450EA7a48b3353886",
+      "shares": "1499433.993391815304418962",
+      "block": 19942836,
+      "tx": "0xfeb7f60df7b94186bb14160e743ae0b88bddf51d89d25b5139c7d09493b8546e"
+    },
+    {
+      "depositor": "0x77777020820B2D68144A1C37447E5BF6B1902deE",
+      "shares": "2502387.935432599747639641",
+      "block": 19942958,
+      "tx": "0x2bb000722006958cfbd0df13909f9169cdd843e7f0547a717840ded74e7820f3"
+    },
+    {
+      "depositor": "0x6Ab92DF64Db6C648e5c634062bfb8627783fb3d9",
+      "shares": "9260193.617449527824474266",
+      "block": 19943902,
+      "tx": "0x165921dcd733aa2941cb88c47b3837468aed6ceb47c00b76b59f4498fa02dd1d"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "972077.338993846952792985",
+      "block": 19944599,
+      "tx": "0xb84ed82b4ec8b618d07ac2c77cd33a517cba14f93eb52473b119e2a10fd2fe62"
+    },
+    {
+      "depositor": "0x0AdA36E8a479B7Ab8666fA60877Cc21B4731Deb6",
+      "shares": "1363372.230178410830811516",
+      "block": 19947782,
+      "tx": "0x668204b369931dbcd96c02094aae129d4581c05680da840df89272db933d9a7f"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "14393210.800870355793352361",
+      "block": 19949248,
+      "tx": "0x8fa83e8f5f65f60dd237c7ff61e84d9d269a06cad66f78574418be00dfd4093f"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "5628493.923181406538931162",
+      "block": 19949876,
+      "tx": "0x6bcdeae44deb0b0c2dd6143781e3dce745fef0bae8d566faad96f69e16694df7"
+    },
+    {
+      "depositor": "0x869921f41Af38Fe397c8309d3D1885809508B723",
+      "shares": "155005.166800269590200543",
+      "block": 19951897,
+      "tx": "0xa23badc11454a73ef7ff2c09d3603efecd52c8f1b72007d593e8f22a656b6bfb"
+    },
+    {
+      "depositor": "0x8c53De9B0A60481166C3Eb9f643717d09ddf572e",
+      "shares": "47251.440259632881086401",
+      "block": 19954380,
+      "tx": "0x3dda76509c0feab562c9f3e40f36698d63ed6dc25cc41b3c1b07af2e1cd04007"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "23455.841676830770562268",
+      "block": 19954625,
+      "tx": "0x031d681719be33e8822e33afadbb9d2a7fae5e5f85c3d4bf510d91568367d1b3"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "4691163.862963628107923785",
+      "block": 19955474,
+      "tx": "0xcac64a94e73376c4a2755239f80c03da45bf7b95f01c9f1c7de53c633f6f7eb0"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "502670.860359882531236621",
+      "block": 19959300,
+      "tx": "0x740ad620807f4b365b9c2c1259e83a551bc78b15fb7ec24ea67c0fb68fceae48"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "3083639.69698762483649483",
+      "block": 19959446,
+      "tx": "0xf1884c333519f6bd4110d56b615a595ccf30568e87eef9a548cb9659a28cdc6b"
+    },
+    {
+      "depositor": "0x38Cb1f8aeabd5A70c137D9092c0716f5DBCD62cD",
+      "shares": "3766988.02183175143869384",
+      "block": 19963335,
+      "tx": "0x4de82dd14d1cd428f5e991e74340e0ede8293c55f99363cf315a1b438654e4c3"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "84439.573304423905830879",
+      "block": 19970417,
+      "tx": "0x533ae96fdbdfcb6ea0caa22d8ec1e53814dfdc07602a16a72583d845f36f9e9c"
+    },
+    {
+      "depositor": "0xA82c9ed42E7cea03Cfad4B03205E46d1a4a30998",
+      "shares": "731804.368587242538742704",
+      "block": 19977180,
+      "tx": "0x9b85305ff62c3cba4377ab1a7e60d48dbc6f6312e2531be7ed2e8b225c15041c"
+    },
+    {
+      "depositor": "0x3093270Bd14a314Ad1dE203959E64C6c98953414",
+      "shares": "98881.05011184390537607",
+      "block": 19977311,
+      "tx": "0x3843626c4d1dcbb011f8a8481e0e456055789d14fe9549d193d94c08681d53ca"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3408501.891833633213272981",
+      "block": 19982083,
+      "tx": "0xbbc11a921c956bae509b0a1235d47c5bdd053e84c92a078bbcfe46d8b840ac1e"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "9138122.644399595621701381",
+      "block": 19982859,
+      "tx": "0x52d9272643a431b49d30c000758501ce9cb2cbaa655de3f2acfe938aab99ac00"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "14624977.66598771486830016",
+      "block": 19983165,
+      "tx": "0xc5f5cc133b7b417d8f4c830cea0a2c4dbfa6018a46729de9f9ac5b56bd4d8159"
+    },
+    {
+      "depositor": "0x4F8dB1e75Bf70c2B3b078811c2b1c2219238197E",
+      "shares": "9382046.273905793444513866",
+      "block": 19983429,
+      "tx": "0xb372acb1ee931c9557ad167ca375336a3a6983f8afec1ab22a98f14dd49dadca"
+    },
+    {
+      "depositor": "0xED2A1F4b1b1BfFD86c6Ab72A55c0F7d21b00D207",
+      "shares": "9384486.275686791027417537",
+      "block": 19985564,
+      "tx": "0xd138c514e6ec3cbf65fc3f6fc32513b389b75f8b7da2fa0e4f544467a568c72e"
+    },
+    {
+      "depositor": "0xCD60153384818fdCb5eE9f549ffBFF4fCCBd037e",
+      "shares": "2338376.012126689136462292",
+      "block": 19990863,
+      "tx": "0xd1795773bb10b6d623d77ac29194fb573b99cac5319ce36a00c5144e3709beaa"
+    },
+    {
+      "depositor": "0xB47B7896982e28Da7c6cAe3E042462E14938624B",
+      "shares": "5396042.306051826664318315",
+      "block": 19993841,
+      "tx": "0x3ae10729a0eac1778be275742acbb43896dcef4a01ecb25db328c501f67a33bb"
+    },
+    {
+      "depositor": "0x23109c8735929Ce28f16e12Cbd414196Ceb1BDEb",
+      "shares": "28187.617419202370562391",
+      "block": 19994805,
+      "tx": "0x2b69faed9d256f2b3d545f939ee9a7cb3e17023aa3d1fc8df28be9693537871c"
+    },
+    {
+      "depositor": "0x3af4A49C8E2FcaF33Fd3389543B80D320FCC9091",
+      "shares": "84209446.308329727009352339",
+      "block": 19995781,
+      "tx": "0xba3a2018f06ffec26e5f74a729cb70740b823da535366c7b5ff09f032dd09ca4"
+    },
+    {
+      "depositor": "0x5abC63ebF1950d531408cf8E12cE24c047504847",
+      "shares": "281457.5389072676840263",
+      "block": 20005243,
+      "tx": "0xfd05d04389c3644ed9936c771ecb6eb8b37429eb2ebbc87f801b6e970382bb88"
+    },
+    {
+      "depositor": "0xeC0Bd02b8e2BbBc835E1a405E96A74D5D85086BD",
+      "shares": "197069.386335144255552145",
+      "block": 20006496,
+      "tx": "0x654dbfcf0c7a204c0b35096ea67472c8ce47a5cdc2cb90a7d4e7ece3da6e4d78"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "3734722.858180294476961096",
+      "block": 20018241,
+      "tx": "0xe11ed89df6b01321433c32e43e2bdda5536f8d848640be2bbcce0482cd34a3f3"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "4686778.490964939982282039",
+      "block": 20035069,
+      "tx": "0x36233ee95887c635162a8b69f5b3833d598b913e68abf843c7d0cff2bf17cf45"
+    },
+    {
+      "depositor": "0x63E0dBef2F81532a74BC84860e6a560404F5cE86",
+      "shares": "376523.674555297443626518",
+      "block": 20046911,
+      "tx": "0xcfd17e412b5d704f35afa06a99653d8317042054fba19953000d9fb0bf19a209"
+    },
+    {
+      "depositor": "0x9773c8f7a6D111fd5AbD65545aB0362E9382f729",
+      "shares": "263559.294581558490196903",
+      "block": 20051008,
+      "tx": "0x90096ae17eb5c0bed602e46ddc64c22d36c7a6638ffefe6e93c66e6e2fcf0b03"
+    },
+    {
+      "depositor": "0x2066a3d7ac72EB573A3565C51feEd5eB446bA6d5",
+      "shares": "802403.452193478181188353",
+      "block": 20052317,
+      "tx": "0x873476c995e07073de74f304fb9518126d6a72e7e1c237f0ab30ef0aefa0bec1"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "2812015.776860138451514698",
+      "block": 20060851,
+      "tx": "0xf72ad192a653d03a1442349d5b39214395cfc84f0f44841a287dd66ee163f359"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "240152.648579786532613361",
+      "block": 20073225,
+      "tx": "0x5e0fde991342d349f09991e389608c25c5dabb07a73f65452d4e88a47b5461a1"
+    },
+    {
+      "depositor": "0x8433934439AE4cACffF01902bEeE59444b87522b",
+      "shares": "10000.628850390473186203",
+      "block": 20075603,
+      "tx": "0x55a637a77920e0b5737867b782db34919c606335f155ef4279fae594bf2db879"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3960911.201538490711883437",
+      "block": 20075997,
+      "tx": "0x481db009e142b4e2392c9771e11ef5003d3b7d00575743f33c2579746ba70996"
+    },
+    {
+      "depositor": "0x4422f783229bc33FDE3E4bf09496ba717d52c9cF",
+      "shares": "1801339.568806344221618073",
+      "block": 20094349,
+      "tx": "0xd28f281be28f47ba5584d6fcd55c58d6f14aae2f86717b1579bd745e5c7d931b"
+    },
+    {
+      "depositor": "0xd46c81245A0582891c2249daf2d68925977cF2a7",
+      "shares": "6196396.900040632310579903",
+      "block": 20095314,
+      "tx": "0x15f76ad3eb1fedf5e3748993b43c24868677dcf64d976b30c25ff3bb6d913bd7"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "1877040.490448605633847675",
+      "block": 20095724,
+      "tx": "0x358576d5df2d2148b9b1922fdacebe89c3cc120ec0349dd973f99d9b7d0f5b40"
+    },
+    {
+      "depositor": "0x90CC1b62F481e5214b45999c1Df8e1aE5A444e75",
+      "shares": "18762939.692420736942303708",
+      "block": 20104660,
+      "tx": "0xb889a91e61dedf36129784fc0f5a47a08026212e4ebc64ef30f669b874c7d7aa"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "46907.332564105086556641",
+      "block": 20105478,
+      "tx": "0x8aad44f0c1e1e78bde5082c197011c0fd39ffb5d81e29cad99cf124cd2b9f31b"
+    },
+    {
+      "depositor": "0x57877Fed03cbE9b2Fd002B0F2EFF67AA9b531282",
+      "shares": "902320.371189704458170305",
+      "block": 20111388,
+      "tx": "0x6bd450a8df24d0b943435a8d91b613642f5b874c89b038bd6799555211c5c5e9"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "5388.20289533619558259",
+      "block": 20117794,
+      "tx": "0x60e0a41100786b82c6ff6ac9bc5b3910264c21145ada20e7f0fb6bbc88b78841"
+    },
+    {
+      "depositor": "0xeC0Bd02b8e2BbBc835E1a405E96A74D5D85086BD",
+      "shares": "95806.001710436526599463",
+      "block": 20119139,
+      "tx": "0x8b151c74436daee3090df3c585a4d2b19641e9be403089f55015d755292e366f"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "13136.879033418008807635",
+      "block": 20119282,
+      "tx": "0x35ba1d80de8fbf51076d91ad65829f4d74768e062b75ed67dc4d3be18b89e181"
+    },
+    {
+      "depositor": "0xeC0Bd02b8e2BbBc835E1a405E96A74D5D85086BD",
+      "shares": "94390.958878373900551273",
+      "block": 20119893,
+      "tx": "0xd5304c85296f3fd0820bb0d2d90cd4e94237734f1c9bf370829e6e0af145a1db"
+    },
+    {
+      "depositor": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "shares": "62057912.636588593618772139",
+      "block": 20121045,
+      "tx": "0x43a7a4f271da0a6367c267fe84f0acf52aa9b8e493076ad6df79a628d0561159"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "2685447.763005090630971612",
+      "block": 20129822,
+      "tx": "0x141960b185b03ebedf31709bca5e9ab5db869e224bc514833fe760d1830d59a7"
+    },
+    {
+      "depositor": "0xB05251A5A1B0fcfEFE5F94530F4372CF45196361",
+      "shares": "115291.526851777039089508",
+      "block": 20135096,
+      "tx": "0x5ac3c39773ebdcf1409ecf4720798a21dacc664080622a8f7a357a7432d08001"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3679310.476377737065954156",
+      "block": 20179364,
+      "tx": "0x7fc1758a39cebde5aebb9f0e5cb4904dac8a00e7cc2a1f23ecb3ac88cd6767ca"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "5245640.831856973014061278",
+      "block": 20183935,
+      "tx": "0x2d16a10e0586e9ab35b189681b494c63924335e024a19b06bac1e195194a7fdb"
+    },
+    {
+      "depositor": "0xa847d4eE14bCdF780db5351EbdB3899d2a973B40",
+      "shares": "188397.617119439706097948",
+      "block": 20186392,
+      "tx": "0x18b196f91dac5783dc55c7aec1792f27854cd03573fb4456b427241d19c2bda7"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "844302.560143979317434895",
+      "block": 20194766,
+      "tx": "0x1b726ae779b5e3d703580fee6b376ca9521ed4a95d3aa9138e16192c74ac9b0e"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2365919.571397764806790936",
+      "block": 20198131,
+      "tx": "0xbbca83e987180bd096b5a6d04194c258ebd68e6f7419448ef88c8fe3718fd23f"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3335503.605434463887822708",
+      "block": 20200750,
+      "tx": "0xd540e1621bd904ca06caecd55b3f51282f71011e38562efd92a6a5d60488f8ed"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2084482.911380512338920814",
+      "block": 20201019,
+      "tx": "0x720e33e572f6d54c642029ae09fe0f9e04b42a622a31887b444b8cd38c418977"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "28788.400295325769735894",
+      "block": 20210677,
+      "tx": "0x4f2fa82eb1d26358bb2a60ada2dde160fc9f69ae50dabcecf0a379345446357e"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "1970287.979861955728440855",
+      "block": 20215002,
+      "tx": "0xdbeb9e80a49070907de68f3373f3dec9606bd3c458c25e64322c7f3b6fcf093b"
+    },
+    {
+      "depositor": "0xc7Eeb1531EfFb84ce54bD9408053BD8e0398aa39",
+      "shares": "943889.653740836007158106",
+      "block": 20215421,
+      "tx": "0xccbb945a3f6faa445d865539801745049452d5b31f13eeb03d4b5f307ddb5a68"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "169659.228834152732499393",
+      "block": 20218670,
+      "tx": "0xb944268761d13dfdf116e8ba81affedd3434529d61bf3df11ca60aaad4b6bbbe"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "4691047.67908222814040793",
+      "block": 20234593,
+      "tx": "0x4de8e54fa69106ff0115814480b1faebfb9b6bda32baab9dac6c817ab66207f7"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "5741.719755404661653239",
+      "block": 20239567,
+      "tx": "0xc982f60dfa5962d81119e8ff64a9dcf1418518e0ea28d97ebb9c59b909fb245e"
+    },
+    {
+      "depositor": "0x63E0dBef2F81532a74BC84860e6a560404F5cE86",
+      "shares": "2408.885141731302045928",
+      "block": 20258125,
+      "tx": "0xddce00efb605c49460ce7a722ee72c51fdfb74ea9f756bffd32c352c2a5de305"
+    },
+    {
+      "depositor": "0xC81fA91f8da4f2b07434BB4DFc205FaDbD1beb6E",
+      "shares": "423760.805185296653101256",
+      "block": 20282805,
+      "tx": "0x74073910ea2088cf41e216e4e931e5d8dc75d57432eec6385b5b968c9b3403fb"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2657548.973159101475485431",
+      "block": 20293014,
+      "tx": "0x7c26643a135dc3cc85352b556a8814899d23abe10c23f278063959a2e60ede52"
+    },
+    {
+      "depositor": "0xB47B7896982e28Da7c6cAe3E042462E14938624B",
+      "shares": "136416.606302228278965015",
+      "block": 20296746,
+      "tx": "0x1100dacfbfa224fb17ab4f92bcdf2cbffdbe86c0e722b1acc3a0046bdf7b364c"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "676606.85383483971111869",
+      "block": 20323837,
+      "tx": "0x8c75046e6b139ac923e1d38e99bab076dc72e5d5d83ed68ac065f62bd73926f2"
+    },
+    {
+      "depositor": "0x707076fb70def4b49a4765A593E86cd65Cf2feF9",
+      "shares": "14070.7935070865267747",
+      "block": 20326314,
+      "tx": "0x27463736bf93a458d54b40a808c8246965c8f3180ba59d916c8e47d4e96e2666"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3709995.022859911625034157",
+      "block": 20328521,
+      "tx": "0x81ec9849a26082412f133b494705755197051f906e94b8c0bf1fc548a0500c80"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "978249.326389385845771629",
+      "block": 20328700,
+      "tx": "0x9b5856e6257ec71d43b7beb5148e52c47a8fccf4fabc4fd66c95478b3774f109"
+    },
+    {
+      "depositor": "0x116adf3dD40A3B191469101889bd5c0386267F5a",
+      "shares": "9441217.627863190813503424",
+      "block": 20339131,
+      "tx": "0xb4e9f5713ad4e45d05f73a68142debcfef15925bfb1ffaea4e7604966a220156"
+    },
+    {
+      "depositor": "0x4F8dB1e75Bf70c2B3b078811c2b1c2219238197E",
+      "shares": "75603.104707975464810222",
+      "block": 20354145,
+      "tx": "0xc7b2df53a7456cc3cafb80672bd4508b83e29317c1b1444c1d145bf023e235d9"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "671582.240024355594361665",
+      "block": 20360953,
+      "tx": "0x76364b26bb6dccb873fa3a7d24ef5822600fd2fa7cc13f85c6f2590225afbff9"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "468655.043072104749743101",
+      "block": 20370917,
+      "tx": "0xafb0156e7b905f60ddcd61d20b4abd305374ed3887e4a96eed1e0dfe8bd9e217"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "8754652.453033154012626724",
+      "block": 20371639,
+      "tx": "0xddef97402a94fdc56dd1134e5a24dad1f243f5ed422d6b8c86d573243c8dce2d"
+    },
+    {
+      "depositor": "0x77A7f6Aac8d020eb2C9955eD00CDb05F1f4EB64d",
+      "shares": "64945.469794992425227268",
+      "block": 20382545,
+      "tx": "0xbea5f5c4540cc04f1c90f0e4976ed3d027d5c2f171372f7fb096bcc4b54e2d2b"
+    },
+    {
+      "depositor": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "shares": "517302.160899573227575619",
+      "block": 20385683,
+      "tx": "0xe16b66d3cb70855cc0c79d2fe2c6fa37a2e20d7f43b7024ee6014be6772d6311"
+    },
+    {
+      "depositor": "0xeC0Bd02b8e2BbBc835E1a405E96A74D5D85086BD",
+      "shares": "46963.98224746054279222",
+      "block": 20386567,
+      "tx": "0x1368b860a85994480c69088c1d45467cdddb479e4785573019d26edab79d463c"
+    },
+    {
+      "depositor": "0xeC0Bd02b8e2BbBc835E1a405E96A74D5D85086BD",
+      "shares": "188257.686398954644434178",
+      "block": 20387387,
+      "tx": "0x4fff06e459198cd983a19425efa78ad160d8b5661fe329e8a1a14dd3c6f7c492"
+    },
+    {
+      "depositor": "0x798a59cB1EF7110e91640Fc6A8056D029BA8a42E",
+      "shares": "17878752.864998001771113053",
+      "block": 20387859,
+      "tx": "0x623308aa1ea0521486d479e3ccf94db7c70f9a5cbe613b8e3a6a352fa1daf70d"
+    },
+    {
+      "depositor": "0xB47B7896982e28Da7c6cAe3E042462E14938624B",
+      "shares": "36333.618822428025405401",
+      "block": 20399722,
+      "tx": "0x18fbf5c601719ad6b995cbf15b1ae9b18991f67e8c729d3aaf33449216776176"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "939483.976413284341484619",
+      "block": 20404886,
+      "tx": "0x2207ae02b1891ed90a6ff2817dc734169c3681ab9c5cd5fdfdfafe139322ead6"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "15008.155261854259620735",
+      "block": 20422215,
+      "tx": "0xba2919c76d8a21209908018162ed5b0c6aca93361a306a25c977611c2705a341"
+    },
+    {
+      "depositor": "0x55f26648417Bf68aAbB658EeB276D4142a3d5332",
+      "shares": "56317.672190707798087372",
+      "block": 20424561,
+      "tx": "0x496f373409208ea60e9280981fae9064c42e64369471eec3139482aae9c8b4e4"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3595374.773273457204094877",
+      "block": 20431979,
+      "tx": "0x50e85e7df31f56cd57d7e36f21e576fb90eac903e4ca8d8f931589be3666abd3"
+    },
+    {
+      "depositor": "0xc7Eeb1531EfFb84ce54bD9408053BD8e0398aa39",
+      "shares": "473873.111089291872268208",
+      "block": 20434358,
+      "tx": "0xbbe4136bda8a198cc10008aca97c35bedc2b2b45a48f6fd6872371d92356bde7"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "22512081.973084711989104435",
+      "block": 20436403,
+      "tx": "0x00fdba4414db2c442e9ab1656b0b7b0d43ecaf1d5ff06e6f453ec0dc80dc0a0d"
+    },
+    {
+      "depositor": "0x9E0c1eEA16E217f23Bbfaa9A6b22BE877Cb6eaD6",
+      "shares": "35337.383327625302225652",
+      "block": 20436558,
+      "tx": "0xda92d27beee6afdd111b3f226957b2451bfed9a376f42e280c77535a4b0f4ca6"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "939006.852632157763072064",
+      "block": 20453751,
+      "tx": "0x6e8a5631079aa5278cbf16f05d79361ff52be75d25b004e503e8f51ad8b70bbf"
+    },
+    {
+      "depositor": "0x63E0dBef2F81532a74BC84860e6a560404F5cE86",
+      "shares": "40170.943220603447141365",
+      "block": 20456081,
+      "tx": "0xe90a00e01e19b150ad3c6528e7dd141f2805b68b7061895223854767214420fd"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3126336.759556442828800953",
+      "block": 20456271,
+      "tx": "0x63aa0cc9b8934c3b39fdd04a21428372126b98cfcd73042160972adecd135a4f"
+    },
+    {
+      "depositor": "0x63E0dBef2F81532a74BC84860e6a560404F5cE86",
+      "shares": "11456.299703837714913016",
+      "block": 20456291,
+      "tx": "0x2885bd2775145e8be6d41f2533bcd213c8cb8f4f21d98fc76e71704ff39f0555"
+    },
+    {
+      "depositor": "0xC3493323a9251Ca4c773D715Dd5E96A05D6b03Bd",
+      "shares": "743852.761632312530316227",
+      "block": 20458793,
+      "tx": "0xe0a3a83b339c578ce5b9381ef69f657574f41802460112a47b41433bce432a3e"
+    },
+    {
+      "depositor": "0x55f26648417Bf68aAbB658EeB276D4142a3d5332",
+      "shares": "59289.969864259292942248",
+      "block": 20480367,
+      "tx": "0xe91ef9159eb3ca48b95c170f3227a843dabd20e3f372f09dc0f49c63dabd31fd"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "60968.595678564343604661",
+      "block": 20494788,
+      "tx": "0x0ab50e992f4e8421f52a146757732426f82d09a2be19f6ceb24f65c7da5fbf64"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "6776410.706516053181045837",
+      "block": 20502908,
+      "tx": "0xd1718e6c15cd8cc30ea3742a64b077d28e544c1730beac904be62dbdd523ca90"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "6893.866810784285651334",
+      "block": 20504433,
+      "tx": "0x1c5a37f1ad3b6aea5bac236950d36b7a8c6f7ef5d3147796349a6e99c96a1386"
+    },
+    {
+      "depositor": "0x8433934439AE4cACffF01902bEeE59444b87522b",
+      "shares": "13238.518843647467461088",
+      "block": 20506399,
+      "tx": "0x3bbe76d8c70db40c4cd7446c5374cc3d74b84b4c1128fc9377d454a734575dc5"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "24487121.924045028285649153",
+      "block": 20518751,
+      "tx": "0x05d96ba86ebe31d4527bd88246de52d9b22abd270dfd425332c770ddb0a4d4cd"
+    },
+    {
+      "depositor": "0x5275817b74021E97c980E95EdE6bbAc0D0d6f3a2",
+      "shares": "24411093.905038943920632547",
+      "block": 20526401,
+      "tx": "0x2b4bc31fbb4caa9e65ef355cee735c09e7f09aacb5881b831cba773e9fd33aae"
+    },
+    {
+      "depositor": "0xfC4CB21853568276E6018406C2F2284c735CB67d",
+      "shares": "183577.143510989734120478",
+      "block": 20528294,
+      "tx": "0x5588fd2dc0a0edea304d625a7095297e4ed08554b75327ed3dbf78b3f13adc1b"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "31381693.575468010509780787",
+      "block": 20541974,
+      "tx": "0x928e0e7c1d27e63d44c6200d87f56972b5d84e43af89e03ea81ad70ace97a1b9"
+    },
+    {
+      "depositor": "0xc7Eeb1531EfFb84ce54bD9408053BD8e0398aa39",
+      "shares": "417871.485808928071463664",
+      "block": 20596751,
+      "tx": "0x71e5f4b62c903259c67bc0b4d10c03193f1aa43b70be41be1c3f5815a61c7635"
+    },
+    {
+      "depositor": "0xb19d6B66b18FAE0FcA1023138B229e5F970b5180",
+      "shares": "468894.701026836730627408",
+      "block": 20681818,
+      "tx": "0xb19ba7d18a664dc8055aeeedc1f6986e5c6a5ce3f378cb5ccd76ba62e6d8a25f"
+    },
+    {
+      "depositor": "0x707076fb70def4b49a4765A593E86cd65Cf2feF9",
+      "shares": "1966885.884682932028634122",
+      "block": 20744422,
+      "tx": "0x4788c50398ead25a1a93a29ea92623934e6dc4cf1fdfab3363efa9666cc57892"
+    },
+    {
+      "depositor": "0xB47B7896982e28Da7c6cAe3E042462E14938624B",
+      "shares": "2812845.664390594958772966",
+      "block": 20744962,
+      "tx": "0x3306e17596e8d3cdbc23050418232661b587a9558e42553271f7ef551ba88266"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "3722530.600030722756533694",
+      "block": 20750476,
+      "tx": "0x4226b07c328439dc2a2bc2f5bb537fda6a4b1f0fce2b8c06f0422d2e4c0166b2"
+    },
+    {
+      "depositor": "0xd46c81245A0582891c2249daf2d68925977cF2a7",
+      "shares": "6190112.103266652018023577",
+      "block": 20761955,
+      "tx": "0x29188a967a067128b6cacf5573d337fbe2246b9fbf3386dcc91f98a24be1477d"
+    },
+    {
+      "depositor": "0xDF7fa906DA092cC30F868C5730c944F4D5431e17",
+      "shares": "843629.211395684828391503",
+      "block": 20776923,
+      "tx": "0x69747624fd50e7688bffdb99ef1d8652f5f110c3b93e09c072be27e0ab1c4373"
+    },
+    {
+      "depositor": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "shares": "503454.475056932993704382",
+      "block": 20781255,
+      "tx": "0xe8a0f412035bb563672e2af8a583c6a139cdf6f3891133b89db4a8b77639cb42"
+    },
+    {
+      "depositor": "0x94003c45A74Dbe132D45d15a0993CaeBf55aeb61",
+      "shares": "1410324.407959401445229143",
+      "block": 20788981,
+      "tx": "0x45e13a10164ab64bfbea2a203e49f30a02fae9c1fdfec59a357e1db823f796d6"
+    },
+    {
+      "depositor": "0x28EF7B4252aC35266f5a16Af86046356Ce60fad0",
+      "shares": "2463847.538662247608194249",
+      "block": 20818670,
+      "tx": "0x5fac0056f18069abb59eeaf609524adbab3dc234bbef8f46da6808d9aefb8bfb"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "12222954.099374084646860689",
+      "block": 20831545,
+      "tx": "0x5081e3c698f3693984c4b5a6593be8b6a02d747c647a26bce8fa55fa98ef37e4"
+    },
+    {
+      "depositor": "0x77777020820B2D68144A1C37447E5BF6B1902deE",
+      "shares": "3934292.06994717135427295",
+      "block": 20836441,
+      "tx": "0xa0e807bfe99188f323bfb8d2f3d979a1d2e1ff8572a453c7dc03791dd79dc215"
+    },
+    {
+      "depositor": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "11651687.752380795027064827",
+      "block": 20855547,
+      "tx": "0xf7b538b9bee01076169f3561718216bd1fbdd95ec8be8df4631308a30e8acfef"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "159207.573666547447214568",
+      "block": 20869311,
+      "tx": "0xbdb23a01efae61424663c5bb5e0173b2647871dc6b0d898e4fdccad5bcdba332"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "4714049.324756091765221138",
+      "block": 20869943,
+      "tx": "0xfbfa39dd64c20344cc6371bec4b862146954d31b0901212604c51ea1fa5f0875"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "187278.72330233242352059",
+      "block": 20891745,
+      "tx": "0xad4d7322dca17f86c4d23bf9188fb3956f85abfa80566f69a25ca6da00b0b3a6"
+    },
+    {
+      "depositor": "0x29F08B038392Be4B491F548e24924e2abCceBfaC",
+      "shares": "74376.139247731591428868",
+      "block": 20939794,
+      "tx": "0xe55509df42f9c2da75eb472cf4dadfa9d0852afe1ab759ea27cb66691ebe8e78"
+    },
+    {
+      "depositor": "0x869921f41Af38Fe397c8309d3D1885809508B723",
+      "shares": "292069.157079764930438301",
+      "block": 20946477,
+      "tx": "0x142de9dacbeb5c2c82febae595e4dc56fdaad2ffc91b957cd7e38ab54b4d32a4"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "14976157.039571194505732864",
+      "block": 20952843,
+      "tx": "0x34390f1179a26fb269e20070f8f2cef308f3f8d07406dd1925cb886b69ccf2e0"
+    },
+    {
+      "depositor": "0x3c8999E6b8Ae7Eec906E0bf5de1e26bA4B03B0d8",
+      "shares": "140325.99915385497753778",
+      "block": 21040142,
+      "tx": "0xbfd35540b14fed04ecd70ff94369570c056d7b782673f85340fcd7874141a171"
+    },
+    {
+      "depositor": "0x5B31d267179696c8D70E7EB7E6c6A4f6a711aEc5",
+      "shares": "4676.555564615888690937",
+      "block": 21213030,
+      "tx": "0xf8caef610e6ece7c63ac5efbad0732267f6f048ef7ccec710789560e3758d647"
+    },
+    {
+      "depositor": "0x77777020820B2D68144A1C37447E5BF6B1902deE",
+      "shares": "934049.78968127350730923",
+      "block": 21240686,
+      "tx": "0x7eac88a5cd2b4210b69f2426db4b44f4ff20e936a0c5a88c4ca64496d7684913"
+    },
+    {
+      "depositor": "0x487ceb6Ff373a172319CC5Ed4593A551f5eD0F7a",
+      "shares": "242091.546393385194638389",
+      "block": 21251155,
+      "tx": "0x79bc9c725e9f5fede7e54efb03d65d047590afdceaaeb0c4aebac9ba0fbdf8e3"
+    },
+    {
+      "depositor": "0x1e3DAeED9ca5C23ffC6Fb6bf64AD61e3196Ed69B",
+      "shares": "1409604.411756138867659813",
+      "block": 21270626,
+      "tx": "0xfb4090e30f383e27d51702ab4aa857da87a9f6080d38112acce13a32c76dd91c"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "558483.42960159276977845",
+      "block": 21300160,
+      "tx": "0x35bd77fca0d2b49fa8d88fbceebcc0f95e55f4fd2912d21d3fad08e3633411e3"
+    },
+    {
+      "depositor": "0x2539095dc372e2d4198e2d7CB3492145D2965f49",
+      "shares": "2049032.901721863100063491",
+      "block": 21301076,
+      "tx": "0x32083791cd774a58094e609f6e2f67da8efddd8dffe392633b772adf193f3521"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "4666013.768545081918111828",
+      "block": 21302354,
+      "tx": "0x5d1b8e2d41c9414d5dc31d2ab1517d983427d7f1c07190d8b2bf86b7708ea441"
+    },
+    {
+      "depositor": "0x28Da51E448Ab1D8D0DC9ff5CDa7B62761633dFc3",
+      "shares": "9339656.905298215089844928",
+      "block": 21302697,
+      "tx": "0x55c5082c8691e6fb48251d0aa01ff4e1d58c62a93c763b1e1c4ed6d630367c3e"
+    },
+    {
+      "depositor": "0xEf80c44d996EbAC95aA62589986fb3FCDFE3f7d9",
+      "shares": "12209957.3400115994454857",
+      "block": 21314839,
+      "tx": "0xbb10703f480ebd46b395a40269b53a6ec97eb7a030c61676541e8b2fe1239155"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "19288331.311926836560391214",
+      "block": 21322199,
+      "tx": "0xcf485b6c3f2f604397bda7b145cdb95966a6e7dec80ca794cfbaaf1a8e0c38df"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "93043.11980956786762048",
+      "block": 21322407,
+      "tx": "0xbcea73f01f616a9458e860a2bbc88444bf7b37bcd5d210f44859966fe09e8273"
+    },
+    {
+      "depositor": "0xFf6FAf21b2812ee1db1bF2C3f02a7FA7b8F6ADc8",
+      "shares": "93320.153088755146448419",
+      "block": 21322446,
+      "tx": "0xdd2a6df63f60d1ebca660190d67eac1c5700f4d4b7dd3ad9ea134e05574fb1f3"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "464187.477429544364534799",
+      "block": 21349640,
+      "tx": "0x9bac92a7492c84145d612568509539604cec7c6a4181d03c3babc382bd18bee4"
+    },
+    {
+      "depositor": "0x1e3DAeED9ca5C23ffC6Fb6bf64AD61e3196Ed69B",
+      "shares": "1409996.630493105254695603",
+      "block": 21491168,
+      "tx": "0xf798bdd54ba8c9b2a000bea65d5a44326dc9761cbc1ff7ab8f49bfce0061a552"
+    },
+    {
+      "depositor": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "10158537.273323122446043248",
+      "block": 21572877,
+      "tx": "0xcf3cb6d06387ed3c0fef4237466a52d6c164f24c8eb052ec73e3b65cc4931065"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1389486.969448091401482353",
+      "block": 21589185,
+      "tx": "0x7001fa7885538d300ee583b298f3aa6a4860fd56b541f6c97677eee6ed6cee14"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1759348.191635528567628798",
+      "block": 21589966,
+      "tx": "0x929361defaaf88581f8eef706b783a6fbdb571f9ccef0bcaf94599ecc9098105"
+    },
+    {
+      "depositor": "0x28Da51E448Ab1D8D0DC9ff5CDa7B62761633dFc3",
+      "shares": "19847.100435955028026374",
+      "block": 21600101,
+      "tx": "0x4d4d1b94358ffc501163459147aece689fd685174e1b31b5cfeb848bfa365e3f"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "2325487.587900236219542808",
+      "block": 21700987,
+      "tx": "0xf30f4bfee7374f898cd8c40d3252e113a1e95bc2e1a25005e342622b66e1e0ad"
+    },
+    {
+      "depositor": "0x28Da51E448Ab1D8D0DC9ff5CDa7B62761633dFc3",
+      "shares": "7910.088254876814532266",
+      "block": 21732096,
+      "tx": "0x7de682d4d202a18c9c2bde52bdb04a03f07abc42ea0f0f76ccfe0e169a90564e"
+    },
+    {
+      "depositor": "0xF0AB950CE2DbC6AF4BFf3D9bdcb82e634aaFd6E0",
+      "shares": "1482153.931786448965956377",
+      "block": 21747222,
+      "tx": "0x8a99f66f6cd6c0772e3138ee47bfb410b5b5385a89e20dcd7e6697c93ffbfc48"
+    },
+    {
+      "depositor": "0xF0AB950CE2DbC6AF4BFf3D9bdcb82e634aaFd6E0",
+      "shares": "418422.030396823009348217",
+      "block": 21747361,
+      "tx": "0xb026a4b8b14a7268ff0ab2f1faf89da560c39a89872d2d942a61ae886093fe82"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "2271823.506594781938223728",
+      "block": 21747405,
+      "tx": "0xc557964c545f9c4bd8b9f46d2236b8c6c231840d2f760c68d11aa41691114b62"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "36740740.180926611557268136",
+      "block": 21755778,
+      "tx": "0x745ed114cd7fa487edd96734314b7793c00e19c3267760c50c6f959f814f31c8"
+    },
+    {
+      "depositor": "0x77777020820B2D68144A1C37447E5BF6B1902deE",
+      "shares": "4648803.141621924445730421",
+      "block": 21756998,
+      "tx": "0x92f078c1d705051da24ad9d739737e752ddbdfec52c1c8f5e6dd9c24f338e6c8"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "13459.893630538113029567",
+      "block": 21757009,
+      "tx": "0x216c017f428c454bcbe21146c9430b1182e672a31014f50d6afa3d8bae91435c"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "169893.149902990733356373",
+      "block": 21760997,
+      "tx": "0x0e6a8ea770ce6d178853b5cb62324813dce2fd52ce47159a57898be2d781d6ed"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "9297832.403047923660996761",
+      "block": 21763458,
+      "tx": "0x02e12a6671a4f577fc44ca35854d25bea82110b541d684ec58f2cbc7562bc73c"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "4551337.867653449331027004",
+      "block": 21769613,
+      "tx": "0x4fa9939274a70a392f04fed83186dd6ea5cba7f980861d7f62ee544a3ea60821"
+    },
+    {
+      "depositor": "0x28Da51E448Ab1D8D0DC9ff5CDa7B62761633dFc3",
+      "shares": "9318330.236545330804103157",
+      "block": 21769827,
+      "tx": "0x3512e42371fd3f160a62b2a20e892d4d0f922e138c671aaa29bec203ce7d1db4"
+    },
+    {
+      "depositor": "0x28Da51E448Ab1D8D0DC9ff5CDa7B62761633dFc3",
+      "shares": "6016.386401723010405152",
+      "block": 21769899,
+      "tx": "0xdce3cad585cbf8be20bebfd67d914570988356fe1e252ea3a45878e0ecff2817"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "1696961.889062527454051189",
+      "block": 21770358,
+      "tx": "0x209231f657498593201622724d6bffa996758fb9eda9b52a5893856ac183d1eb"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "16479887.955542881439432953",
+      "block": 21771811,
+      "tx": "0x2282b74e9098b0577b7c2db7d48beac62bfcb85056f5fbe5a92cb4ed3da8b190"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "45180.931242623844621553",
+      "block": 21772280,
+      "tx": "0x243f3e3f0f1dee02d2d258b24f01b1dfc2ad17877d84887c158ee031d4ff5cd9"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1382975.908851248878003266",
+      "block": 21780291,
+      "tx": "0xd3005455e7e5769fcdf232f0092a584273796623104e58543d91ad05baf4091c"
+    },
+    {
+      "depositor": "0xF0AB950CE2DbC6AF4BFf3D9bdcb82e634aaFd6E0",
+      "shares": "927474.41906314657749087",
+      "block": 21780554,
+      "tx": "0x95536b61180cef4daf10ef58bd76960890d98a18295768d73eaef3cc782561ce"
+    },
+    {
+      "depositor": "0x1102fE5a9ba1517e57f8aef09F108d0Ce096E4FB",
+      "shares": "18585764.570189015679347253",
+      "block": 21783251,
+      "tx": "0xe5d2c6b01edb9f780720c7fe9d9e7ee69daf343341cb774922084db8d91e0261"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "12381464.643987742132431638",
+      "block": 21799883,
+      "tx": "0x7519e9a9f84bcee7d34f0b3b52a6169f937322aa7b7dfa57ba95bbfdb6c5d931"
+    },
+    {
+      "depositor": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "shares": "10150312.47551591896687702",
+      "block": 21807765,
+      "tx": "0xbbef748c4313aa9b49daae4e169b276e81867d364bc27edaa8c324a1861841b3"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "1520311.834410015385593653",
+      "block": 21814529,
+      "tx": "0x542b1932cf64f778106de8d60029b31fbf34448cc3dbd21e63338cf70f0af3ff"
+    },
+    {
+      "depositor": "0x808a53F25cF6Ff254A8F61a69c5Ec7ca8c1BE73b",
+      "shares": "48219.766671757694494173",
+      "block": 21819406,
+      "tx": "0x95814e8152f3ab3cbaf5acfd2046bed648261b97a742fec0d825173c22151807"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2327149.273979458869659595",
+      "block": 21833497,
+      "tx": "0xfe96f40f32f3c138c5d9d80f4efd3e80642ba74a595992126d13366e2b1cbcea"
+    },
+    {
+      "depositor": "0x000000e28fAA823d5B53ff6C2922c28335840375",
+      "shares": "45112.080153580441171255",
+      "block": 21835899,
+      "tx": "0xf7b5d76ba9060cab46e578d8bcc46571e7e6714c052399424865d39fc342466b"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "1859174.872254048090187304",
+      "block": 21841887,
+      "tx": "0x6866999fa46f6afe4a4cfba170711ae0694dee41a1b2fe96a09da11eb6240cbc"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "8729418.408302340781876364",
+      "block": 21842200,
+      "tx": "0x9ce4d40653daa0bfdd6071fcdbc267681f09c02cf4e3d033f57e17599cb386de"
+    },
+    {
+      "depositor": "0xC4DEd3408FA93aCb00051b9EE79341Cb4c2dA2A4",
+      "shares": "37175576.197089411997450217",
+      "block": 21842528,
+      "tx": "0x8858a0859e98b551b248c911c522213774361d5a27a9040ffb1997f9da26a627"
+    },
+    {
+      "depositor": "0x68433E461dF3f7FC5D73E914F7a404a205a221F6",
+      "shares": "61442.824044100803760942",
+      "block": 21860312,
+      "tx": "0x4d52d9e9ec35b53d646abaac3c18cae7c4d20c01bbd0b88cc97a860a222ab22c"
+    },
+    {
+      "depositor": "0x94003c45A74Dbe132D45d15a0993CaeBf55aeb61",
+      "shares": "1923742.272482730017325889",
+      "block": 21936031,
+      "tx": "0x91be06fa1b2adec13f72f750159bb88e297843669d13f2a0fa3a00fd753d10b7"
+    },
+    {
+      "depositor": "0x940025c5552ac7Cb02a2343c74DD511A6A32e49B",
+      "shares": "464083.944508557242625826",
+      "block": 21938956,
+      "tx": "0xb42a7f594b9f124b21dd405e1fa84d61298ec0c1c61520f9e2ec7eb83fe576fd"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "3097773.958787359872044229",
+      "block": 21991756,
+      "tx": "0xbba18e81d82c5a6394ee888d0b35f33b2d2d760a443fc80a02b5b564457f766f"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "4907108.020872670227820503",
+      "block": 21995132,
+      "tx": "0xa46f51934d061e7b5529ceb2a1b99fb49aec0a3617f3f37c8725a8fac84eff42"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "929419.928403615095769586",
+      "block": 21998188,
+      "tx": "0x3e8cff27af2c7a23e10289002cd65e0689cf7b7a352bbdf24267ff139deb1ceb"
+    },
+    {
+      "depositor": "0x94003c45A74Dbe132D45d15a0993CaeBf55aeb61",
+      "shares": "7254.556125848622149709",
+      "block": 22056135,
+      "tx": "0x3cd35fdc0eec668ae3c8e5d85a09ca97fa4ec222d9f56203b58f53fa3f01cb05"
+    },
+    {
+      "depositor": "0x597530c4298984f8B8c644893b6213b1C1F047a3",
+      "shares": "46294109.417651684814952252",
+      "block": 22059131,
+      "tx": "0x01a6a2809725db8ece2079824f0e125489e651fcd1e20b9a6eb16375bf53b5fb"
+    },
+    {
+      "depositor": "0x597530c4298984f8B8c644893b6213b1C1F047a3",
+      "shares": "42747310.145949539340331846",
+      "block": 22059435,
+      "tx": "0x111632b6e26def40cff61677c49cea7ac114c3359be48979228002eaaf7f7d31"
+    },
+    {
+      "depositor": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "shares": "41789962.45225248801597499",
+      "block": 22063983,
+      "tx": "0xc9d96abb4737a1405e9f5f3e9477823491ad87952d4001ca8b2b044b65a183fb"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "46466530.900141162380864294",
+      "block": 22101745,
+      "tx": "0x09a8fc1014a842ebb44c570916fe37936eb8914151d3e0bb47fab337d099d9e1"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "2694190.980955921181180435",
+      "block": 22112874,
+      "tx": "0x757ef04db2a1182204eeb2a23ca4e5e0a365c5807a9cee96d2de98751c75d52e"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "4205677.575769024682451321",
+      "block": 22193104,
+      "tx": "0x079f52e1e6804856b9e6f3ed69052f124eae93332a4605d75b882387f5542b82"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "27875772.495867254121262831",
+      "block": 22328569,
+      "tx": "0xd37a715c5822f547f07335dab69f92b51028ec6698916d843dea2333b48a1584"
+    },
+    {
+      "depositor": "0x94003c45A74Dbe132D45d15a0993CaeBf55aeb61",
+      "shares": "9121.452820062347793074",
+      "block": 22349027,
+      "tx": "0x780cdc814674ff5596855b68a89b13037c1d17384cff936584350db4c4ac4344"
+    },
+    {
+      "depositor": "0x28Da51E448Ab1D8D0DC9ff5CDa7B62761633dFc3",
+      "shares": "18800743.950523705563948256",
+      "block": 22381865,
+      "tx": "0x2c98feadb22c07fff351841e516af7aa304276b582bc2e0957c26b5039e1cb10"
+    },
+    {
+      "depositor": "0xc7Eeb1531EfFb84ce54bD9408053BD8e0398aa39",
+      "shares": "15472.707914962015147054",
+      "block": 22453609,
+      "tx": "0xa458b4aea2c470cc11f5862ab4a7670acc65957aa7999eedfd805bdab3eb41ee"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "9287266.715702896982097958",
+      "block": 22461653,
+      "tx": "0xa4f9ea3eb40cd67450eded0d2dc8edd8c6b7dfcdeedd10127da8a934d2b081e1"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "19422.274102450669149685",
+      "block": 22576492,
+      "tx": "0x4e35c9d3b5164e6686f987206424b6fecee07487324e914de6f2eec5cdb957ea"
+    },
+    {
+      "depositor": "0xC4DEd3408FA93aCb00051b9EE79341Cb4c2dA2A4",
+      "shares": "17279.466822505793788839",
+      "block": 22626506,
+      "tx": "0x1ebd96ba661778d45293d107ca753578aac00c7d30326f2c5ebfecb22f499c66"
+    },
+    {
+      "depositor": "0xC4DEd3408FA93aCb00051b9EE79341Cb4c2dA2A4",
+      "shares": "18558056.691711645943206579",
+      "block": 22626583,
+      "tx": "0xcc136ddd6d2a0876f8a1f045b63f366565473b9315271c398c03cb019d5de403"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "716301.467027302162056467",
+      "block": 22693838,
+      "tx": "0x9a3892e3124d80c5d689d72fccb92de23aa7579e51051c1801dc890cd949b958"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "6235963.042498270760671821",
+      "block": 22702538,
+      "tx": "0x668403f4dc8f29ecd84a14c1167df67f6d6142955e68ecfea6edd173bbd833fe"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "931685.536839943963973199",
+      "block": 22704970,
+      "tx": "0x195e71fe97e7446d7806f1ade0e61c40ce1edc0ca361ea521147d66b1722bdf3"
+    },
+    {
+      "depositor": "0x65078dB4fF8aFC4F14425524f09941b6aBDaF524",
+      "shares": "927378.458693971526668469",
+      "block": 22705344,
+      "tx": "0xda5a74d95e05486dd540e602a9e7388b6a77a688983986933303254fd8b6343a"
+    },
+    {
+      "depositor": "0xd1db1b014513ffCC2a3B204A8483d9243D08b684",
+      "shares": "463623.763469999530040744",
+      "block": 22717859,
+      "tx": "0x03fa87e67b15c69adcf9d141a5d74c00d7664448c07edfd6f07e6df29075e562"
+    },
+    {
+      "depositor": "0x510e9965C96f89b1B903CAf0D252ea626a2c478E",
+      "shares": "278168.347409806363731315",
+      "block": 22719736,
+      "tx": "0x58edefe1491f38d0365e7b1ffd0ba0adbc622834801ab2df2325959918949569"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "14299101.127687785473996015",
+      "block": 22736809,
+      "tx": "0xba5e880ce971561e242e2adca6d9aba3d302f73e78bb9907f9db650254fc05cd"
+    },
+    {
+      "depositor": "0xDF7fa906DA092cC30F868C5730c944F4D5431e17",
+      "shares": "928348.76280467885936237",
+      "block": 22805013,
+      "tx": "0xeffa1373bd864645a251748c3392eb8aec78d60e52cc9b6a820aa718af248593"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "9263238.792375637596848782",
+      "block": 22837158,
+      "tx": "0xf47c91ef5d8c702aa98f6059b7c1c3568234d856b07543dbdaf6c93398ef2224"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "4653278.721580869735423649",
+      "block": 22958316,
+      "tx": "0x0d1e2af15e290f3bf1abd6c02dc5867be70e5e1ab5fa6be66922f9b92037e9bd"
+    },
+    {
+      "depositor": "0x597530c4298984f8B8c644893b6213b1C1F047a3",
+      "shares": "4624587.402394634192879897",
+      "block": 23003987,
+      "tx": "0x33938dc53969bf0201d8d027b0cb1a9de04ec084cd7ed02ce2e22882ce165d63"
+    },
+    {
+      "depositor": "0x3c658e2B87088302c0A678976fD47a05cbCdaD50",
+      "shares": "2337431.22473255040257757",
+      "block": 23029413,
+      "tx": "0xd1017cf2f886261713917ab4001a8033b7cbbce679b9be0bfefd2f926caed70f"
+    },
+    {
+      "depositor": "0xC4DEd3408FA93aCb00051b9EE79341Cb4c2dA2A4",
+      "shares": "59223.253885359525073961",
+      "block": 23051576,
+      "tx": "0x28ec91cdaaf2c11e72adc42e3094d05a3d74dad445ccb26d84620f8240c34269"
+    },
+    {
+      "depositor": "0x5F6D71CD8404E661Cb4736e368564C01A7Ff9852",
+      "shares": "128853.134140795507519472",
+      "block": 23057768,
+      "tx": "0x1ca9338e36138a37f1ffe1ff82e3782ca563ef9a9f871ab63c7904066cc513d9"
+    },
+    {
+      "depositor": "0x79D6bdf29a0cefC62Fc40F29E3156E373261db09",
+      "shares": "4632948.241353916596364346",
+      "block": 23098322,
+      "tx": "0xeefd60f95c7162b32912f057f04fbc3ec0f887bf862eb20c9b26b0a35de6e653"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "9496576.67969360598551214",
+      "block": 23276808,
+      "tx": "0x31af323a645fd5bbbd1023f86e7bc86a875200358c85b5ea250857b288f49e34"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "2680.223866384325021904",
+      "block": 23293223,
+      "tx": "0x6a8dce859c09e8f6637590d8763c106c8da970261442b390ea92bd7626235c8f"
+    },
+    {
+      "depositor": "0xc3Ad78CAa7984ECabb06C6bd4934C3d8e9EfD593",
+      "shares": "4609831.176750480569500491",
+      "block": 23317585,
+      "tx": "0x2d4a85e693e1eb6c58edff41e613244bd1fa2ee26737c678cfd9a5c459a749a5"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "489466.52597024404735909",
+      "block": 23321842,
+      "tx": "0x4a3f95a2ac5f2e7bbe4a1069349e6e9e782555c308b260ef3c65d2eb1615c842"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "184366.058626629697401165",
+      "block": 23326139,
+      "tx": "0x4a931e12e767203e916dc0b5813e56aabb333047b4b25a89d64c660743f1dde7"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "202784.238447324128770519",
+      "block": 23330946,
+      "tx": "0x1391ae4dabac521658660e051fb267d1a0206764e9ebc07b8a38625098758c1e"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "1468944.352727239125226708",
+      "block": 23335094,
+      "tx": "0x0f69d7a5cb362625eeb5310d4b315e89e5d1677dbb27a3c68d7b8cc98a2699d9"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "1384336.798872522672336399",
+      "block": 23337021,
+      "tx": "0x175083903e3c2a603902c937dea83e292ae6bf9ce42a6f72398bcf55a98db3d5"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "5054874.786312815249380251",
+      "block": 23387571,
+      "tx": "0xce3e5bebb282f4caaf2044131fade6b52a791469c65aaaf00d4cffdb4690dc74"
+    },
+    {
+      "depositor": "0x2E8fBA7125cFad75B8Bc750832B06aCae9729B16",
+      "shares": "22612.976645400866621498",
+      "block": 23397593,
+      "tx": "0xcb3669b6069ec6842a5beb91cec0b47d9e53ef1a652e200de3a7bf169c93d6b8"
+    },
+    {
+      "depositor": "0x78C73dFd4E67a0eaBC4A5873816Df959ff1FdCc5",
+      "shares": "926775.255143784483115798",
+      "block": 23441687,
+      "tx": "0x205b8ed125d493debae9dc6754c68b9740df8a2f007a1da04211d35cca912f40"
+    },
+    {
+      "depositor": "0x78C73dFd4E67a0eaBC4A5873816Df959ff1FdCc5",
+      "shares": "3372990.223510960525796291",
+      "block": 23442721,
+      "tx": "0x082741d2ffccd6f80259f154fd8996548393a7f70dc53635df27550e9963a5e7"
+    },
+    {
+      "depositor": "0x78C73dFd4E67a0eaBC4A5873816Df959ff1FdCc5",
+      "shares": "1227351.456632545602628116",
+      "block": 23450455,
+      "tx": "0x1d89dba25c5a3e068ee41d7800a9bb487695168c01642265ccc2ce94a5d3be29"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "1263.036520272155378641",
+      "block": 23501152,
+      "tx": "0x46898cf21f26edbf0a4f31b1c6140b8656abec931027c32c6ab2db3400545ca8"
+    },
+    {
+      "depositor": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "shares": "6431711.681242602230038777",
+      "block": 23511346,
+      "tx": "0x1292554dff4764928167e9a404285c537aeafebac93dbbb6848ee7d2438679b5"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "142382.482375927646891741",
+      "block": 23529662,
+      "tx": "0xc4acce281473ba475d4f471f81445e2b13b1c9b563b637a6995f63ea636bf9e0"
+    },
+    {
+      "depositor": "0xeDe1D8260CB82DA8A95503194e87ac8d55721599",
+      "shares": "367382.773304788607656549",
+      "block": 23541382,
+      "tx": "0x8c15125c11cc9bae391897ff2baef6cabad13a139168f6b965cd435039b60772"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "5054842.247956463503814147",
+      "block": 23557913,
+      "tx": "0x6e82657ed5b15a2b73e9c77029409d9cfa55379a9ad6a90dc3addde50b5a4a80"
+    },
+    {
+      "depositor": "0x3acc2BffA4a5e75Fd4B7709a6fa2C3EEd94F664C",
+      "shares": "2295539.16101947152708943",
+      "block": 23561539,
+      "tx": "0xf40f7731fb92d6e7ef15cef6befd95ad45e103859d7cac7c5eebcc76923c037b"
+    },
+    {
+      "depositor": "0x597530c4298984f8B8c644893b6213b1C1F047a3",
+      "shares": "9181316.286879897389394085",
+      "block": 23568103,
+      "tx": "0x64f07536d3a702d423720e477ae896ac665be701945978de8b97e9c68fa620ad"
+    },
+    {
+      "depositor": "0x2539095dc372e2d4198e2d7CB3492145D2965f49",
+      "shares": "1540169.196979342313702143",
+      "block": 23595656,
+      "tx": "0x6f47859e6487e2cc32915f3ec4ee242086831f4d6f8e01b8ec12ff193f00056b"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "1834010.165816200413767069",
+      "block": 23677948,
+      "tx": "0xe662678da48cc1a41a14d3394667b2368b46851a85f0d68b3f9a20e908b9382c"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "733603.754019452730273448",
+      "block": 23677985,
+      "tx": "0xf4c0859543d37747b7c5e5815337cac0447356e2a2f4aadf6f2c17a7d3eb403d"
+    },
+    {
+      "depositor": "0x6C46f3F23eD4a070dA8D7C1Af302d09394EfB79f",
+      "shares": "95.773312880162264678",
+      "block": 23715618,
+      "tx": "0x6426575f6417ba370eff5af79d0ed97c2883480af8f28e9d4fbebd27fa66b925"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "21119.343003352332829394",
+      "block": 23761586,
+      "tx": "0x2769b50cecb0aab5b8458788b6b12b0e80f0715ca646f1ecd70c2925bc91c15f"
+    },
+    {
+      "depositor": "0x570822A084795E1901d165750883B81188722557",
+      "shares": "1934813.928867649245277889",
+      "block": 23786671,
+      "tx": "0x7b6e686056cd416c27c401c7c8c2a1f55767c19b5e9fb12405e3f98c2e563dd3"
+    },
+    {
+      "depositor": "0x3a5B22CdF32cFE76DB6FD1bA7D47cDf459f0011b",
+      "shares": "1832082.702019957031202319",
+      "block": 23806509,
+      "tx": "0xd17fa6ab2d75e0a31bf93c2dcfd3ff831be53a9f83fc39cb2b37e5f0a6a3c08d"
+    },
+    {
+      "depositor": "0x58b1Ef955D5bc4041354F4beaaB7989c1a5dfD0F",
+      "shares": "10545.426805612427985871",
+      "block": 23829686,
+      "tx": "0xa7142c6400d46b0e111af3c481005213f8703e9b62eccef9c72425eed4cd903b"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "279884.641130210315269668",
+      "block": 23867307,
+      "tx": "0x2aca54c270d421975df5ef663d5a3e1ba22765a5f5cf6ae0c2ac0af4dcafbc62"
+    },
+    {
+      "depositor": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "shares": "279614.769734726795878924",
+      "block": 23867588,
+      "tx": "0x6223c471bdfc844b584c0cfb9ec45846409b8c49639ce9a20f4525def1d193d6"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "2774992.6280750347956201",
+      "block": 23887406,
+      "tx": "0x48656d3ad8ff06e36709aaa77dee0187f46843578aedcb1c06a367c9b193d9f7"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "10902.663548378013334805",
+      "block": 23889189,
+      "tx": "0x3d34135d70b56585e6aa277f7b611aa4c5a0817a46159d4f6b20dfc8a8cde466"
+    },
+    {
+      "depositor": "0x50263dD95A109f0c1681cBc5Ba8fcd0eB11c6AeC",
+      "shares": "3846.118444308156269835",
+      "block": 24023783,
+      "tx": "0x0056b9c3538e9c76f8a6965d6ace41af20f4e23ab94ee26f1851e05c328f8287"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "11555.543772745172958342",
+      "block": 24039113,
+      "tx": "0xc203e7c227ea78abea21e9ce4e9d075e7ef7dcd48428c8dca29102e1dd53d27d"
+    },
+    {
+      "depositor": "0x54E7bCe1f500aCa665E3ddfFb578CB3b4A00F996",
+      "shares": "5071233.630432523737745663",
+      "block": 24109224,
+      "tx": "0x6465fa83b88d451fe939cee07859aae1e8709634ad9ef3aeeb36fd121666602a"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "13692.833795356717622364",
+      "block": 24115947,
+      "tx": "0xa542e46102ef6780143fc9e17ccf22cdd7025b675df3248f719a5b88b49016ff"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "10829.747328512524649322",
+      "block": 24136272,
+      "tx": "0xca00c23777b814889cd815871269e9940d44aae0635dc22af8afcd7fc66a3a35"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "912371.836772287693230786",
+      "block": 24172299,
+      "tx": "0xee8b8561651af8a35b5eb3addc03376c621f7720a28def9fa68cd240abc0918a"
+    },
+    {
+      "depositor": "0xd565D2740F2896523D43A2943Cd21A94E78Cdfc1",
+      "shares": "5473.406967245080224313",
+      "block": 24187338,
+      "tx": "0xf62449f37378d067aaabf884b6fdf0dd73a33053b524e51349c6c170067ef1a8"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "5024956.907642147979580068",
+      "block": 24194601,
+      "tx": "0x148b5eb216688f85e8d38a045eee311175f7b689d9cf6dddd6239dfc13d52c75"
+    },
+    {
+      "depositor": "0x597530c4298984f8B8c644893b6213b1C1F047a3",
+      "shares": "4701670.349649001948226161",
+      "block": 24260484,
+      "tx": "0x8755587adeff892f4843662ddfe2708f823b21ff5020ebc9e3648f4f50eb4e3c"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "18808.647262104301160075",
+      "block": 24300623,
+      "tx": "0xec35158406aea0197518d0b6aeaa4bb05f282707732024a5e08f26b1b2d88461"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "13345.302344549645811113",
+      "block": 24428261,
+      "tx": "0x535b2d3c75a20e8bd977e8d9a84294b4ffecfad7bdd18c1452e844d0ff7cfebb"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "1819374.486871723924507827",
+      "block": 24471703,
+      "tx": "0x284cfa142118e2ff26b0a723365b6753ab2eb5fad024afc7fc32543d91b89eef"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "17872.525686100507678008",
+      "block": 24486121,
+      "tx": "0x91ed97f44954000c928d6dca85e90d9436f58e83841309e4d57e93bf265256f0"
+    },
+    {
+      "depositor": "0x402904E954aebEE2E78b7B09595393cf05571333",
+      "shares": "4548044.426680758849500515",
+      "block": 24516632,
+      "tx": "0x7e459238431c22fbdd8401c31d237235efcac4ae5a87e0e2008ce696e2ada49c"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "39988.23187025618110935",
+      "block": 24537007,
+      "tx": "0x487526db3cb66deecc63e35aa05c39836d2a6e64a8b0e8e5ed9fe6b4d1a64572"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "20966.417977428872732359",
+      "block": 24566168,
+      "tx": "0x0837d82aef65d732b1b6ec5e18d60a4ea51be462bba353ee13405a883f90a2d3"
+    },
+    {
+      "depositor": "0x68433E461dF3f7FC5D73E914F7a404a205a221F6",
+      "shares": "27482.629179123646205498",
+      "block": 24569204,
+      "tx": "0xdfbdbb4a96af267807678e83561584b480b3a708fe915bc0c658f085f0aeac9a"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "4045514.826728897974260222",
+      "block": 24604574,
+      "tx": "0x500e2bc358fa8b08f8d927daf86a8a9844cae80a0ae584e49e5addffac613f0b"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "27836.370813807544811707",
+      "block": 24644158,
+      "tx": "0xefa562df6cde4d7a355b02fcedf7a700b1c1a0a588063a76adece4cabc727748"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "21222.472193097449742381",
+      "block": 24693074,
+      "tx": "0x05d9b8b0425c8cabc671c4a9ffa8992c1ae4198d6576c1591fe834692b50243a"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "20713.231634163084705296",
+      "block": 24737969,
+      "tx": "0xab4852ff2e178a47ce17a7e3679dfa94831b52bf96874e95897ba41818c412c9"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "6497328.693536338640780382",
+      "block": 24775288,
+      "tx": "0x8b5e1e06c0bc1ad2f3a11350afc841010cc9c9544fe5096760a7147f6735e59f"
+    },
+    {
+      "depositor": "0x597530c4298984f8B8c644893b6213b1C1F047a3",
+      "shares": "4536413.061039201644991122",
+      "block": 24818346,
+      "tx": "0x940cdb3c38fed15cd5400274d2674ae3071a6f11ea5ab0e60fefa0833b8c8634"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "22662.827807205488456054",
+      "block": 24904587,
+      "tx": "0x9ab1ea9b74f8f12c5f41fad3d6d58e08fd608428e7d370dd3f0f397957af6985"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "4142342.382731384916266917",
+      "block": 25012391,
+      "tx": "0xc7d2687c916e4ea04914b889fca680ab3295bec585ad6fb4ed5eaf6b75fa0cc9"
+    },
+    {
+      "depositor": "0x8433934439AE4cACffF01902bEeE59444b87522b",
+      "shares": "1810374.488165347472499927",
+      "block": 25042805,
+      "tx": "0xabda191500908587ef086f25550c19e5291fe66c62d1bd0974139bf339a64d51"
+    },
+    {
+      "depositor": "0x58b1Ef955D5bc4041354F4beaaB7989c1a5dfD0F",
+      "shares": "6704.420310428340250061",
+      "block": 25043047,
+      "tx": "0x4bee09f947a3174f112395852c3b042266f47dfa2e76208f1683810e902996d2"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "2724215.078786517393938729",
+      "block": 25080952,
+      "tx": "0x5a24b179dcc3542d67914c5a72d64de7a1a5881367a0a243512784ed237d774c"
+    },
+    {
+      "depositor": "0x622b0Ab25005efd7f3c1fdA01298AaD937939efA",
+      "shares": "23919.161834799196249787",
+      "block": 25174548,
+      "tx": "0xc3f48c9a841b9d64676eedd5b0228451cb3d7821873f6e80100790de5215c93d"
+    },
+    {
+      "depositor": "0x510e9965C96f89b1B903CAf0D252ea626a2c478E",
+      "shares": "632335.376936541020873817",
+      "block": 25249099,
+      "tx": "0x70ba5435162a79f0d590d0c3db19e43496db655e2b5842e529d183b70acf8790"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "146767.801632730385734489",
+      "block": 25265870,
+      "tx": "0x7390af65fcf1de455ad8fb7605d7ea81871b769abc0349993e00237d8b5fbb7a"
+    },
+    {
+      "depositor": "0x05Aa96d02Adf3ad61B29cB3Dbc858B3487846A65",
+      "shares": "90294.45676214632952657",
+      "block": 25292970,
+      "tx": "0x0b5ee4c7695addd2953ee6b0298c6bde46b5a690849caa4815fdff3c1bee390a"
+    },
+    {
+      "depositor": "0xe773e2551816252469dD917cE30fF8FA94678abe",
+      "shares": "1816112.360507186828788715",
+      "block": 25306941,
+      "tx": "0x5bae9d0b76bb11b206f7cb7dc85e2197fb988da2630137d8b3a7df38cf591de1"
+    },
+    {
+      "depositor": "0xe569a655ab65457dC79ab180eD723D91Adde5406",
+      "shares": "1769291.249083926907044085",
+      "block": 25308810,
+      "tx": "0x33f7ec0a203326edf4853c333f787eb5fbc05e06ebe354d0649707d3a512974a"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "116370.213272571002714996",
+      "block": 25395929,
+      "tx": "0x4ff0ee8d605c66002731c84afb2a90240453a06383ade1c47423d33c875dd77f"
+    },
+    {
+      "depositor": "0xc40144a1FcC7f5f2802922f37f9d418187c81a49",
+      "shares": "78437.209275840734590822",
+      "block": 25410158,
+      "tx": "0x0dbf00d3c6b37e71388e429a95fab9f37f5bc918cdf7a734a56e403f97e825c3"
+    },
+    {
+      "depositor": "0xc40144a1FcC7f5f2802922f37f9d418187c81a49",
+      "shares": "11758.531135296380320072",
+      "block": 25413572,
+      "tx": "0xbdc96859326d3022ab44a515b07d6c1d26533e30458302e3db856450411b7617"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "42625.351516101488556596",
+      "block": 25567115,
+      "tx": "0xcd8b5dd49b6202b36641d55c54c71b60d65c0a961fa484d124a98b967c3fffcb"
+    },
+    {
+      "depositor": "0xc40144a1FcC7f5f2802922f37f9d418187c81a49",
+      "shares": "90179.832946694162030066",
+      "block": 25583975,
+      "tx": "0x8935e9ce2de21ca5dd3162676336fbc5c4f3fca9b2913c3c86608d698424e965"
+    },
+    {
+      "depositor": "0xb2CcF74c42C8491c6EbD6388D871E90C3C237077",
+      "shares": "2247862.619443541477014129",
+      "block": 25702015,
+      "tx": "0x24d76f38b5bcd4892fc10fb91d4e1d392e702a5c50fe7ccfcbcd90d50269df5e"
+    },
+    {
+      "depositor": "0x73ADa680F6487211c613f5a31cA0780152657BE9",
+      "shares": "179177.667711264281762555",
+      "block": 25740497,
+      "tx": "0xfc958bf2a8b0c0616a809597c79e4f6e834d9c48962eeba736464dfff95a29a1"
+    },
+    {
+      "depositor": "0xd4A9d77B82c4cAf50F2B6FfDE098e4Cf6D37455A",
+      "shares": "125393.465650274949197297",
+      "block": 25740995,
+      "tx": "0x5a1e6e4b295c6079f2b5b657bc99ce2fe941479e718da1638f1fb60aeff0a6e0"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "1794730.255641540200746675",
+      "block": 25751935,
+      "tx": "0x66efa9e7e8f921b0a37cd9e5eaa0ded8dc69db015e628c5bbb5c0ddc0dfd7b1d"
+    },
+    {
+      "depositor": "0xd1db1b014513ffCC2a3B204A8483d9243D08b684",
+      "shares": "1806408.621861255438292016",
+      "block": 25757938,
+      "tx": "0xc0b65c0a56ea4b84df3be7668ff223ffdb7e868586583c7ef0dbb6b6d0287b40"
+    },
+    {
+      "depositor": "0xc40144a1FcC7f5f2802922f37f9d418187c81a49",
+      "shares": "379947.330028524635874188",
+      "block": 25830304,
+      "tx": "0xc8452c3c4b0159e55c124274a53d6c33c12aa45b70abbe0271e52c1ce00ab326"
+    },
+    {
+      "depositor": "0x1102fE5a9ba1517e57f8aef09F108d0Ce096E4FB",
+      "shares": "8966023.272217766914763997",
+      "block": 25931705,
+      "tx": "0xe261380ad9049250f92972965ea5b53523852e7fce4fb53bc566e50e047230d6"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "3160317.443002964354144429",
+      "block": 26210463,
+      "tx": "0x6d9ced92ed22c3259b761f0cd3cdcf97a5856d92a1b0976512c4da5e3b5bba40"
+    },
+    {
+      "depositor": "0x195458B682791666037d9c146bc4D6106d06BC8b",
+      "shares": "905884.561476510576542402",
+      "block": 26210613,
+      "tx": "0x68dedca943427f26d7b9d54afad892ca9e00bf7555b4b6aab3d3dc3673b7f2c3"
+    },
+    {
+      "depositor": "0xf7e9CAaaEEb6cC9657E1Dd490F044114AecC31B2",
+      "shares": "3572.347770592612684228",
+      "block": 26311217,
+      "tx": "0xeaf63b5b724d66a5e2df9805edc814c93e36c42f85ba6c7c4e187e8d1cd02218"
+    },
+    {
+      "depositor": "0x7349A18039B9a6bA51E58bAb714E5835bC934AD0",
+      "shares": "3445531.918527179144104375",
+      "block": 26370410,
+      "tx": "0x192f90c9cd52a2ee644b084cc6f660b8a733cafdc0b7a38b5d0d5783f62f9e32"
+    },
+    {
+      "depositor": "0xecD00B55dDCBcBf38EcA7ae5c2d0b7F97EEe0d8b",
+      "shares": "11475527.084070490138131603",
+      "block": 26435466,
+      "tx": "0xfee35bab5c91d10d0b2d275aa8595f1b1b2aab0ebb16fdb062051351a74964df"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "203202.714517048274995156",
+      "block": 26908148,
+      "tx": "0x0f893b6a3ffff12539a77e0abe82660c49932ebf685afcece8db48374e4d78dc"
+    },
+    {
+      "depositor": "0x0Fcd27c998D87D3CF796E386b95b2bCB81461F76",
+      "shares": "2466758.468252723771581149",
+      "block": 27040666,
+      "tx": "0x51d989d7247c299b56a9689a28de12ebd0b6688b05ead5f45cf847d0a1f9c3c8"
+    },
+    {
+      "depositor": "0xeA6dA25D4b18a48c5BDfa7B52e40E20e5FfD9ED8",
+      "shares": "1781505.356935086880595016",
+      "block": 27043586,
+      "tx": "0x8cbaf1ccea93a82f18462a079fb5076c5c38c6af23e0826c8698713b63142fd2"
+    },
+    {
+      "depositor": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "shares": "666781.187462439516890985",
+      "block": 27050321,
+      "tx": "0xd77516050fc13c38a5590ab6a46f4ffad026033479d2e643dadf6edef6688e50"
+    },
+    {
+      "depositor": "0xeA6dA25D4b18a48c5BDfa7B52e40E20e5FfD9ED8",
+      "shares": "1904793.852540407593994477",
+      "block": 27095010,
+      "tx": "0xb483daaf72191780fb96aaebfadfaedea9ab966249a59b2de513d96f260f70b1"
+    },
+    {
+      "depositor": "0xb243B46A3b5B2D84af14A0dB72868a10572538C3",
+      "shares": "9741389.833063169403375444",
+      "block": 27168559,
+      "tx": "0xb675db7f57302216a0adfa78d64070ea0b59f61711d184942db0e5e99a61476e"
+    },
+    {
+      "depositor": "0x0Fcd27c998D87D3CF796E386b95b2bCB81461F76",
+      "shares": "2466753.302494815530116896",
+      "block": 27729357,
+      "tx": "0xf091937fec3d0b3d509d056baeb6c7d7774749ecb48d8a0988f7883e710962b4"
+    },
+    {
+      "depositor": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "shares": "3520396.73240038891638694",
+      "block": 27757471,
+      "tx": "0x1294fd59e580d2e6698ba282b14928d662fb76cdad07137bc3d21c5a7c09e3b5"
+    },
+    {
+      "depositor": "0xecD00B55dDCBcBf38EcA7ae5c2d0b7F97EEe0d8b",
+      "shares": "11731371.495506554013653548",
+      "block": 27758143,
+      "tx": "0x3ad92337109ecdef75d2d5cf47c4acf4b4b51e666693ddd0844108b37508fc5d"
+    },
+    {
+      "depositor": "0xDC054839F9d0AAe7B01e30F039358B71e10dCE8c",
+      "shares": "1752016.393883498008306967",
+      "block": 28252950,
+      "tx": "0xabdd8ca105d4e39f2c4403b7e52d6b06355974803bd4c4071e29a876cd13ab7a"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "471157.775620532544486537",
+      "block": 28281816,
+      "tx": "0xf91d4df7903f4fa8b4c88ba2c6daad3467fba87b63cd08f9012cc560df3f3861"
+    },
+    {
+      "depositor": "0xe5F19806BE560f6EB56eA9eDD8B0981FF6333753",
+      "shares": "88133.162603710725994424",
+      "block": 28296330,
+      "tx": "0xdbcd3ae4d1f23f1ca48b3e467878208fc6433dbe6d58074e20f29160448c83ae"
+    },
+    {
+      "depositor": "0x8433934439AE4cACffF01902bEeE59444b87522b",
+      "shares": "1752528.359169021506892566",
+      "block": 28328625,
+      "tx": "0x8b6b2966a08bf3b31f29904179e3139d43ab81d868425626f70154f6aa9d1076"
+    },
+    {
+      "depositor": "0x7a42fD5343792Ef185287eb1705259590D0Ee506",
+      "shares": "79501.36447590573657152",
+      "block": 28341277,
+      "tx": "0xb776b8e17c0b0bf369b01b97f7a2c341038dc6fff0d1d7744685d77f64f0b123"
+    },
+    {
+      "depositor": "0x8433934439AE4cACffF01902bEeE59444b87522b",
+      "shares": "469.217235158569328961",
+      "block": 28458754,
+      "tx": "0x018e8600b444cfc934d851067b46978673585eca9c1effeb71974823599d5d0b"
+    },
+    {
+      "depositor": "0x2f93370319E102a866dd163FcCD435acFe0f4b27",
+      "shares": "2187815.815188052848784517",
+      "block": 28498567,
+      "tx": "0x42773286031227a706786b39646de71a964b2e56f0f29cff3a141a09a05287d5"
+    },
+    {
+      "depositor": "0x7a42fD5343792Ef185287eb1705259590D0Ee506",
+      "shares": "320738.928444087331562396",
+      "block": 28543684,
+      "tx": "0xf54c8d3bdc0f77e3c2f00bdfea2ce56ca97e3bf66f7ed4c578a3e2bb20acda16"
+    },
+    {
+      "depositor": "0xF3EB90d112D36e2C464075D1c3aaA1bE44B4EC98",
+      "shares": "364752.106131706171819141",
+      "block": 28575204,
+      "tx": "0x6df43201adafa296d708ec9d22e7c0915bf4a41705f5b1c32cf715df31642d9b"
+    },
+    {
+      "depositor": "0xF3EB90d112D36e2C464075D1c3aaA1bE44B4EC98",
+      "shares": "450696.562176789363840809",
+      "block": 28575303,
+      "tx": "0x8eefb9773e99e2376b09ce96c48399d0749bcd7ddfb3b02fb25502a2368a9657"
+    },
+    {
+      "depositor": "0xF3EB90d112D36e2C464075D1c3aaA1bE44B4EC98",
+      "shares": "79001.122911884715655395",
+      "block": 28577556,
+      "tx": "0xb65593597b4cb153733d1f1f5f8a3b4fef34e6f90cf499b8d9f25cfce332975d"
+    },
+    {
+      "depositor": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "shares": "524804.560645336866629701",
+      "block": 28598552,
+      "tx": "0x8839168f6252f54f22378f33dd3a089c46519ec9c97bf8d19fcf45f2cf7ebc7a"
+    },
+    {
+      "depositor": "0x0DfcA9B911BB150E04f7F5Ce44B5F7011886C0Df",
+      "shares": "299.187067681976111839",
+      "block": 28753431,
+      "tx": "0x00a14e20ee04863756ada66219d14e2c5dcc48e975cc44fb2e1eb11d350da8c1"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "200236.670817653748430471",
+      "block": 28805267,
+      "tx": "0x6da62f5460ac9c5e7e18bf2a7cf5c86a703d0e5760f4c088a01396dff200dbb5"
+    },
+    {
+      "depositor": "0x8fCC8bF64de304c53A9fC4C34925Bd72A6C934a0",
+      "shares": "8694.529738665900311396",
+      "block": 28888134,
+      "tx": "0x746100d0bf943ecef4b4347fa0daf9262d55e06a7be1fa2e40c99195f70f078d"
+    },
+    {
+      "depositor": "0x536AFFD4906F70223024303e87180e5724Def57c",
+      "shares": "8777.767120777762833513",
+      "block": 28926263,
+      "tx": "0x05be4d7a6ded3e5a2d710df7f4bd7c31f7de355296a0cf65070b6bb37083c64c"
+    },
+    {
+      "depositor": "0xb82bE987cF6f25d0F040Ca4567e3dacb4b92Aa91",
+      "shares": "17344.877663110110849441",
+      "block": 28941413,
+      "tx": "0xfc0fde0426aadd0db63b425b8af503173dcc2208ac30e9a4eddb644e6a647892"
+    },
+    {
+      "depositor": "0xe5F19806BE560f6EB56eA9eDD8B0981FF6333753",
+      "shares": "34788.771935924967257705",
+      "block": 28967198,
+      "tx": "0xe4d995df44583f48184dca8a616b0348a69a75a29f4d5f0a6e5aff8c4e43740b"
+    },
+    {
+      "depositor": "0x8DcB463DDe0942Dac216Af9E22755b0a2c8fd75F",
+      "shares": "863819.295530768335069112",
+      "block": 29230233,
+      "tx": "0x8fc71b6c5b33c7c24f62bb196ff9cf94674b2654c74a0bcda68967da85482647"
+    },
+    {
+      "depositor": "0x6C07bEE398a98b5E7d15aa1Bc2cC4300514CABf7",
+      "shares": "176613.73848581651578587",
+      "block": 29358168,
+      "tx": "0xca671f2b270e56304b529edc31dae623a9c4cc8c5a33b7cab6789a241398cd75"
+    },
+    {
+      "depositor": "0x0CDe7d1864c84697F03d903f54f4cf14eDA92172",
+      "shares": "34308.623499458023591566",
+      "block": 29460146,
+      "tx": "0x7024bb721149565d0bcffa9a0ffe0e6c6078d992a6c7cb9d49f78dc25e2f085c"
+    },
+    {
+      "depositor": "0xce78603c478a4bF49ABE925b4A1a17bc3a52F267",
+      "shares": "852657.580123273299093864",
+      "block": 29787810,
+      "tx": "0x876d0eec9ca06365025bf58f8d7a23daea0889614f178e06ea0b786b298e8e3e"
+    },
+    {
+      "depositor": "0xce78603c478a4bF49ABE925b4A1a17bc3a52F267",
+      "shares": "3248532.959708186488712851",
+      "block": 29915748,
+      "tx": "0x9804c4b6ef9763654477502751c77b8fb0f53d555d8141e016c47396aff99712"
+    },
+    {
+      "depositor": "0xcF93088CCd85a6ce1602A34D3189924489CA867E",
+      "shares": "432573.087581293431435832",
+      "block": 30392361,
+      "tx": "0xa3c094d4afedbe03751bcff4dadc33133bd20de6f077c08b5e36f9deb0654cb3"
+    },
+    {
+      "depositor": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "shares": "85370.768367572561661186",
+      "block": 30493922,
+      "tx": "0xe7ab47aff3973812b773042fc23df97c6fa4d33a59bb82854ebee495574c59a2"
+    },
+    {
+      "depositor": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "shares": "42123.984954514103644533",
+      "block": 30544089,
+      "tx": "0x46a77122bca5915708ffe579f5e6f017ac871ab2a56d18b0b204dcf3f841c130"
+    },
+    {
+      "depositor": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "shares": "9648504.982219891308398027",
+      "block": 30544311,
+      "tx": "0xef4ee0a51cad6ca7da874f1778bdea7debd48e556669d6f4d669c030baf0f647"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "839933.533554639962858873",
+      "block": 30724531,
+      "tx": "0xac5023592f9422b0248956e36c16fbe8f52da7af868bdfcea6a063a5d817cc7f"
+    },
+    {
+      "depositor": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "shares": "6499325.367607640394472434",
+      "block": 30726970,
+      "tx": "0x3f7454416ab4e0eee9c6a0868ed8f0e544b8e2f45d8c715a44b26a606ae86709"
+    },
+    {
+      "depositor": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "shares": "511056.749480107888029451",
+      "block": 30727967,
+      "tx": "0xfb9fb6338f1ea3a6415d95d77d75526c5a4a6f892fdf5ba5c8f6e4826488af79"
+    },
+    {
+      "depositor": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "shares": "4234853.909695945785688694",
+      "block": 30847053,
+      "tx": "0xc07e24cb1913ff1f06a5ac6a82d4874ffcbff0f1f9c571792ffa6c0d8e22b9be"
+    },
+    {
+      "depositor": "0x4f42aAd691968ec26C150b2F69fdf66D4aB33b18",
+      "shares": "42535.06642608551671434",
+      "block": 30948001,
+      "tx": "0x267d8d97e4ef68637fa9627c6a11b73e8385709163281eafbe33b3f30c493d07"
+    },
+    {
+      "depositor": "0x0CDe7d1864c84697F03d903f54f4cf14eDA92172",
+      "shares": "34066.963959277505524827",
+      "block": 31271461,
+      "tx": "0x1eab9dc1417eff33dd405a364989cc100e8d517f2fae0988a7b42a4a90afa364"
+    },
+    {
+      "depositor": "0xcAd8A87531199cA34E419F9cA1646DE25395D755",
+      "shares": "829131.891872827436714082",
+      "block": 31383643,
+      "tx": "0x9f6a28cf1840349eea73c13fb8f46d39e99236bd93547be340b0a2c92b40198e"
+    },
+    {
+      "depositor": "0x4f42aAd691968ec26C150b2F69fdf66D4aB33b18",
+      "shares": "168308.642828182756261484",
+      "block": 31455720,
+      "tx": "0x3c8e40d480026410ca4caca467902e938cf16ab7906f205b3668742d2a84639a"
+    },
+    {
+      "depositor": "0xf9149B963Ed9CD8Bac918d70044A45D47413287c",
+      "shares": "207142.791657361513846526",
+      "block": 31543287,
+      "tx": "0x8da329533cb5749a170fadb60e77e74142a02b5aca9b063baf7696b28bd73587"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "82.65726461265016008",
+      "block": 31546658,
+      "tx": "0xd8879e12de941a33bf711a82d66a6aae4635848fe381dbea42fca0a81640c0a0"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "826.569123457440642593",
+      "block": 31546882,
+      "tx": "0x59c7af4a3e3b71bca01f4de2a11881282617c50e24ea19cecd08c6893f942e45"
+    },
+    {
+      "depositor": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "shares": "165.313173648121366991",
+      "block": 31547089,
+      "tx": "0xfaf7b0a7f65f1f5a9ff0a5089fe910a16e66552f2de8b782dad42a8908f89ca2"
+    }
+  ]
+}
