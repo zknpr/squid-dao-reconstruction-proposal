@@ -1,0 +1,827 @@
+{
+  "generated_at": "2026-02-27T08:00:00.072Z",
+  "description": "Unified lender view merging direct vault holders, Convex depositors, and direct gauge stakers. Addresses appearing in multiple categories have their positions summed.",
+  "source_timestamps": {
+    "lender_data": "2026-02-25T13:42:14.958Z",
+    "convex_lender_data": "2026-02-26T20:25:03.232Z"
+  },
+  "vault": {
+    "address": "0x5071ae9579db394f0a62e2fd3cefa6a1c434f61e",
+    "total_supply_shares": "106198573.091136108260998704",
+    "total_assets_crvusd": "131210.245892873267123044",
+    "price_per_share": "0.001235517974241263",
+    "block": 32663305,
+    "chain": "Fraxtal (252)"
+  },
+  "summary": {
+    "unique_lenders": 48,
+    "multi_source_lenders": 4,
+    "total_tracked_shares": "106198573.091136112809181213",
+    "total_tracked_crvusd": "131210.245893",
+    "coverage_pct": "100.00",
+    "by_source": {
+      "direct_vault": {
+        "count": 30,
+        "total_crvusd": "51901.115034"
+      },
+      "convex": {
+        "count": 17,
+        "total_crvusd": "70637.408810"
+      },
+      "direct_gauge": {
+        "count": 5,
+        "total_crvusd": "8671.722049"
+      }
+    }
+  },
+  "lenders": [
+    {
+      "rank": 1,
+      "address": "0x44537005262af983c37D79D5a8a74d963b4c8726",
+      "total_shares": "21021235.762325670570135117",
+      "total_crvusd_value": "25972.114625",
+      "pct_of_vault": "19.79",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "21021235.762325670570135117",
+          "crvusd_value": "25972.114625"
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "address": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "total_shares": "20709923.659440767019987106",
+      "total_crvusd_value": "25587.482926",
+      "pct_of_vault": "19.50",
+      "sources": [
+        "direct_vault",
+        "convex"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "13972969.068409297615289688",
+          "crvusd_value": "17263.854438"
+        },
+        "convex": {
+          "shares": "6736954.591031468473374844",
+          "crvusd_value": "8323.628489"
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "address": "0xecD00B55dDCBcBf38EcA7ae5c2d0b7F97EEe0d8b",
+      "total_shares": "20620317.784005876630544662",
+      "total_crvusd_value": "25476.773257",
+      "pct_of_vault": "19.42",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "20620317.784005876630544662",
+          "crvusd_value": "25476.773257"
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "address": "0x40d2Ce4C14f04bD91c59c6A1CD6e28F2A0fc81F8",
+      "total_shares": "15928288.360936207696795464",
+      "total_crvusd_value": "19679.686569",
+      "pct_of_vault": "15.00",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "15928288.360936207696795464",
+          "crvusd_value": "19679.686569"
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "address": "0xE955f8Eed3321f8431F2924C65824F1910eb0638",
+      "total_shares": "6244611.811186905950307846",
+      "total_crvusd_value": "7715.330135",
+      "pct_of_vault": "5.88",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "6244611.811186905950307846",
+          "crvusd_value": "7715.330135"
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "address": "0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6",
+      "total_shares": "5646105.860280669294297695",
+      "total_crvusd_value": "6975.865275",
+      "pct_of_vault": "5.32",
+      "sources": [
+        "direct_gauge"
+      ],
+      "positions": {
+        "direct_gauge": {
+          "shares": "5646105.860280669294297695",
+          "crvusd_value": "6975.865275"
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "address": "0x78C73dFd4E67a0eaBC4A5873816Df959ff1FdCc5",
+      "total_shares": "5527116.935287290252745152",
+      "total_crvusd_value": "6828.852319",
+      "pct_of_vault": "5.20",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "5527116.935287290252745152",
+          "crvusd_value": "6828.852319"
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "address": "0x3a5B22CdF32cFE76DB6FD1bA7D47cDf459f0011b",
+      "total_shares": "1832082.702019957127049565",
+      "total_crvusd_value": "2263.571109",
+      "pct_of_vault": "1.73",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "1832082.702019957127049565",
+          "crvusd_value": "2263.571109"
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "address": "0xd1db1b014513ffCC2a3B204A8483d9243D08b684",
+      "total_shares": "1820032.424762758659198880",
+      "total_crvusd_value": "2248.682774",
+      "pct_of_vault": "1.71",
+      "sources": [
+        "direct_vault",
+        "convex"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.039431503701715991",
+          "crvusd_value": "0.000049"
+        },
+        "convex": {
+          "shares": "1820032.385331254918128252",
+          "crvusd_value": "2248.682726"
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "address": "0xe569a655ab65457dC79ab180eD723D91Adde5406",
+      "total_shares": "1769291.249083926901221275",
+      "total_crvusd_value": "2185.991140",
+      "pct_of_vault": "1.67",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "1769291.249083926901221275",
+          "crvusd_value": "2185.991140"
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "address": "0x2539095dc372e2d4198e2d7CB3492145D2965f49",
+      "total_shares": "1372086.756897136801853776",
+      "total_crvusd_value": "1695.237850",
+      "pct_of_vault": "1.29",
+      "sources": [
+        "direct_gauge"
+      ],
+      "positions": {
+        "direct_gauge": {
+          "shares": "1372086.756897136801853776",
+          "crvusd_value": "1695.237850"
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "address": "0xcF93088CCd85a6ce1602A34D3189924489CA867E",
+      "total_shares": "1280581.374285486992448568",
+      "total_crvusd_value": "1582.181305",
+      "pct_of_vault": "1.21",
+      "sources": [
+        "direct_vault",
+        "convex"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "1.374285487090659119",
+          "crvusd_value": "0.001698"
+        },
+        "convex": {
+          "shares": "1280580.000000000000000000",
+          "crvusd_value": "1582.179607"
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "address": "0xC3493323a9251Ca4c773D715Dd5E96A05D6b03Bd",
+      "total_shares": "743852.761632312554866076",
+      "total_crvusd_value": "919.043457",
+      "pct_of_vault": "0.70",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "743852.761632312554866076",
+          "crvusd_value": "919.043457"
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "address": "0xcCdf3a72Ce978d7E501C86408f15897278608117",
+      "total_shares": "632797.615700133377686143",
+      "total_crvusd_value": "781.832828",
+      "pct_of_vault": "0.60",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "632797.615700133377686143",
+          "crvusd_value": "781.832828"
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "address": "0xb19d6B66b18FAE0FcA1023138B229e5F970b5180",
+      "total_shares": "468894.701026836759410799",
+      "total_crvusd_value": "579.327831",
+      "pct_of_vault": "0.44",
+      "sources": [
+        "direct_vault",
+        "direct_gauge"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "468394.701026836759410799",
+          "crvusd_value": "578.710072"
+        },
+        "direct_gauge": {
+          "shares": "500.000000000000000000",
+          "crvusd_value": "0.617759"
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "address": "0x4f42aAd691968ec26C150b2F69fdf66D4aB33b18",
+      "total_shares": "210843.709254268265794963",
+      "total_crvusd_value": "260.501193",
+      "pct_of_vault": "0.20",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "210843.709254268265794963",
+          "crvusd_value": "260.501193"
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "address": "0xd24e39f8671F2EAfE305835d6d9Ce6Af3B106C44",
+      "total_shares": "187988.846081578289158642",
+      "total_crvusd_value": "232.263598",
+      "pct_of_vault": "0.18",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "187988.846081578289158642",
+          "crvusd_value": "232.263598"
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "address": "0x77A7f6Aac8d020eb2C9955eD00CDb05F1f4EB64d",
+      "total_shares": "64945.469794992422976065",
+      "total_crvusd_value": "80.241295",
+      "pct_of_vault": "0.06",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "64945.469794992422976065",
+          "crvusd_value": "80.241295"
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "address": "0x9E0c1eEA16E217f23Bbfaa9A6b22BE877Cb6eaD6",
+      "total_shares": "35337.383327625298989005",
+      "total_crvusd_value": "43.659972",
+      "pct_of_vault": "0.03",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "35337.383327625298989005",
+          "crvusd_value": "43.659972"
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "address": "0x8BaA45B36381FF1BD33E4d037672e02a287b7f0D",
+      "total_shares": "32993.756476228969404474",
+      "total_crvusd_value": "40.764379",
+      "pct_of_vault": "0.03",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "32993.756476228969404474",
+          "crvusd_value": "40.764379"
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "address": "0xb82bE987cF6f25d0F040Ca4567e3dacb4b92Aa91",
+      "total_shares": "17344.877663110110006528",
+      "total_crvusd_value": "21.429908",
+      "pct_of_vault": "0.02",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "17344.877663110110006528",
+          "crvusd_value": "21.429908"
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "address": "0x536AFFD4906F70223024303e87180e5724Def57c",
+      "total_shares": "8777.767120777762102080",
+      "total_crvusd_value": "10.845089",
+      "pct_of_vault": "0.01",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "8777.767120777762102080",
+          "crvusd_value": "10.845089"
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "address": "0x8fCC8bF64de304c53A9fC4C34925Bd72A6C934a0",
+      "total_shares": "8694.529738665900367778",
+      "total_crvusd_value": "10.742248",
+      "pct_of_vault": "0.01",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "8694.529738665900367778",
+          "crvusd_value": "10.742248"
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "address": "0xd565D2740F2896523D43A2943Cd21A94E78Cdfc1",
+      "total_shares": "5473.406967245080522844",
+      "total_crvusd_value": "6.762493",
+      "pct_of_vault": "0.01",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "5473.406967245080522844",
+          "crvusd_value": "6.762493"
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "address": "0x5B31d267179696c8D70E7EB7E6c6A4f6a711aEc5",
+      "total_shares": "4676.555564615889124980",
+      "total_crvusd_value": "5.777968",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "4676.555564615889124980",
+          "crvusd_value": "5.777968"
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "address": "0x50263dD95A109f0c1681cBc5Ba8fcd0eB11c6AeC",
+      "total_shares": "3846.118444308156085754",
+      "total_crvusd_value": "4.751948",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "3846.118444308156085754",
+          "crvusd_value": "4.751948"
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "address": "0x0DfcA9B911BB150E04f7F5Ce44B5F7011886C0Df",
+      "total_shares": "299.187067681976088807",
+      "total_crvusd_value": "0.369651",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "299.187067681976088807",
+          "crvusd_value": "0.369651"
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "address": "0x6C46f3F23eD4a070dA8D7C1Af302d09394EfB79f",
+      "total_shares": "95.773312880162265515",
+      "total_crvusd_value": "0.118330",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "95.773312880162265515",
+          "crvusd_value": "0.118330"
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "address": "0xb243B46A3b5B2D84af14A0dB72868a10572538C3",
+      "total_shares": "30.883724926014473056",
+      "total_crvusd_value": "0.038157",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "30.883724926014473056",
+          "crvusd_value": "0.038157"
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "address": "0xf6e28725Bb3B7cE68C5Be2dc4ad5147f79aF2ca2",
+      "total_shares": "1.278538764816210538",
+      "total_crvusd_value": "0.001580",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "1.278538764816210538",
+          "crvusd_value": "0.001580"
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "address": "0xdAc7a91516112703448B5d1fbC8B679fcE838E8A",
+      "total_shares": "0.942664697064543367",
+      "total_crvusd_value": "0.001165",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_gauge"
+      ],
+      "positions": {
+        "direct_gauge": {
+          "shares": "0.942664697064543367",
+          "crvusd_value": "0.001165"
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "address": "0x4d8eB792A83B27F115f8cf5bD4397FaFB5aBdf3e",
+      "total_shares": "0.884697496928468996",
+      "total_crvusd_value": "0.001093",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.884697496928468996",
+          "crvusd_value": "0.001093"
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "address": "0xDb83B73314c87c015EE8B8Ac908cF0F197Cd9d98",
+      "total_shares": "0.789084453972372812",
+      "total_crvusd_value": "0.000975",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.789084453972372812",
+          "crvusd_value": "0.000975"
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "address": "0x79D6bdf29a0cefC62Fc40F29E3156E373261db09",
+      "total_shares": "0.334587533739525655",
+      "total_crvusd_value": "0.000413",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.334587533739525655",
+          "crvusd_value": "0.000413"
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "address": "0x9773c8f7a6D111fd5AbD65545aB0362E9382f729",
+      "total_shares": "0.274044526854631987",
+      "total_crvusd_value": "0.000339",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.274044526854631987",
+          "crvusd_value": "0.000339"
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "address": "0x238bA16A661B23fce8139216e80EfF22b9602033",
+      "total_shares": "0.176983053854576106",
+      "total_crvusd_value": "0.000219",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.176983053854576106",
+          "crvusd_value": "0.000219"
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "address": "0xABc8a895c10d516E673fcDBFA25ee1836F1E3FAa",
+      "total_shares": "0.106699187265710524",
+      "total_crvusd_value": "0.000132",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.106699187265710524",
+          "crvusd_value": "0.000132"
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "address": "0xC51feFB9eF83f2D300448b22Db6fac032F96DF3F",
+      "total_shares": "0.086417478564042430",
+      "total_crvusd_value": "0.000107",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.086417478564042430",
+          "crvusd_value": "0.000107"
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "address": "0xC81fA91f8da4f2b07434BB4DFc205FaDbD1beb6E",
+      "total_shares": "0.048028951873894277",
+      "total_crvusd_value": "0.000059",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.048028951873894277",
+          "crvusd_value": "0.000059"
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "address": "0x9B6ABB92f939488C73fAfc94B220Ae196ea50199",
+      "total_shares": "0.035585984061853947",
+      "total_crvusd_value": "0.000044",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.035585984061853947",
+          "crvusd_value": "0.000044"
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "address": "0x69c83f053Dbf28C2F82d2F9De5D4D00020a3deC7",
+      "total_shares": "0.032518638216384420",
+      "total_crvusd_value": "0.000040",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.032518638216384420",
+          "crvusd_value": "0.000040"
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "address": "0x73ADa680F6487211c613f5a31cA0780152657BE9",
+      "total_shares": "0.026278001629987988",
+      "total_crvusd_value": "0.000032",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.026278001629987988",
+          "crvusd_value": "0.000032"
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "address": "0x8Ac286Ff7a2703Ee4BeD827450EA7a48b3353886",
+      "total_shares": "0.015721031160776822",
+      "total_crvusd_value": "0.000019",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.015721031160776822",
+          "crvusd_value": "0.000019"
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "address": "0x439494f5598f632c88C29d593f9Ee9948F7F4b31",
+      "total_shares": "0.013821901896679390",
+      "total_crvusd_value": "0.000017",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.013821901896679390",
+          "crvusd_value": "0.000017"
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "address": "0xCA0073964efe7f9422CeB16901018b1DB0cC4785",
+      "total_shares": "0.012892741196451323",
+      "total_crvusd_value": "0.000016",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.012892741196451323",
+          "crvusd_value": "0.000016"
+        }
+      }
+    },
+    {
+      "rank": 46,
+      "address": "0x1525D8fcAD680088245055fFB43179367D3EFfC0",
+      "total_shares": "0.007767954730514555",
+      "total_crvusd_value": "0.000010",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_vault"
+      ],
+      "positions": {
+        "direct_vault": {
+          "shares": "0.007767954730514555",
+          "crvusd_value": "0.000010"
+        }
+      }
+    },
+    {
+      "rank": 47,
+      "address": "0x7ef2747c887A22ddfa60079cc3a373AC38Ad9abe",
+      "total_shares": "0.001381407935323127",
+      "total_crvusd_value": "0.000002",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "convex"
+      ],
+      "positions": {
+        "convex": {
+          "shares": "0.001381407935323127",
+          "crvusd_value": "0.000002"
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "address": "0x29397B2797180D0885FC7CadCF8c220C566876a5",
+      "total_shares": "0.000011459783705525",
+      "total_crvusd_value": "0.000000",
+      "pct_of_vault": "0.00",
+      "sources": [
+        "direct_gauge"
+      ],
+      "positions": {
+        "direct_gauge": {
+          "shares": "0.000011459783705525",
+          "crvusd_value": "0.000000"
+        }
+      }
+    }
+  ]
+}
