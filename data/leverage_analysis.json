@@ -1,0 +1,886 @@
+{
+  "analysis_date": "2026-02-27T23:44:39.769Z",
+  "selector_map": {
+    "0x23cfed03": "create_loan (standard)",
+    "0x4ba96d46": "create_loan_extended (LEVERAGE)",
+    "0x24977ef3": "borrow_more_extended (LEVERAGE)",
+    "0xdd171e7c": "borrow_more (standard)",
+    "0x24049e57": "add_collateral (no borrow)"
+  },
+  "borrower_summaries": [
+    {
+      "address": "0x81f9B40Dee106a4C5822aED7641D5C1e2B40F922",
+      "isSam": true,
+      "samWallet": "Wallet1",
+      "events": [
+        {
+          "timestamp": "2024-10-31T04:13:17.000Z",
+          "txHash": "0x9a0df569d4b6ca85febf6fe8036a02bae194cf223e30cf2bf6f1a4ffd56c93a6",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 1700844.1278563892,
+          "borrowed": 472.8030392436482,
+          "logCount": 6,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-03-02T02:16:17.000Z",
+          "txHash": "0x149d209d1465fb1a8c7e587b60d496fb4703aa094ad093f2d7971b0f66ccecdb",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 5271769.348489665,
+          "borrowed": 3060.397110607399,
+          "logCount": 38,
+          "transferCount": 20
+        },
+        {
+          "timestamp": "2025-03-02T02:33:49.000Z",
+          "txHash": "0x343530694430d90a929c5cbb88ee18275bee11275e245f4330b359290caa19e9",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 622183.011462902,
+          "borrowed": 1990.5677434643883,
+          "logCount": 22,
+          "transferCount": 10
+        },
+        {
+          "timestamp": "2025-03-02T03:28:51.000Z",
+          "txHash": "0x4dd4303f8bedfd59a72e27633ec579cd6f3fee64bd7dbf009aaa96ff9ec17601",
+          "selector": "0x24049e57",
+          "classification": "add_collateral (no borrow)",
+          "isLeverage": false,
+          "collateral": 25045.328604006627,
+          "borrowed": 0,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-03-10T01:25:15.000Z",
+          "txHash": "0xb950c476e924ebed5e1492a8702311df21e1697fecb23d6849e0a8cb7d9200e4",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 464282.4130788231,
+          "borrowed": 3911.4610417227423,
+          "logCount": 53,
+          "transferCount": 25
+        },
+        {
+          "timestamp": "2025-03-12T15:42:59.000Z",
+          "txHash": "0xde52429bd4e216c6ca43250411afaa545ab60e69d334ab0c56300b79fd07f447",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 575441.1866606728,
+          "borrowed": 13736.154050350156,
+          "logCount": 90,
+          "transferCount": 44
+        },
+        {
+          "timestamp": "2025-03-19T15:04:35.000Z",
+          "txHash": "0xf034329b7d31482041159b28f8f5d2458cb018a07b005bdc4b75a85c14a15f46",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 2200,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-04-07T14:27:53.000Z",
+          "txHash": "0xf8eaab88a04ea37a674f88e2109b05b77261b787f9c3b91360c7448f8bf668b6",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 351450.1335456061,
+          "borrowed": 5000,
+          "logCount": 64,
+          "transferCount": 30
+        },
+        {
+          "timestamp": "2025-04-17T19:50:59.000Z",
+          "txHash": "0xfaa7d3f7587c9ac410a6a39403c2d2a223c746ad35f09a8d1eaf496ab32afe26",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 4080,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-05-13T18:26:33.000Z",
+          "txHash": "0x54124ca7e9be79943186877802e5cec13020a5ee9f9ee60d1ff55ab0ccdbaa03",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 22000,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-05-27T16:58:21.000Z",
+          "txHash": "0x46c367f7ceea8aa1115c455b3014705651fc4d044c93f4e6df649b2a72b15704",
+          "selector": "0x24049e57",
+          "classification": "add_collateral (no borrow)",
+          "isLeverage": false,
+          "collateral": 148075.03517641345,
+          "borrowed": 0,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-05-27T17:01:57.000Z",
+          "txHash": "0x5eac2f3f945c64d5b00eef5ae4f56e5a972927354412745f63c5756c7862341a",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 21500,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-06-01T03:11:27.000Z",
+          "txHash": "0x8c63049227fe96cffd01ed05451f0335b09165168a32f9a239e9c1bf09d99ccf",
+          "selector": "0x24049e57",
+          "classification": "add_collateral (no borrow)",
+          "isLeverage": false,
+          "collateral": 300152.44296870363,
+          "borrowed": 0,
+          "logCount": 6,
+          "transferCount": 1
+        }
+      ],
+      "totalCollateralDeposited": 9459243.027843181,
+      "totalCrvUSDBorrowed": 77951.38298538834,
+      "leverageCollateral": 7285126.093237669,
+      "leverageBorrowed": 27698.579946144688,
+      "standardCollateral": 2174116.934605513,
+      "standardBorrowed": 50252.80303924365,
+      "firstBorrow": "2024-10-31T04:13:17.000Z",
+      "lastBorrow": "2025-06-01T03:11:27.000Z",
+      "leverageCount": 5,
+      "standardCount": 8
+    },
+    {
+      "address": "0xccBF601eB2f5AA2D5d68b069610da6F1627D485d",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-03-09T15:47:59.000Z",
+          "txHash": "0xac20dd84974f210a19a74a0495d6dc04703090b4cfd3e22cec35f42ea3f4581e",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 5057727.586995824,
+          "borrowed": 5500,
+          "logCount": 44,
+          "transferCount": 22
+        },
+        {
+          "timestamp": "2025-03-12T15:36:19.000Z",
+          "txHash": "0xf94b1e7145a5f30249d302fb43f6e46b2372aae73b1feb97c57cef06fb7fd707",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 951882.7828062791,
+          "borrowed": 13000,
+          "logCount": 86,
+          "transferCount": 42
+        },
+        {
+          "timestamp": "2025-03-13T23:10:47.000Z",
+          "txHash": "0x1c930609abc3048a377935cad0fecbad58cc87bb0644f834546d8aa61e4c20f6",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 240432.5067834587,
+          "borrowed": 5000,
+          "logCount": 113,
+          "transferCount": 56
+        },
+        {
+          "timestamp": "2025-03-14T12:53:57.000Z",
+          "txHash": "0x69f2dd55cc7da4b1cf32700550ac23b1cce71f5738d305b63afd1272e1de26dc",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 22149.00623882178,
+          "borrowed": 500,
+          "logCount": 38,
+          "transferCount": 18
+        },
+        {
+          "timestamp": "2025-04-28T15:05:31.000Z",
+          "txHash": "0xc3eedeb5fa86464c5e5a2a5a5a04ff9e0b9ec8115b4576a160159be073d8b1d1",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 73748.7036060865,
+          "borrowed": 2200,
+          "logCount": 48,
+          "transferCount": 22
+        }
+      ],
+      "totalCollateralDeposited": 6345940.58643047,
+      "totalCrvUSDBorrowed": 26200,
+      "leverageCollateral": 6345940.58643047,
+      "leverageBorrowed": 26200,
+      "standardCollateral": 0,
+      "standardBorrowed": 0,
+      "firstBorrow": "2025-03-09T15:47:59.000Z",
+      "lastBorrow": "2025-04-28T15:05:31.000Z",
+      "leverageCount": 5,
+      "standardCount": 0
+    },
+    {
+      "address": "0xac844ADA82F3d0241533d827ebF84deb89617792",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-05-07T13:34:19.000Z",
+          "txHash": "0xb27d2526b839987f2b06cbd70bad6a134f7c3efa82398845d777e03fba033454",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 800000,
+          "borrowed": 7498,
+          "logCount": 6,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-06-03T12:48:59.000Z",
+          "txHash": "0x33f35367fb5823ad7e5b611794963128c3af235588ef52075dc4e2256fa00261",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 600000,
+          "borrowed": 5638,
+          "logCount": 7,
+          "transferCount": 2
+        }
+      ],
+      "totalCollateralDeposited": 1400000,
+      "totalCrvUSDBorrowed": 13136,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 1400000,
+      "standardBorrowed": 13136,
+      "firstBorrow": "2025-05-07T13:34:19.000Z",
+      "lastBorrow": "2025-06-03T12:48:59.000Z",
+      "leverageCount": 0,
+      "standardCount": 2
+    },
+    {
+      "address": "0xb53009E4dC25a494F3Bee03Ab121517e74b59F75",
+      "isSam": true,
+      "samWallet": "Wallet2",
+      "events": [
+        {
+          "timestamp": "2025-04-21T02:26:21.000Z",
+          "txHash": "0xb1dd4d64b837c82845b77551d27bdb8f8a731acfe8a8cb0b89584e035c957700",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 232140.4009293852,
+          "borrowed": 2388.374990320001,
+          "logCount": 63,
+          "transferCount": 31
+        },
+        {
+          "timestamp": "2025-04-25T15:13:03.000Z",
+          "txHash": "0x26c50e46ceb84866e4484189fa11018ecf7a266c73dcdb84524f10b469f41aca",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 1122.0004490571503,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-04-27T22:11:51.000Z",
+          "txHash": "0xd43719a5637d2c1163d63bf2b8dbb35baaffe981182100c61b2921cbc7d140ce",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 70247.46487179161,
+          "borrowed": 1961.9831318082443,
+          "logCount": 48,
+          "transferCount": 22
+        },
+        {
+          "timestamp": "2025-05-08T16:52:51.000Z",
+          "txHash": "0x5b86e9ef7519955cf246672d294910df69074567586486d0294b0e19b66382a5",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 2242.130297619452,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-05-09T18:08:33.000Z",
+          "txHash": "0x61b263aaa330754a15a7b74f744170f3c4ba20f70ff0d0542e294e20a5ea94f9",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 984.7169828092943,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-05-22T23:59:47.000Z",
+          "txHash": "0xa8a4b2240a68b7845bc0502cbbc6476d61eba29f499710fa8b39625ed56ed20a",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 500,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-06-22T23:54:31.000Z",
+          "txHash": "0xd9f9ca2790f438646dfcdb6a167de1a2c2e126d109c9ecb8af9478faf173d07f",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 48912.67122680214,
+          "borrowed": 10,
+          "logCount": 22,
+          "transferCount": 11
+        },
+        {
+          "timestamp": "2025-06-23T00:20:21.000Z",
+          "txHash": "0xe1622239e79b58d6fb2f83377f43340ddd50e2d4ef59c8541446a24267f1dcc2",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 47703.60710432369,
+          "borrowed": 68.4552053601334,
+          "logCount": 43,
+          "transferCount": 21
+        },
+        {
+          "timestamp": "2025-06-25T14:42:33.000Z",
+          "txHash": "0xf52a8015c08c7baf19586dfcc2e27bfb435071e8d47c0b63af2df77fd5145105",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 11228.750697054822,
+          "borrowed": 100,
+          "logCount": 58,
+          "transferCount": 27
+        },
+        {
+          "timestamp": "2025-07-22T15:56:35.000Z",
+          "txHash": "0xb318fe6b0acdf6ca58e3973142eacb310cbd4bd486ecd7489b196117345a79bc",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 266269.7893138164,
+          "borrowed": 1800,
+          "logCount": 7,
+          "transferCount": 2
+        }
+      ],
+      "totalCollateralDeposited": 676502.6841431739,
+      "totalCrvUSDBorrowed": 11177.661056974275,
+      "leverageCollateral": 410232.89482935745,
+      "leverageBorrowed": 4528.813327488379,
+      "standardCollateral": 266269.7893138164,
+      "standardBorrowed": 6648.847729485897,
+      "firstBorrow": "2025-04-21T02:26:21.000Z",
+      "lastBorrow": "2025-07-22T15:56:35.000Z",
+      "leverageCount": 5,
+      "standardCount": 5
+    },
+    {
+      "address": "0xEE952f4e436D78d313c64e798A0270770c5b17D8",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-04-22T15:09:33.000Z",
+          "txHash": "0x99893293519f1431b6e64e15fb66522583a55ef119e8dcf6939b641e7f67125c",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 220917.8681740823,
+          "borrowed": 2169.089544930828,
+          "logCount": 64,
+          "transferCount": 32
+        },
+        {
+          "timestamp": "2025-04-25T15:14:49.000Z",
+          "txHash": "0xb90d74f11fcf2be3f8ecf656c7bd39d7ff4522fd5d5f47d1419958b9eb5b4c0c",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 1133.1654552730379,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-04-25T15:19:27.000Z",
+          "txHash": "0x3eff03c68a3a9542220b5c8ca1b4e8e8498af1a26463e7495f8f38d47e7cf40e",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 128934.73894615842,
+          "borrowed": 3057.2840396181778,
+          "logCount": 90,
+          "transferCount": 43
+        },
+        {
+          "timestamp": "2025-05-16T19:13:45.000Z",
+          "txHash": "0x996227d51d13c7d5606e94989c202541b7e35e66cfa728d30981ae17ffbb323b",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 1000,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-06-01T03:14:35.000Z",
+          "txHash": "0xee6e83636adb3974908612530852a18b94cc27ac94cefc07879340e1a4c09c6b",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 63473.76920324308,
+          "borrowed": 1943.926349920293,
+          "logCount": 95,
+          "transferCount": 46
+        },
+        {
+          "timestamp": "2025-06-11T14:05:53.000Z",
+          "txHash": "0x85890adbe1932cc64cf3a737f88ba3a89519128a4c1b7302fd8e1464d72e112d",
+          "selector": "0x24049e57",
+          "classification": "add_collateral (no borrow)",
+          "isLeverage": false,
+          "collateral": 105999.77114586427,
+          "borrowed": 0,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-06-12T01:55:07.000Z",
+          "txHash": "0xdb739b3a4c96094746ad48ab7da5d423ae87e28f4394b7e929cf436b8a6bd648",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 800,
+          "logCount": 6,
+          "transferCount": 1
+        }
+      ],
+      "totalCollateralDeposited": 519326.1474693481,
+      "totalCrvUSDBorrowed": 10103.465389742338,
+      "leverageCollateral": 413326.3763234838,
+      "leverageBorrowed": 7170.2999344693,
+      "standardCollateral": 105999.77114586427,
+      "standardBorrowed": 2933.165455273038,
+      "firstBorrow": "2025-04-22T15:09:33.000Z",
+      "lastBorrow": "2025-06-12T01:55:07.000Z",
+      "leverageCount": 3,
+      "standardCount": 4
+    },
+    {
+      "address": "0xb19d6B66b18FAE0FcA1023138B229e5F970b5180",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-02-18T17:51:01.000Z",
+          "txHash": "0xa344446c57e0eee97f656844ade03dc7e289497dd105cd4ff7a96c30db7fe4fa",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 312299.1071428571,
+          "borrowed": 200.04043316639022,
+          "logCount": 6,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-03-26T19:18:41.000Z",
+          "txHash": "0xfac5e76f084e60ceacc5a7966376ec89efd2d0fdb334f3f4d4aac5a82ebe2fd0",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 155344.35261708006,
+          "borrowed": 3100,
+          "logCount": 7,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-05-25T11:54:55.000Z",
+          "txHash": "0x75b407ea46c42b6ae22e0c57a680aa5945d6ffaf47b3839ab09ea041ad3dee8e",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 4000,
+          "logCount": 6,
+          "transferCount": 1
+        }
+      ],
+      "totalCollateralDeposited": 467643.45975993713,
+      "totalCrvUSDBorrowed": 7300.04043316639,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 467643.45975993713,
+      "standardBorrowed": 7300.04043316639,
+      "firstBorrow": "2025-02-18T17:51:01.000Z",
+      "lastBorrow": "2025-05-25T11:54:55.000Z",
+      "leverageCount": 0,
+      "standardCount": 3
+    },
+    {
+      "address": "0x058d5EA1E87fcF6175EE1D2D69Ec778Af1E2a4De",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-07-04T22:58:31.000Z",
+          "txHash": "0x15668e581ad1e267c729c63eec1a82395e095dfa380c4f77ad90017f7386ba20",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 562916.7954458721,
+          "borrowed": 2944.351032864284,
+          "logCount": 81,
+          "transferCount": 38
+        },
+        {
+          "timestamp": "2025-07-04T23:07:49.000Z",
+          "txHash": "0x2d1686730d670d512f17d0d80ed2ff78ca5cb114be7a0eaafbf8388ed021f5ed",
+          "selector": "0x24977ef3",
+          "classification": "borrow_more_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 240589.70864925865,
+          "borrowed": 1257.2998334053893,
+          "logCount": 81,
+          "transferCount": 39
+        }
+      ],
+      "totalCollateralDeposited": 803506.5040951308,
+      "totalCrvUSDBorrowed": 4201.650866269673,
+      "leverageCollateral": 803506.5040951308,
+      "leverageBorrowed": 4201.650866269673,
+      "standardCollateral": 0,
+      "standardBorrowed": 0,
+      "firstBorrow": "2025-07-04T22:58:31.000Z",
+      "lastBorrow": "2025-07-04T23:07:49.000Z",
+      "leverageCount": 2,
+      "standardCount": 0
+    },
+    {
+      "address": "0xCC0b4fB77E21894120699E6d198ca611B082766d",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-03-20T01:05:41.000Z",
+          "txHash": "0xd46fb5d89088669418ddb0a23ac15f89e1392e7f815799a85d4fafdedf534e35",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 200000,
+          "borrowed": 2500,
+          "logCount": 6,
+          "transferCount": 2
+        }
+      ],
+      "totalCollateralDeposited": 200000,
+      "totalCrvUSDBorrowed": 2500,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 200000,
+      "standardBorrowed": 2500,
+      "firstBorrow": "2025-03-20T01:05:41.000Z",
+      "lastBorrow": "2025-03-20T01:05:41.000Z",
+      "leverageCount": 0,
+      "standardCount": 1
+    },
+    {
+      "address": "0x5abC63ebF1950d531408cf8E12cE24c047504847",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-05-08T07:07:17.000Z",
+          "txHash": "0x86d7d6ee7b83aea12754cb2c78d0bd0727d764367ac99a23dce62ea0f2ebdf32",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 45001.13014799603,
+          "borrowed": 500,
+          "logCount": 6,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-05-09T20:05:59.000Z",
+          "txHash": "0x14aa7c3c007754d0134ce89d92da63344adc80465d2819c5215e9eb3d94238ad",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 300,
+          "logCount": 6,
+          "transferCount": 1
+        },
+        {
+          "timestamp": "2025-05-18T19:45:33.000Z",
+          "txHash": "0x5d9c3a7e17505fb85f5a5f8b8aec613b19b2491447589b1734dfda1f76a1b587",
+          "selector": "0x24049e57",
+          "classification": "add_collateral (no borrow)",
+          "isLeverage": false,
+          "collateral": 4730.0076736135925,
+          "borrowed": 0,
+          "logCount": 6,
+          "transferCount": 1
+        }
+      ],
+      "totalCollateralDeposited": 49731.13782160962,
+      "totalCrvUSDBorrowed": 800,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 49731.13782160962,
+      "standardBorrowed": 800,
+      "firstBorrow": "2025-05-08T07:07:17.000Z",
+      "lastBorrow": "2025-05-18T19:45:33.000Z",
+      "leverageCount": 0,
+      "standardCount": 3
+    },
+    {
+      "address": "0xb51074Da03c55E79e3526cF6bBf31873443EfC63",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-04-27T09:30:53.000Z",
+          "txHash": "0x5e0d0553fe08609063fdfaefa8f715fb1cca33aef8976d0b7e76d1bfd440129e",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 93621.3680271974,
+          "borrowed": 500,
+          "logCount": 54,
+          "transferCount": 27
+        }
+      ],
+      "totalCollateralDeposited": 93621.3680271974,
+      "totalCrvUSDBorrowed": 500,
+      "leverageCollateral": 93621.3680271974,
+      "leverageBorrowed": 500,
+      "standardCollateral": 0,
+      "standardBorrowed": 0,
+      "firstBorrow": "2025-04-27T09:30:53.000Z",
+      "lastBorrow": "2025-04-27T09:30:53.000Z",
+      "leverageCount": 1,
+      "standardCount": 0
+    },
+    {
+      "address": "0x2CF70d98851fF4681d3CDe774191452ccC00029E",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-02-04T13:07:59.000Z",
+          "txHash": "0x70392756a3b9c9661b1fd551d10b5a25ca9e9827171bc724ca002d3f962cc71e",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 156980.16248341117,
+          "borrowed": 400,
+          "logCount": 67,
+          "transferCount": 32
+        }
+      ],
+      "totalCollateralDeposited": 156980.16248341117,
+      "totalCrvUSDBorrowed": 400,
+      "leverageCollateral": 156980.16248341117,
+      "leverageBorrowed": 400,
+      "standardCollateral": 0,
+      "standardBorrowed": 0,
+      "firstBorrow": "2025-02-04T13:07:59.000Z",
+      "lastBorrow": "2025-02-04T13:07:59.000Z",
+      "leverageCount": 1,
+      "standardCount": 0
+    },
+    {
+      "address": "0x1B3bBAb4f9975094b326C6b64644fF2723d163C4",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-07-22T19:24:53.000Z",
+          "txHash": "0xbebb0f4d280cd53fcbe0f55689acd3b5981983a5b5288f9edd8610484527beb7",
+          "selector": "0x4ba96d46",
+          "classification": "create_loan_extended (LEVERAGE)",
+          "isLeverage": true,
+          "collateral": 40801.19512953899,
+          "borrowed": 400,
+          "logCount": 45,
+          "transferCount": 23
+        }
+      ],
+      "totalCollateralDeposited": 40801.19512953899,
+      "totalCrvUSDBorrowed": 400,
+      "leverageCollateral": 40801.19512953899,
+      "leverageBorrowed": 400,
+      "standardCollateral": 0,
+      "standardBorrowed": 0,
+      "firstBorrow": "2025-07-22T19:24:53.000Z",
+      "lastBorrow": "2025-07-22T19:24:53.000Z",
+      "leverageCount": 1,
+      "standardCount": 0
+    },
+    {
+      "address": "0x50Cb3c7B8EAC3b33D4f1e2CB245437C68d27b726",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-04-10T02:13:31.000Z",
+          "txHash": "0xfa3d6b6ef70657997a3b2a1cbbdd3a859ed5f7ff27b2f7ff36aa3e01c0ec0f71",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 6205.569485623781,
+          "borrowed": 50.89237647818082,
+          "logCount": 6,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-04-10T02:24:31.000Z",
+          "txHash": "0xbcc6ba0adf979ec08e31e6968aa06d11015d1b39c27bf2a7ac6f2570fc254150",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 3157.6787438388105,
+          "borrowed": 50.03795501691037,
+          "logCount": 7,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2025-04-10T02:26:59.000Z",
+          "txHash": "0xddb0a7d734283cb1233bfbd43ed3efd4b86fb14e86806184151df165761f15f8",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 3090.958875521641,
+          "borrowed": 15,
+          "logCount": 7,
+          "transferCount": 2
+        }
+      ],
+      "totalCollateralDeposited": 12454.207104984233,
+      "totalCrvUSDBorrowed": 115.9303314950912,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 12454.207104984233,
+      "standardBorrowed": 115.9303314950912,
+      "firstBorrow": "2025-04-10T02:13:31.000Z",
+      "lastBorrow": "2025-04-10T02:26:59.000Z",
+      "leverageCount": 0,
+      "standardCount": 3
+    },
+    {
+      "address": "0xC6EF452b0de9E95Ccb153c2A5A7a90154aab3419",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2024-09-24T15:18:27.000Z",
+          "txHash": "0x5de7c210e59f4b1f8c01af6b7d98f7b203d27ce427c3f6d9a8429fbe07d8a403",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 18009.974390977357,
+          "borrowed": 32.440346070838864,
+          "logCount": 6,
+          "transferCount": 2
+        },
+        {
+          "timestamp": "2024-09-27T08:34:59.000Z",
+          "txHash": "0x85d90134f0a7a6b7d9c0c51d7613986affaf66d5f34ad1149f61a4b69ba0c943",
+          "selector": "0xdd171e7c",
+          "classification": "borrow_more (standard)",
+          "isLeverage": false,
+          "collateral": 0,
+          "borrowed": 1.5450567760462286,
+          "logCount": 6,
+          "transferCount": 1
+        }
+      ],
+      "totalCollateralDeposited": 18009.974390977357,
+      "totalCrvUSDBorrowed": 33.985402846885094,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 18009.974390977357,
+      "standardBorrowed": 33.985402846885094,
+      "firstBorrow": "2024-09-24T15:18:27.000Z",
+      "lastBorrow": "2024-09-27T08:34:59.000Z",
+      "leverageCount": 0,
+      "standardCount": 2
+    },
+    {
+      "address": "0x6Ab92DF64Db6C648e5c634062bfb8627783fb3d9",
+      "isSam": false,
+      "samWallet": null,
+      "events": [
+        {
+          "timestamp": "2025-06-23T00:11:59.000Z",
+          "txHash": "0x34183b1a2dc9a74b327a8bf08e55709e65e40211bf22b3b70edade752924a0cf",
+          "selector": "0x23cfed03",
+          "classification": "create_loan (standard)",
+          "isLeverage": false,
+          "collateral": 100,
+          "borrowed": 0.001,
+          "logCount": 6,
+          "transferCount": 2
+        }
+      ],
+      "totalCollateralDeposited": 100,
+      "totalCrvUSDBorrowed": 0.001,
+      "leverageCollateral": 0,
+      "leverageBorrowed": 0,
+      "standardCollateral": 100,
+      "standardBorrowed": 0.001,
+      "firstBorrow": "2025-06-23T00:11:59.000Z",
+      "lastBorrow": "2025-06-23T00:11:59.000Z",
+      "leverageCount": 0,
+      "standardCount": 1
+    }
+  ],
+  "sam_combined": {
+    "total_borrowed": 89129.04404236261,
+    "leverage_borrowed": 32227.393273633068,
+    "standard_borrowed": 56901.650768729545,
+    "leverage_count": 10,
+    "standard_count": 13,
+    "wallet1_first": "2024-10-31T04:13:17.000Z",
+    "wallet2_first": "2025-04-21T02:26:21.000Z",
+    "wallet2_opened_while_wallet1_active": true
+  },
+  "leverage_usage": {
+    "leveraged_borrowers": 8,
+    "standard_only_borrowers": 7
+  }
+}
